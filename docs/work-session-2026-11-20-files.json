@@ -2,39 +2,46 @@
   "saved_on": "2026-11-20",
   "repository": "maryglows/diploma-design",
   "branch": "codex/project-work-2026-11-20",
-  "scope": "New and modified project files from current chat, including author-edited teacher text; previous tracked files remain available in branch history. Manifest excludes itself.",
-  "file_count": 139,
-  "total_bytes": 268363202,
+  "verified_uploaded_artifact_commit": "2f3845a2e812eec2eb2e47fe90f4dcd79b720dbd",
+  "pull_request": "https://github.com/maryglows/diploma-design/pull/3",
+  "hash_basis": "Git blob content after text normalization; original transcript bytes preserved using .gitattributes. Manifest excludes itself. Includes new and modified files since 4a1825c; earlier project files remain in branch.",
+  "file_count": 140,
+  "total_bytes": 268361416,
   "files": [
     {
+      "path": ".gitattributes",
+      "bytes": 115,
+      "sha256": "166e57ea3e0603a1e449f30969e5e65dafb6e3183157c921f5b23bf466c6445f"
+    },
+    {
       "path": "CURRENT.md",
-      "bytes": 53302,
-      "sha256": "46c431fc04da39a38ffda7259593b4d2e5c748eb6b75e71e1dfb20edcb9aeb9e"
+      "bytes": 53699,
+      "sha256": "95e102e10822db690f7a9b76404e049d95c7bb35446ab38fe5f506669bf1b42a"
     },
     {
       "path": "DECISIONS.md",
-      "bytes": 28798,
-      "sha256": "3f8016d13ae91de6913e446eb167401bf2c8eec6ab34711e594332ee66b6f1ce"
+      "bytes": 28700,
+      "sha256": "caf7d426ab1ba0e09ef2b8d4c5f2b6f0d6d29430c664876355046eaef3fb23a8"
     },
     {
       "path": "PROJECT.md",
-      "bytes": 13939,
-      "sha256": "9f74b706ebd5a1528f581a2bbd58ad8e80b42564ad934d45c739f9b426c8543d"
+      "bytes": 13879,
+      "sha256": "60f89caac47cb0c389b5b6025d994d6d155a665e1c179d219a84e2908446da80"
     },
     {
       "path": "README.md",
-      "bytes": 8458,
-      "sha256": "7950ce59068c1d238ed29570103c7a73a28b038f283ff9a24d9291b0dd1677db"
+      "bytes": 8589,
+      "sha256": "aaec5f9bd82e9fbf2123864738b7ff246ee59538f8fedbdcd2c68a28526304b0"
     },
     {
       "path": "TASKS.md",
-      "bytes": 21463,
-      "sha256": "8936370a1b1e3191519e59aafe2b6f9575a9b2f1a320fb49c2bc4bec0a32231d"
+      "bytes": 21486,
+      "sha256": "9c5c22d4496b47c0a2700a00d655e3553a905be319e72a375435767472a8abdd"
     },
     {
       "path": "design/README.md",
-      "bytes": 4009,
-      "sha256": "feee2269f54387b010b3806eec03cc00adbd82fb99f64e72f40bb2b2154a8d89"
+      "bytes": 3996,
+      "sha256": "f5a80c4a0a0d7c68deafe41c6ee7c299c70b01f86c9ad66c78dfe368c371e2e2"
     },
     {
       "path": "design/assets/concepts-2026-11-06/form-studies.png",
@@ -153,33 +160,33 @@
     },
     {
       "path": "docs/verification-2026-11-20/consultation-03-2026-11-06.json",
-      "bytes": 390,
-      "sha256": "af619622f7032ade1e10449c3dc7882fbec098322c925c42f793091dee7bbe81"
+      "bytes": 379,
+      "sha256": "ac0200961aad60573f58eaa421d258ddd685f39e7e44db365b03eba1fe588d42"
     },
     {
       "path": "docs/verification-2026-11-20/movement-form-2026-11-06.json",
-      "bytes": 231,
-      "sha256": "46746cfab64b81a8b116f2a6221bee01a59478889403189626192200497817d0"
+      "bytes": 221,
+      "sha256": "e9a1d72770437bed6ea3303942a0110eb547b50834821544a47bb3af2af671dc"
     },
     {
       "path": "docs/verification-2026-11-20/no-drill-update-2026-11-06.json",
-      "bytes": 3032,
-      "sha256": "df848d14b3618b5ede2802ecae4b889da62685a61392cd864f76aa8a5279ef9d"
+      "bytes": 2930,
+      "sha256": "bdd08a8cce7df8b5deeda8efa866bbd62204898b8b06762412ff4409e8a810d0"
     },
     {
       "path": "docs/verification-2026-11-20/publication-check.json",
-      "bytes": 217,
-      "sha256": "4225acfc81d45519f9056824bf79b61affd3619063f8c7ff20abb99f9a4e7f57"
+      "bytes": 206,
+      "sha256": "3e3169825248a891a106bb7bbc673fb9253193006f57c657301ce6cc9d995526"
     },
     {
       "path": "docs/verification-2026-11-20/s-rank-2026-11-06.json",
-      "bytes": 3936,
-      "sha256": "5e0ded4b21718ed9f15cac80bb2f1bb0b51aceb44b577ff896ddf0ecf174ad7a"
+      "bytes": 3779,
+      "sha256": "bfe6b2b343e5f5525154c037429bea5edf9300269701cb393d86a6bc145758e1"
     },
     {
       "path": "docs/work-session-2026-11-20.md",
-      "bytes": 4579,
-      "sha256": "4becbba321b449acd6c80636e3a4ccf697f6269dbda0d4711bf5abf52586089a"
+      "bytes": 5553,
+      "sha256": "e1d7025873c028c638906a3628b2d09db1d42f21c4481b6af69a8a8a15ea2169"
     },
     {
       "path": "meetings/raw/teacher-discussion-02.md",
@@ -218,8 +225,8 @@
     },
     {
       "path": "outputs/current/Function_selection_2026-11-06.csv",
-      "bytes": 9215,
-      "sha256": "749d19b840b17d83ad9fb6f9c03c88ad789569fc41e2599d828edcd98d85dd70"
+      "bytes": 9205,
+      "sha256": "8679bfeb89c67d94c32df09b5a98223b766fe5c3c4c36b674f53496adec28c74"
     },
     {
       "path": "outputs/current/Functions_and_layouts_A3_2026-11-06.html",
@@ -243,38 +250,38 @@
     },
     {
       "path": "outputs/current/Functions_and_layouts_A3_2026-11-06_03.svg",
-      "bytes": 2508398,
-      "sha256": "437326be997da8d1d98350ddb6f32931aa7830a4ef798fd228f8865aa0185a98"
+      "bytes": 2508354,
+      "sha256": "cbee8ec30ea201e8f5dae5ac0e3d970f36082cecd96a9a987c2605bad2b36ebe"
     },
     {
       "path": "outputs/current/Functions_and_layouts_A3_2026-11-06_04.svg",
-      "bytes": 2493210,
-      "sha256": "104c70d057cfa9e4c61f9c76c59441a9d4ddbce64e81008ecb06f0d7a381e4c4"
+      "bytes": 2493167,
+      "sha256": "f2d606c42551dd99d80482efccca592a1ff5ac546467c0b3fe2dad055aa9eef1"
     },
     {
       "path": "outputs/current/Functions_and_layouts_A3_2026-11-06_05.svg",
-      "bytes": 2082908,
-      "sha256": "d9b0f77def2c8c16f71e91d55376117aad169983cc7a2b21270432a4e429ecb2"
+      "bytes": 2082865,
+      "sha256": "603868c4a2538340069c16621192e4f45b1eb4fa0a3a6dbbb343fd6455fdbcdb"
     },
     {
       "path": "outputs/current/Functions_and_layouts_A3_2026-11-06_06.svg",
-      "bytes": 2458660,
-      "sha256": "480554d20699159dd826bff8705073d65d07d9ba1436ec5e5c778676dc21ddf2"
+      "bytes": 2458615,
+      "sha256": "400030e8ef72c663a7e3ab1ea0a9aec3b8e942e7147760ef74050cc3a2e7170a"
     },
     {
       "path": "outputs/current/Functions_and_layouts_A3_2026-11-06_07.svg",
-      "bytes": 1938683,
-      "sha256": "f9f051f5a90d94a59516b100e3ebb70bb79548a564cab3ffa368d9bac0d234ee"
+      "bytes": 1938660,
+      "sha256": "48e36f2aac74d956c4c7614eb61398204f7a5fae3e432372c6f91fb74212ee23"
     },
     {
       "path": "outputs/current/Functions_and_layouts_A3_2026-11-06_08.svg",
-      "bytes": 7019697,
-      "sha256": "94cf90fa7fc4251d254e38ccf72fedb1395bf67df327be1d8b8925a9ca806872"
+      "bytes": 7019651,
+      "sha256": "789c292e3dffc3d2954062474adafe2bf301dec5675e935633cbf5d876fab30d"
     },
     {
       "path": "outputs/current/Functions_and_layouts_explained_A4_2026-11-06.md",
-      "bytes": 27573,
-      "sha256": "172d55ff9f4788feec3d5a12bcd0dda5341a1cec296bf321b7e4915c141172ce"
+      "bytes": 27331,
+      "sha256": "abf766cd70ded57a745f1b46aafca9a4a39472cc58b8991ba9a1f422e879c637"
     },
     {
       "path": "outputs/current/Functions_and_layouts_explained_A4_2026-11-06.pdf",
@@ -293,8 +300,8 @@
     },
     {
       "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_01.svg",
-      "bytes": 4315726,
-      "sha256": "ed14407ac5284fb35538ccf83095d4e6fed6aba522a00ff93d414a1b8f7c64fb"
+      "bytes": 4315691,
+      "sha256": "b51ee659b13a92db113b5a025937a8653fe00bdfe7d1e5a58ac1b2bd1d74f2c8"
     },
     {
       "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_02.svg",
@@ -313,13 +320,13 @@
     },
     {
       "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_05.svg",
-      "bytes": 2443397,
-      "sha256": "e914dbed5ae264fc281c908afd552b39ef76a44286c6cbe9003f8e90b407ba6c"
+      "bytes": 2443350,
+      "sha256": "313b1d2192185bdcc81fa7db04753c5746d7503c6293b9c0dd6414b80286b07b"
     },
     {
       "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_06.svg",
-      "bytes": 2516755,
-      "sha256": "a8bfe3dd20f10bd1a91326e1c212bef3e5358c730bac55d38009d619c829f998"
+      "bytes": 2516708,
+      "sha256": "3836a7410547665d9bd2837a49dcd57d937e6da5ba3aa0cd5fe15e00e7805ba9"
     },
     {
       "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_07.svg",
@@ -328,8 +335,8 @@
     },
     {
       "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_08.svg",
-      "bytes": 4950783,
-      "sha256": "7a6cc550ab53b703649c85f84d69b138f526b314f212ae982e77faf9103b2fa9"
+      "bytes": 4950743,
+      "sha256": "b6b575d5f455c54802cfe7ef98a5dfa527a22da96c0d1cf2b34c0ba0cc3a8284"
     },
     {
       "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_v2.html",
@@ -343,8 +350,8 @@
     },
     {
       "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_v2_01.svg",
-      "bytes": 4316157,
-      "sha256": "43da9ee8f17e48e8b805d7b6500a8855ac1b200a5aab8e8d20ea17b1aec05ed7"
+      "bytes": 4316120,
+      "sha256": "36b095d9dc64fdc60e4b6103b55aa5578c3fd18cea52c18c8f397166f965136c"
     },
     {
       "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_v2_02.svg",
@@ -353,23 +360,23 @@
     },
     {
       "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_v2_03.svg",
-      "bytes": 1556191,
-      "sha256": "9ab102cc5f527a0a043774013f47d271946bb2e688d65a06cbc90df86ef67075"
+      "bytes": 1556151,
+      "sha256": "d221921d9315ed8ae6faf3899cc32599518cc340b8a54debb903b1c49a638638"
     },
     {
       "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_v2_04.svg",
-      "bytes": 2899205,
-      "sha256": "2998012a33f7212310a185d0ef390b6a68d5062096c2b10a399c16e86ed5436c"
+      "bytes": 2899181,
+      "sha256": "5b328ede5eab98b929b90235ca65959ea3a15ec3ad285808d29b24f3f4f534a3"
     },
     {
       "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_v2_05.svg",
-      "bytes": 2443397,
-      "sha256": "e914dbed5ae264fc281c908afd552b39ef76a44286c6cbe9003f8e90b407ba6c"
+      "bytes": 2443350,
+      "sha256": "313b1d2192185bdcc81fa7db04753c5746d7503c6293b9c0dd6414b80286b07b"
     },
     {
       "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_v2_06.svg",
-      "bytes": 2645280,
-      "sha256": "3546bf7982e3c03a9245f353089b2fa8b91a6a24940d3355f1e5b91431c449ac"
+      "bytes": 2645231,
+      "sha256": "fa8f5208f1d318c5eb77d479b1c48f038d138e69120aa1a9f8cceb8730eab3bd"
     },
     {
       "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_v2_07.svg",
@@ -378,8 +385,8 @@
     },
     {
       "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_v2_08.svg",
-      "bytes": 5078887,
-      "sha256": "2540504ce7e124cb6c3fff26b1ed49c526f0612f47e8cc8128cf411631e3e12e"
+      "bytes": 5078847,
+      "sha256": "0fdfd89292f88f09263b401802a0ca8dd027839c891513e3f1f664f6389b6e4b"
     },
     {
       "path": "outputs/current/Movement_and_form_studies_A3_2026-11-06.pdf",
@@ -388,28 +395,28 @@
     },
     {
       "path": "outputs/current/Movement_and_form_studies_A3_2026-11-06_01.svg",
-      "bytes": 11606,
-      "sha256": "2d94a794b30b643bf3702245afc25ba88d208c650ca65ba9b32c8adf174db1b5"
+      "bytes": 11546,
+      "sha256": "0fe4219cd733e989c15b937a5d5ab0188fb4af4887725adade98f6ded9fd269b"
     },
     {
       "path": "outputs/current/Movement_and_form_studies_A3_2026-11-06_02.svg",
-      "bytes": 30735,
-      "sha256": "f5d966fe5080c40e1036355a233df3fdd33938004823499332a9d55fa02bd126"
+      "bytes": 30562,
+      "sha256": "3cda1382b0063dd0532e56f7222fe5bffb698262f4568596e82c8a9bf1bc3eb8"
     },
     {
       "path": "outputs/current/Movement_and_form_studies_A3_2026-11-06_03.svg",
-      "bytes": 14192,
-      "sha256": "13b685a3fcae77e47760709c8b79e7135ac140207bc96a6c72ea1594ef69d9ba"
+      "bytes": 14111,
+      "sha256": "6a2a9cf0ade3ea384c48fe4ee51f642aaf5ae6f514cb6334633c549328dd132d"
     },
     {
       "path": "outputs/current/Movement_and_form_studies_A3_2026-11-06_04.svg",
-      "bytes": 2589244,
-      "sha256": "4525052bb4735d4be31db0353f06de4cfaf663d0572622236e8a7c74d939854b"
+      "bytes": 2589235,
+      "sha256": "89eb32e10e90e405591d06026323db45b959a844c30931c53d35f5fb315cb897"
     },
     {
       "path": "outputs/current/Movement_and_form_studies_A3_2026-11-06_05.svg",
-      "bytes": 15116,
-      "sha256": "66c541ed7442a7b4182d84e28f3e886758826a4cb86372dfd9c5e58863f5ec74"
+      "bytes": 15030,
+      "sha256": "4e1736d35674fa1023466d3d5abd6f40729a34f9d21563c75ad42ce10cf0d070"
     },
     {
       "path": "outputs/current/Movement_and_form_studies_A3_2026-11-06_v2.pdf",
@@ -418,8 +425,8 @@
     },
     {
       "path": "outputs/current/People_cutouts_A4_2026-10-29.html",
-      "bytes": 5553718,
-      "sha256": "190308d0a891405ef61f195907e6fde388d9f4fcdc37424cfe38ff43bf883e1f"
+      "bytes": 5553679,
+      "sha256": "045d614857b035d810e57c982804cc7de4a1ad406f8ccf5dc80255c7d249725a"
     },
     {
       "path": "outputs/current/People_cutouts_A4_2026-10-29.pdf",
@@ -428,13 +435,13 @@
     },
     {
       "path": "outputs/current/README.md",
-      "bytes": 32089,
-      "sha256": "58cdeb69e7fd57606f6addbbce112a342fcdb8793cd33c55b230c24e03a2bed7"
+      "bytes": 32410,
+      "sha256": "0c36ab787d60ee2d62c756eb0dfb4c38eb1e1e6ea072e6ac9c149ca8cd501323"
     },
     {
       "path": "outputs/current/Reference_sketches_explained_A4_2026-11-06.md",
-      "bytes": 30538,
-      "sha256": "8248344bf6ef9f4800e5ab435ce03f5b6ce8f9a06f034683e68feccf9a4402a3"
+      "bytes": 30273,
+      "sha256": "b18567da6e41dcf71fcc55771794a1318c5aff77dcdecc41c201ba27632d966f"
     },
     {
       "path": "outputs/current/Reference_sketches_explained_A4_2026-11-06.pdf",
@@ -443,8 +450,8 @@
     },
     {
       "path": "outputs/current/Reference_sketches_explained_A4_2026-11-06_v2.md",
-      "bytes": 30997,
-      "sha256": "231f2d0543cb7a2b6cd9794e916cd9ce2db39f85a1becc9be62dc4ce732dbedf"
+      "bytes": 30732,
+      "sha256": "47ff02330e0a0b2cee7b4b4c119c8915d2c1e50f73089e9c7ffc14ade516a1f0"
     },
     {
       "path": "outputs/current/Reference_sketches_explained_A4_2026-11-06_v2.pdf",
@@ -478,18 +485,18 @@
     },
     {
       "path": "outputs/current/Simple_movement_schemes_A3_2026-11-06_01.svg",
-      "bytes": 14918,
-      "sha256": "1aad235e15aac38e3d9f3709f1d0f0e39b0db287793ed60808e485d4cf326108"
+      "bytes": 14827,
+      "sha256": "7a51535c959b5291296418e10d7f7581a31e30577382e82d5c99e1387c8d23e6"
     },
     {
       "path": "outputs/current/Simple_movement_schemes_A3_2026-11-06_02.svg",
-      "bytes": 14776,
-      "sha256": "b06eff98269e8bc2d44ec1ec247fd2c855ef7d0b9b04c3aafc2b8a63aafc2e11"
+      "bytes": 14687,
+      "sha256": "46d811f0a1c3cc44018d0503dee84449649d8a8657830e87e83d045077584f0c"
     },
     {
       "path": "outputs/current/Simple_movement_schemes_A3_2026-11-06_03.svg",
-      "bytes": 15839,
-      "sha256": "d13642757aab1d1df63c2d7309fdd31b9b1b7ee023c4d6a6d88af9e53c2ab1b9"
+      "bytes": 15746,
+      "sha256": "b8deab93a9a2a4787e944d6a94d0a07285dae35f0c095fe037e1eb79e1b9b255"
     },
     {
       "path": "outputs/current/Spatial_analysis_A3_2026-10-30.pdf",
@@ -498,13 +505,13 @@
     },
     {
       "path": "outputs/current/Spatial_analysis_A3_2026-10-30_01_solo.svg",
-      "bytes": 27523,
-      "sha256": "b04af13ca922c25ace16819e0eb79c6d2361183835165de9bc5ea9fc948b4122"
+      "bytes": 27363,
+      "sha256": "d25e8088dbc8f8808d64f1434d731b4a5df6af4d557beb84382461383fce2501"
     },
     {
       "path": "outputs/current/Spatial_analysis_A3_2026-10-30_02_family.svg",
-      "bytes": 37537,
-      "sha256": "604c406497d62f2083430de6978cf255bceb5af8fd62839a84c0aa513716e8b3"
+      "bytes": 37319,
+      "sha256": "7be471cfcbc02ca80e8e00ec589d8d15ff4c272b80c488b742f280b90e691d1a"
     },
     {
       "path": "outputs/current/Teacher_talking_points_2026-11-06.md",
@@ -563,8 +570,8 @@
     },
     {
       "path": "research/people-cutouts-2026-10-29.json",
-      "bytes": 7683,
-      "sha256": "fa1a0d914216aac3f9abf6f7244ae20bf9bd756a070b575fa861858c86dd5c9c"
+      "bytes": 7487,
+      "sha256": "2a98e4aac1d72ce36ba2790100a9bbfc6d53e69c0bfd45d1caa633b08bfe3967"
     },
     {
       "path": "research/reference-update-2026-11-06.json",
@@ -573,13 +580,13 @@
     },
     {
       "path": "research/reference-update-2026-11-06_v2.json",
-      "bytes": 9518,
-      "sha256": "5e66a30bb36613b8e1bad0cc56782a7bf93c0503b5ec4e8f5e86305ea646e7ba"
+      "bytes": 9456,
+      "sha256": "500222b993f1ebbaa0c3925dc90258671e3e24a9cc6089ad36340e9836d67369"
     },
     {
       "path": "research/s-rank-development-2026-11-06.json",
-      "bytes": 31565,
-      "sha256": "92d2f9ed3b5d6819c31de50b6042192958c5aa7dd44322bb3eb4b0bef54884fa"
+      "bytes": 31224,
+      "sha256": "89dc6c82db566246eb2a0cf59e0b0930d98ab0ee03793091e06ef2e36fd220bb"
     },
     {
       "path": "research/s-rank-development-2026-11-06.md",
@@ -608,8 +615,8 @@
     },
     {
       "path": "research/scenarios-2026-10-30_v2.json",
-      "bytes": 10603,
-      "sha256": "b58e861b5e08510556b7c7e1b092e365b1f7ad865679e34b355e0700391d3a3c"
+      "bytes": 10448,
+      "sha256": "a194f8e8b28f68df26e7bd4ae8cae5471acbb5be84b2bb5375d80cb9df760f83"
     },
     {
       "path": "research/simple-movement-schemes-2026-11-06.json",
