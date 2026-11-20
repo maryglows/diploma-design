@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-29",
+  "purpose": "Only existing photographs of people, arranged for cutting. No research text.",
+  "page_size_mm": [
+    210,
+    297
+  ],
+  "margin_mm": 10,
+  "gutter_mm": 6,
+  "columns": 2,
+  "rows": 3,
+  "min_effective_dpi": 120,
+  "selection_method": "Visual review of all 81 distinct raster candidates from original research assets and 22 PPTX/DOCX/PDF files. Recompressed and resized copies are represented once using the original asset. Different movement phases remain separate. Two photographs of analogues in use contain people and are included. Product-only pictures, inventory drawings and schematic figures are excluded.",
+  "scanned_files": [
+    "outputs/archive/Diplom_home_training_A3.pdf",
+    "outputs/archive/Inventory_small_cards_A4.pdf",
+    "outputs/current/Age_group_boards_2026-10-24_v3.pdf",
+    "outputs/current/Age_group_boards_2026-10-24_v3.pptx",
+    "outputs/current/Age_group_boards_2026-10-24_v3_01_children.pdf",
+    "outputs/current/Age_group_boards_2026-10-24_v3_02_young_adults.pdf",
+    "outputs/current/Age_group_boards_2026-10-24_v3_03_older_adults.pdf",
+    "outputs/current/Diploma_research_summary_2026-10-25.pdf",
+    "outputs/current/Diploma_research_summary_2026-10-25.pptx",
+    "outputs/current/Diploma_research_summary_2026-10-25_v2.pdf",
+    "outputs/current/Diploma_research_summary_2026-10-25_v2.pptx",
+    "outputs/current/Diploma_research_worksheets_A3.pdf",
+    "outputs/current/Diploma_work_plan.pdf",
+    "outputs/current/Diploma_work_plan.pptx",
+    "outputs/current/Platform_concept_research_2026-10-24.docx",
+    "outputs/current/Research_board_01_2026-10-24.pdf",
+    "outputs/current/Research_board_01_2026-10-24.pptx",
+    "outputs/current/Review_boards_A3.pdf",
+    "outputs/current/Review_boards_editable.pptx",
+    "outputs/current/Review_optional_board_A3.pdf",
+    "outputs/current/Review_presentation.pdf",
+    "outputs/current/Review_presentation.pptx"
+  ],
+  "images": [
+    {
+      "path": "research/assets/age-groups/child-1.jpg",
+      "sha256": "fbd0734a12ef8dbb32438a51cc61a5747c7f0c9d9993c2c47583973d7b0cbc59",
+      "inventory_id": 9,
+      "group": "children"
+    },
+    {
+      "path": "research/assets/age-groups/child-2.jpg",
+      "sha256": "f974f25d707281917b49a7a80a5d919656b58377c998cf760c5d0a12129ec22c",
+      "inventory_id": 10,
+      "group": "children"
+    },
+    {
+      "path": "research/assets/age-groups/child-3.jpg",
+      "sha256": "696c92a2b66d35b894723034183a2e4bc77da667c04c57ee12f5e54081622858",
+      "inventory_id": 11,
+      "group": "children"
+    },
+    {
+      "path": "research/assets/age-groups/child-4.jpg",
+      "sha256": "afc50e249a3cb57d710e88d3cf6da7f45da7ebf34d2bfcffbf3f1786ffc68791",
+      "inventory_id": 12,
+      "group": "children"
+    },
+    {
+      "path": "research/assets/age-groups/child-5.jpg",
+      "sha256": "4fb4105c9376b832d025a36cce565c8db55afaead766215e2dcee385b3868fb1",
+      "inventory_id": 13,
+      "group": "children"
+    },
+    {
+      "path": "research/assets/age-groups/child-6.jpg",
+      "sha256": "83233647788be66d75b511dd5ce2cbdecf53d17e509745571032979587b0b08f",
+      "inventory_id": 14,
+      "group": "children"
+    },
+    {
+      "path": "research/assets/age-groups/child-7.jpg",
+      "sha256": "e851c7b4ce66d01cb597d02de2b91a8d9ed65f86bc8d6a9abe2f6034ecee8bdc",
+      "inventory_id": 15,
+      "group": "children"
+    },
+    {
+      "path": "research/assets/age-groups/child-8.jpg",
+      "sha256": "7ce75b09afee8a860911b01bada15dd8386f143a3cd1ffd63cff68283bd418ca",
+      "inventory_id": 16,
+      "group": "children"
+    },
+    {
+      "path": "research/assets/age-groups/child-bunny-1.jpg",
+      "sha256": "5b2a2f9f4ee458c2f4c865e8a8244911767203ad4a9aee71e3789a1d2536b9f1",
+      "inventory_id": 17,
+      "group": "children"
+    },
+    {
+      "path": "research/assets/age-groups/child-bunny-2.png",
+      "sha256": "f005055b49de8fb35252b6fa41ce98495dbebc30dba515cf1400f46d6b5a5a70",
+      "inventory_id": 18,
+      "group": "children"
+    },
+    {
+      "path": "research/assets/age-groups/youth-goblet.jpg",
+      "sha256": "a386abee89f4348f5b58d1f155f12319ea23ef45038630530f1ae85b631c448a",
+      "inventory_id": 25,
+      "group": "young_adults"
+    },
+    {
+      "path": "research/assets/age-groups/youth-goblet-lowered.jpg",
+      "sha256": "b36fe4f19ce904123636b48765a6a2870df13e57f76be07e272846ca0e36a59c",
+      "inventory_id": 24,
+      "group": "young_adults"
+    },
+    {
+      "path": "research/assets/age-groups/youth-rdl-dumbbells.jpg",
+      "sha256": "9e402686eb2adf8ba395412a4b6cce842537b2a5bfbd73bd59eb0b07f3c9a090",
+      "inventory_id": 28,
+      "group": "young_adults"
+    },
+    {
+      "path": "research/assets/age-groups/youth-row.jpg",
+      "sha256": "9e84fff9d9900b57ffe1d22c560c59b8e2e288776b0609417a33f79a5a36788e",
+      "inventory_id": 29,
+      "group": "young_adults"
+    },
+    {
+      "path": "research/assets/age-groups/youth-pushup.jpg",
+      "sha256": "2daac3f832478c4ef000d0d681e38faa19c0256d63c9958f5ddcf24f0287c186",
+      "inventory_id": 27,
+      "group": "young_adults"
+    },
+    {
+      "path": "research/assets/age-groups/youth-press.jpg",
+      "sha256": "ffae340d17605f53cba126cd888086f1c338f2b4af6d0690a645a866bbe37394",
+      "inventory_id": 26,
+      "group": "young_adults"
+    },
+    {
+      "path": "research/assets/age-groups/youth-side-plank.jpg",
+      "sha256": "7ef112c69eae1c8de470b27bf89e395ec5c7325b50ecc3edf10089bcc5ec0fa2",
+      "inventory_id": 30,
+      "group": "young_adults"
+    },
+    {
+      "path": "research/assets/age-groups/older-chair-stand.png",
+      "sha256": "9390e488b543c594c1a3489301039dc17c3bf121abf3ce67384c38eb2f6f897c",
+      "inventory_id": 20,
+      "group": "older_adults"
+    },
+    {
+      "path": "research/assets/age-groups/older-seated-row.png",
+      "sha256": "eac318a34c06ee8eb741ec2ce7b6de529a3d37ebeea86d88c8e03d6cc05a67ba",
+      "inventory_id": 21,
+      "group": "older_adults"
+    },
+    {
+      "path": "research/assets/age-groups/older-wall.jpg",
+      "sha256": "72d349f1974f7b4559d1c03fd62d09c96074efa513f78dd033072ad1fea7b15b",
+      "inventory_id": 23,
+      "group": "older_adults"
+    },
+    {
+      "path": "research/assets/age-groups/older-calf.jpg",
+      "sha256": "49260456a0cae09118f7934bc65a45f82928359e4f64efeb6c895b7d14fe4235",
+      "inventory_id": 19,
+      "group": "older_adults"
+    },
+    {
+      "path": "research/assets/age-groups/older-twist.jpg",
+      "sha256": "b5fdb7064d1cf58aaa3aa73d2768d6159aa254c45a6a477648d8517f524e08b0",
+      "inventory_id": 22,
+      "group": "older_adults"
+    },
+    {
+      "path": "research/assets/board-1/nhs-sideways-walking.jpg",
+      "sha256": "f57f612b3be5b2ce6be2599b5485b910a84a347efbae82f61fca9d715bf584f7",
+      "inventory_id": 31,
+      "group": "older_adults"
+    },
+    {
+      "path": "research/assets/board-1/nhs-sit-to-stand.jpg",
+      "sha256": "9269cd7010d83e1d8f6f0d053d037ed152fe41c565237a5a2be8234be34102e5",
+      "inventory_id": 32,
+      "group": "older_adults"
+    },
+    {
+      "path": "research/analogs/photos/01_Technogym_Bench.png",
+      "sha256": "4cf9e81747835f20a76dd5c1f59b11bd0c798ec0514c8b864cfb5e15b335cec1",
+      "inventory_id": 1,
+      "group": "analogue_in_use"
+    },
+    {
+      "path": "research/analogs/photos/02_NOHRD_StepBox.jpg",
+      "sha256": "4c1cd503b9bbbbcf877f729284458d38ebe4b57fa85c001f89810f35e6cc87a8",
+      "inventory_id": 3,
+      "group": "analogue_in_use"
+    }
+  ]
+}

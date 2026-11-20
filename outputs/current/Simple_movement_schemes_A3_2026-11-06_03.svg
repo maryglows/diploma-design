@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 420 297">
+<rect width="420" height="297" fill="white"/>
+<text x="12" y="19" font-family="Arial" font-size="8.113888888888887" font-weight="700" fill="#203540" text-anchor="start">Поворот, шаг и взаимодействие</text>
+<text x="12" y="30" font-family="Arial" font-size="4.2333333333333325" font-weight="400" fill="#203540" text-anchor="start">Человечки показывают движение. Стрелки помогают проследить, что меняется.</text>
+<text x="12" y="39.0" font-family="Arial" font-size="3.7041666666666666" font-weight="400" fill="#203540" text-anchor="start">Размеры - прежние пробные предположения для примерки в комнате. Их ещё нужно проверить обмером. Рисунки без масштаба.</text>
+<rect x="12" y="52" width="396" height="73" fill="#F8FAFA" stroke="#E9EDEF" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="17" y="60" font-family="Arial" font-size="5.291666666666667" font-weight="700" fill="#087F80" text-anchor="start">Повернуть корпус сидя</text>
+<line x1="21" y1="115" x2="188" y2="115" fill="none" stroke="#667780" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="40" y="94" width="22" height="3" fill="#E9EDEF" stroke="#667780" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="41" y1="96" x2="41" y2="115" fill="none" stroke="#667780" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="61" y1="96" x2="61" y2="115" fill="none" stroke="#667780" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="51" y1="93" x2="51" y2="79" fill="none" stroke="#667780" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="51,93 43,96 43,114 38,114" fill="none" stroke="#667780" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="51,93 59,96 59,114 64,114" fill="none" stroke="#667780" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="51" cy="72" r="3.5" fill="#FFFFFF" stroke="#667780" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="41" y1="80" x2="61" y2="80" fill="none" stroke="#667780" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="41,80 46,88 58,83" fill="none" stroke="#667780" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="61,80 56,88 44,83" fill="none" stroke="#667780" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="51" y="121" font-family="Arial" font-size="3.5277777777777777" font-weight="400" fill="#667780" text-anchor="middle">Смотрит вперёд</text>
+<rect x="133" y="94" width="22" height="3" fill="#E9EDEF" stroke="#667780" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="134" y1="96" x2="134" y2="115" fill="none" stroke="#667780" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="154" y1="96" x2="154" y2="115" fill="none" stroke="#667780" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="144" y1="93" x2="144" y2="79" fill="none" stroke="#087F80" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="144,93 136,96 136,114 131,114" fill="none" stroke="#087F80" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="144,93 152,96 152,114 157,114" fill="none" stroke="#087F80" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="146" cy="72" r="3.5" fill="#FFFFFF" stroke="#087F80" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="139" y1="80" x2="151" y2="80" fill="none" stroke="#087F80" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="139,80 142,88 153,83" fill="none" stroke="#087F80" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="151,80 156,86 145,85" fill="none" stroke="#087F80" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="148" cy="72" r="0.4" fill="#087F80" stroke="#087F80" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="129.7341522555727,68.90983005625053 130.4275942130097,67.74220708434927 131.33508111746977,66.64173205021004 132.44230135836315,65.6257601025131 133.73179341106967,64.71031372578588 135.18322121561292,63.90983005625053 136.77369488847427,63.23693319956136 138.47813170972984,62.702235141117484 140.2696516925272,62.31416838871369 142.12000149653545,62.078852986855225 144.0,62.0 145.87999850346458,62.078852986855225 147.7303483074728,62.31416838871369 149.52186829027016,62.702235141117484 151.22630511152573,63.23693319956136 152.8167787843871,63.90983005625053 154.26820658893033,64.71031372578588 155.55769864163685,65.62576010251311 156.66491888253023,66.64173205021004 157.5724057869903,67.74220708434927 158.2658477444273,68.90983005625053" fill="none" stroke="#AE4775" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="157.5724057869903" y1="67.74220708434927" x2="158.2658477444273" y2="68.90983005625053" fill="none" stroke="#AE4775" stroke-width="0.45" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="158.2658477444273,68.90983005625053 158.14186664515273,67.87855478406435 157.41963368993862,68.30748316783338" fill="#AE4775" stroke="#AE4775" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="144" y="121" font-family="Arial" font-size="3.5277777777777777" font-weight="400" fill="#667780" text-anchor="middle">Поворачивает плечи</text>
+<line x1="82" y1="87" x2="109" y2="87" fill="none" stroke="#AE4775" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="109,87 108.05,86.58 108.05,87.42" fill="#AE4775" stroke="#AE4775" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="196" y="70" font-family="Arial" font-size="4.056944444444444" font-weight="700" fill="#203540" text-anchor="start">Что делает человек</text>
+<text x="196" y="76.0" font-family="Arial" font-size="3.951111111111111" font-weight="400" fill="#203540" text-anchor="start">Человек сидит на стуле и поворачивает верх тела в сторону. Стопы остаются на полу.</text>
+<text x="196" y="93" font-family="Arial" font-size="4.056944444444444" font-weight="700" fill="#203540" text-anchor="start">Какое место оставить</text>
+<text x="196" y="99.0" font-family="Arial" font-size="3.951111111111111" font-weight="400" fill="#203540" text-anchor="start">По бокам нужно место для рук и локтей. Соседний шкаф не должен мешать повороту.</text>
+<text x="196" y="119" font-family="Arial" font-size="3.951111111111111" font-weight="700" fill="#087F80" text-anchor="start">Для примерки со стулом: 200 × 160 см</text>
+<rect x="12" y="130" width="396" height="73" fill="#F8FAFA" stroke="#E9EDEF" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="17" y="138" font-family="Arial" font-size="5.291666666666667" font-weight="700" fill="#087F80" text-anchor="start">Сделать шаг в сторону</text>
+<line x1="21" y1="193" x2="188" y2="193" fill="none" stroke="#667780" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="39" cy="147" r="3.5" fill="#FFFFFF" stroke="#667780" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="39" y1="151" x2="39" y2="170" fill="none" stroke="#667780" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="39,156 31,162 30,170" fill="none" stroke="#667780" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="39,170 36,181 36,192 32,192" fill="none" stroke="#667780" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="39,156 47,162 48,170" fill="none" stroke="#667780" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="39,170 42,181 42,192 46,192" fill="none" stroke="#667780" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="39" y="199" font-family="Arial" font-size="3.3513888888888888" font-weight="400" fill="#667780" text-anchor="middle">Стопы рядом</text>
+<line x1="58" y1="166" x2="79" y2="166" fill="none" stroke="#AE4775" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="79,166 78.05,165.58 78.05,166.42" fill="#AE4775" stroke="#AE4775" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="100" cy="147" r="3.5" fill="#FFFFFF" stroke="#087F80" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="100" y1="151" x2="100" y2="170" fill="none" stroke="#087F80" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="100,156 92,162 91,170" fill="none" stroke="#087F80" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="100,170 88,181 88,192 84,192" fill="none" stroke="#087F80" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="100,156 108,162 109,170" fill="none" stroke="#087F80" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="100,170 112,181 112,192 116,192" fill="none" stroke="#087F80" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="100" y="199" font-family="Arial" font-size="3.3513888888888888" font-weight="400" fill="#667780" text-anchor="middle">Шаг в сторону</text>
+<line x1="119" y1="166" x2="140" y2="166" fill="none" stroke="#AE4775" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="140,166 139.05,165.58 139.05,166.42" fill="#AE4775" stroke="#AE4775" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="161" cy="147" r="3.5" fill="#FFFFFF" stroke="#087F80" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="161" y1="151" x2="161" y2="170" fill="none" stroke="#087F80" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="161,156 153,162 152,170" fill="none" stroke="#087F80" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="161,170 158,181 158,192 154,192" fill="none" stroke="#087F80" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="161,156 169,162 170,170" fill="none" stroke="#087F80" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="161,170 164,181 164,192 168,192" fill="none" stroke="#087F80" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="161" y="199" font-family="Arial" font-size="3.3513888888888888" font-weight="400" fill="#667780" text-anchor="middle">Приставляет ногу</text>
+<text x="196" y="148" font-family="Arial" font-size="4.056944444444444" font-weight="700" fill="#203540" text-anchor="start">Что делает человек</text>
+<text x="196" y="154.0" font-family="Arial" font-size="3.951111111111111" font-weight="400" fill="#203540" text-anchor="start">Одна нога шагает в сторону, затем другая приближается к ней. Человек перемещается по полу.</text>
+<text x="196" y="171" font-family="Arial" font-size="4.056944444444444" font-weight="700" fill="#203540" text-anchor="start">Какое место оставить</text>
+<text x="196" y="177.0" font-family="Arial" font-size="3.951111111111111" font-weight="400" fill="#203540" text-anchor="start">Нужна свободная дорожка. Её длина зависит от числа шагов; при необходимости рядом - устойчивая опора.</text>
+<text x="196" y="197" font-family="Arial" font-size="3.951111111111111" font-weight="700" fill="#087F80" text-anchor="start">Короткий участок для примерки: 260 × 140 см</text>
+<rect x="12" y="208" width="396" height="73" fill="#F8FAFA" stroke="#E9EDEF" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="17" y="216" font-family="Arial" font-size="5.291666666666667" font-weight="700" fill="#087F80" text-anchor="start">Ребёнок и взрослый передают мяч</text>
+<line x1="21" y1="271" x2="188" y2="271" fill="none" stroke="#667780" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="36.04,270.17 46.0,270.17 46.0,257.72 46.0,242.78 46.0,240.29" fill="none" stroke="#087F80" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="46.0" cy="236.14" r="2.905" fill="#FFFFFF" stroke="#087F80" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="46.0,244.44 55.96,251.08 64.25999999999999,250.25" fill="none" stroke="#087F80" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="160,270 148,270 148,255 148,237 148,234" fill="none" stroke="#203540" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="148" cy="229" r="3.5" fill="#FFFFFF" stroke="#203540" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="148,239 136,247 126,246" fill="none" stroke="#203540" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="94" cy="249" r="5" fill="#FFF2D9" stroke="#AC7127" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="76" y1="249" x2="111" y2="249" fill="none" stroke="#AC7127" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="111,249 110.05,248.58 110.05,249.42" fill="#AC7127" stroke="#AC7127" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="76,249 76.95,249.42 76.95,248.58" fill="#AC7127" stroke="#AC7127" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="103" y="277" font-family="Arial" font-size="3.5277777777777777" font-weight="400" fill="#667780" text-anchor="middle">Два человека напротив друг друга</text>
+<text x="196" y="226" font-family="Arial" font-size="4.056944444444444" font-weight="700" fill="#203540" text-anchor="start">Что делает человек</text>
+<text x="196" y="232.0" font-family="Arial" font-size="3.951111111111111" font-weight="400" fill="#203540" text-anchor="start">Ребёнок и взрослый стоят на коленях и передают лёгкий мяч между собой.</text>
+<text x="196" y="249" font-family="Arial" font-size="4.056944444444444" font-weight="700" fill="#203540" text-anchor="start">Какое место оставить</text>
+<text x="196" y="255.0" font-family="Arial" font-size="3.951111111111111" font-weight="400" fill="#203540" text-anchor="start">Нужно место для обоих людей и мяча между ними. Отдельно проверить, как подобрать укатившийся мяч.</text>
+<text x="196" y="275" font-family="Arial" font-size="3.951111111111111" font-weight="700" fill="#087F80" text-anchor="start">Для примерки на двоих: 260 × 180 см</text>
+</svg>

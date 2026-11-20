@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-06",
+  "edits": [
+    {
+      "id": "concept-a-v2",
+      "target": "concept-a",
+      "prompt": "Edit this existing 2x2 concept sheet. Preserve all four panel compositions, all faces, furniture design, colours and the other three people. Make TWO precise corrections only. In the TOP RIGHT child exercise panel, the girl must have exactly TWO arms: one forward stretched arm, and one supporting arm ending in exactly ONE palm planted on the mat. Remove the extra duplicate supporting hand/arm on the mat; keep a natural connected elbow/forearm and one planted palm. In TOP RIGHT and BOTTOM LEFT panels, remove the folded teal mat from the bench LEFT STORAGE SLOT because that single mat is already unfolded on the floor. Leave the slot empty white/gray inside. Keep folded mat in top-left stored product and bottom-right seated older-user panel. Keep floor mat, equipment, bench and rear rail identical. No new objects, no text.",
+      "output_hint": "Generated images are saved to C:\\Users\\mekae\\.codex\\generated_images\\01a1885e-5fce-7f50-bcdf-2864056635f0 as C:\\Users\\mekae\\.codex\\generated_images\\01a1885e-5fce-7f50-bcdf-2864056635f0\\exec-aa1e0ff3-bc06-4b8b-a58d-3d0fa98c0554.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "mode": "built-in image_gen edit"
+    },
+    {
+      "id": "concept-c-v2",
+      "target": "concept-c",
+      "prompt": "Edit this existing 2x2 industrial design concept sheet. Preserve all people, faces, colours, cabinet identity, all compositions and the storage/deployed states. Correct ONLY: (1) in TOP RIGHT child panel and BOTTOM LEFT young adult panel, remove the folded teal mat from the cabinet RIGHT SIDE VERTICAL SLOT, leaving the slot empty, because the single mat is already unfolded on the floor in those panels. Keep folded mat in top-left and bottom-right panels. (2) In the BOTTOM RIGHT older woman panel, clearly show TWO front floor-contacting legs of the full-width dark-gray U-shaped support frame underneath the fold-down seat. Keep the already visible left support leg. Add a coherent matching right support leg at the far right front corner of the seat, visible just to the right of the woman's lower leg; it runs from seat underside all the way to the floor and has a broad contact foot. Connect both legs via the existing continuous seat front support frame. Seat must be visibly supported at both front corners, never a single-legged cantilever. Preserve the woman's feet flat on floor. No new objects or text.",
+      "output_hint": "Generated images are saved to C:\\Users\\mekae\\.codex\\generated_images\\01a1885e-5fce-7f50-bcdf-2864056635f0 as C:\\Users\\mekae\\.codex\\generated_images\\01a1885e-5fce-7f50-bcdf-2864056635f0\\exec-4a094d81-3c12-4e2d-80f1-cffc66ae183b.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "mode": "built-in image_gen edit"
+    }
+  ]
+}
