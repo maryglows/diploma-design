@@ -1,0 +1,786 @@
+[
+  {
+    "candidate": "C01",
+    "page": "https://eu.speediance.com/products/speediance-gym-monster-2",
+    "image_url": "https://eu.speediance.com/cdn/shop/files/20241128-190442.jpg?v=1732792002&width=1400",
+    "path": "research/analogs/print-2026-11-21/candidates/C01.jpg",
+    "pixels": [
+      1400,
+      1400
+    ],
+    "bytes": 80846,
+    "sha256": "14e2e22fd3d7ff74a1807f7cdae94efc3c914c5b041e2defb4effc6a9b646758",
+    "status": "downloaded",
+    "final_url": "https://eu.speediance.com/cdn/shop/files/20241128-190442.jpg?v=1732792002&width=1400"
+  },
+  {
+    "candidate": "C02",
+    "page": "https://www.speediancefitness.es/products/gym-monster-2-0",
+    "image_url": "https://cdn.shopify.com/s/files/1/0687/8455/4290/files/WhatsApp_Image_2024-11-06_at_16.47.07_1.jpg?v=1730922485",
+    "path": "research/analogs/print-2026-11-21/candidates/C02.jpg",
+    "pixels": [
+      1080,
+      1080
+    ],
+    "bytes": 42395,
+    "sha256": "424f6516ffdb8a48fe7a42528543cea9013706679733da2cdbb21fc008c4518a",
+    "status": "downloaded",
+    "final_url": "https://cdn.shopify.com/s/files/1/0687/8455/4290/files/WhatsApp_Image_2024-11-06_at_16.47.07_1.jpg?v=1730922485"
+  },
+  {
+    "candidate": "C03",
+    "page": "https://www.speediance.cz/products/speediance-gym-monster-2",
+    "image_url": "https://www.speediance.cz/cdn/shop/files/GM2_1800x1800.jpg?v=1762268416",
+    "path": "research/analogs/print-2026-11-21/candidates/C03.jpg",
+    "pixels": [
+      1800,
+      1800
+    ],
+    "bytes": 120793,
+    "sha256": "b0f16d5fc5b75db20ff2a2c76f65a603cf9f16975f2201156e6cdd13137e3840",
+    "status": "downloaded",
+    "final_url": "https://www.speediance.cz/cdn/shop/files/GM2_1800x1800.jpg?v=1762268416"
+  },
+  {
+    "candidate": "C04",
+    "page": "https://media.nohrd.com/media/images/nohrd-wall/studio/nohrd-wall-compact/",
+    "image_url": "https://media.nohrd.com/media/content/images/nohrd-wall/studio/nohrd-wall-compact/nohrd-wall-ash.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C04.jpg",
+    "pixels": [
+      2362,
+      1717
+    ],
+    "bytes": 1026188,
+    "sha256": "7683261e8fa6cbead59362ccca67d0aa0b48e34d39bf9c5ba32e34c5e62ad922",
+    "status": "downloaded",
+    "final_url": "https://media.nohrd.com/media/content/images/nohrd-wall/studio/nohrd-wall-compact/nohrd-wall-ash.jpg"
+  },
+  {
+    "candidate": "C05",
+    "page": "https://www.nohrd.com/us/nohrd-wall-compact.html",
+    "image_url": "https://www.nohrd.com/media/catalog/product/cache/c3cee5455cdeba86cb3ec4ddef908642/n/w/nwc-eiche-2-grey.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C05.jpg",
+    "pixels": [
+      1800,
+      1200
+    ],
+    "bytes": 399483,
+    "sha256": "fe493ca54b5820d17d57597576f81b761059c5f9a32319ebe761be8057e96d7f",
+    "status": "downloaded",
+    "final_url": "https://www.nohrd.com/media/catalog/product/cache/c3cee5455cdeba86cb3ec4ddef908642/n/w/nwc-eiche-2-grey.jpg"
+  },
+  {
+    "candidate": "C06",
+    "page": "https://thefitnessoutlet.com/products/nohrd-compact-wall",
+    "image_url": "https://thefitnessoutlet.com/cdn/shop/files/detail4__00747.1711497372.1280.1280.jpg?v=1772483998",
+    "path": "research/analogs/print-2026-11-21/candidates/C06.jpg",
+    "pixels": [
+      1280,
+      720
+    ],
+    "bytes": 212663,
+    "sha256": "be9f17e231458beb8cc40738a2a9e3045077adca5fda29583b2e7bcdba114194",
+    "status": "downloaded",
+    "final_url": "https://thefitnessoutlet.com/cdn/shop/files/detail4__00747.1711497372.1280.1280.jpg?v=1772483998"
+  },
+  {
+    "candidate": "C07",
+    "page": "https://tonal.com/products/tonal-2",
+    "image_url": "https://tonal.com/cdn/shop/files/PDP-S3-ImmersiveDisplay.png?v=1748646963&width=600",
+    "path": "research/analogs/print-2026-11-21/candidates/C07.png",
+    "pixels": [
+      600,
+      413
+    ],
+    "bytes": 169294,
+    "sha256": "3967b53887d0ba9ae1d6e6daa39636894b1e42586f716eddb8570e9b79030444",
+    "status": "downloaded",
+    "final_url": "https://tonal.com/cdn/shop/files/PDP-S3-ImmersiveDisplay.png?v=1748646963&width=600"
+  },
+  {
+    "candidate": "C08",
+    "page": "https://www.johnsonfitness.com/Tonal-2-Smart-Home-Gym-P39079.aspx",
+    "image_url": "https://www.johnsonfitness.com/Content/Assets/ProductDescriptions/Tonal-SmartTechnology-S6-AdjustableArms-4x3.jpg",
+    "status": "failed",
+    "error": "403 Client Error: Forbidden for url: https://www.johnsonfitness.com/Content/Assets/ProductDescriptions/Tonal-SmartTechnology-S6-AdjustableArms-4x3.jpg"
+  },
+  {
+    "candidate": "C09",
+    "page": "https://kilo-home.ru/tproduct/718294086312-3-kilo-gantel-3-kg",
+    "image_url": "https://static.tildacdn.com/stor3039-6638-4565-b566-636239323764/85590852.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C09.jpg",
+    "pixels": [
+      1680,
+      2238
+    ],
+    "bytes": 317083,
+    "sha256": "02ebef50d63094da23413e56e79ad9c1ae04157c0f51b27acc55ddbe5fec8882",
+    "status": "downloaded",
+    "final_url": "https://static.tildacdn.com/stor3039-6638-4565-b566-636239323764/85590852.jpg"
+  },
+  {
+    "candidate": "C10",
+    "page": "https://solofitness.co.uk/products/solo-signature-storage-bench-adjustable",
+    "image_url": "https://cdn.shopify.com/s/files/1/0483/8653/9687/files/v3-bench-white-wheels-handle.jpg?v=1687181113",
+    "path": "research/analogs/print-2026-11-21/candidates/C10.jpg",
+    "pixels": [
+      2048,
+      2048
+    ],
+    "bytes": 114536,
+    "sha256": "c436234e4623e6a85e72698d927655c6ea329fd8a1a0c3ac607921ee45e62f4a",
+    "status": "downloaded",
+    "final_url": "https://cdn.shopify.com/s/files/1/0483/8653/9687/files/v3-bench-white-wheels-handle.jpg?v=1687181113"
+  },
+  {
+    "candidate": "C11",
+    "page": "https://solofitness.co.uk/products/solo-signature-storage-bench-adjustable",
+    "image_url": "https://cdn.shopify.com/s/files/1/0483/8653/9687/products/POSITIONS_1024x1024%402x.jpg?v=1687182077",
+    "path": "research/analogs/print-2026-11-21/candidates/C11.jpg",
+    "pixels": [
+      2048,
+      2048
+    ],
+    "bytes": 45957,
+    "sha256": "bba71015cba0ee7474953123ede50537e0939bb859ce6731550a088b8b0b128f",
+    "status": "downloaded",
+    "final_url": "https://cdn.shopify.com/s/files/1/0483/8653/9687/products/POSITIONS_1024x1024%402x.jpg?v=1687182077"
+  },
+  {
+    "candidate": "C12",
+    "page": "https://solofitness.co.uk/products/solo-signature-storage-bench-adjustable",
+    "image_url": "https://cdn.shopify.com/s/files/1/0483/8653/9687/products/solo-bench-v3-dimensions-scaled_1024x1024%402x.jpg?v=1687182077",
+    "path": "research/analogs/print-2026-11-21/candidates/C12.jpg",
+    "pixels": [
+      2048,
+      2048
+    ],
+    "bytes": 116040,
+    "sha256": "8f3de2f17b808bddfcfcb6bfb190aef72f8fb1c82230daf492b12bc086898cd1",
+    "status": "downloaded",
+    "final_url": "https://cdn.shopify.com/s/files/1/0483/8653/9687/products/solo-bench-v3-dimensions-scaled_1024x1024%402x.jpg?v=1687182077"
+  },
+  {
+    "candidate": "C13",
+    "page": "https://solofitness.co.uk/products/solo-signature-storage-bench-adjustable",
+    "image_url": "https://solofitness.co.uk/cdn/shop/files/2_58e13498-9220-45c5-b079-3629b962549c.png?v=1746114082&width=1500",
+    "path": "research/analogs/print-2026-11-21/candidates/C13.png",
+    "pixels": [
+      1500,
+      1500
+    ],
+    "bytes": 2090981,
+    "sha256": "799a56f18c7ab45fc1025e25ee3bf231c8c2b8fba2ebd595d5e9061731bdca60",
+    "status": "downloaded",
+    "final_url": "https://solofitness.co.uk/cdn/shop/files/2_58e13498-9220-45c5-b079-3629b962549c.png?v=1746114082&width=1500"
+  },
+  {
+    "candidate": "C14",
+    "page": "https://una-unless.org/en/work/ottagono-a-cassina-custom-interiors-project-designed-by-giulia-foscari",
+    "image_url": "https://una-unless.org/media/images/works/wide/1_Ottagono_UNA-UNLESS_low.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C14.jpg",
+    "pixels": [
+      1800,
+      1200
+    ],
+    "bytes": 122361,
+    "sha256": "d84b0bf413ab2eadd817b5c7ecd68d8483bde9b8aad3587682746428f9fe0303",
+    "status": "downloaded",
+    "final_url": "https://una-unless.org/media/images/works/wide/1_Ottagono_UNA-UNLESS_low.jpg"
+  },
+  {
+    "candidate": "C15",
+    "page": "https://una-unless.org/en/work/ottagono-a-cassina-custom-interiors-project-designed-by-giulia-foscari",
+    "image_url": "https://una-unless.org/media/images/works/wide/6_Ottagono_UNA-UNLESS_low.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C15.jpg",
+    "pixels": [
+      837,
+      1200
+    ],
+    "bytes": 84560,
+    "sha256": "4da3d9a0283521118a103a73bda450e3e04eda4242852eb56d9165a11b839577",
+    "status": "downloaded",
+    "final_url": "https://una-unless.org/media/images/works/wide/6_Ottagono_UNA-UNLESS_low.jpg"
+  },
+  {
+    "candidate": "C16",
+    "page": "https://tomaskral.ch/projects/sana",
+    "image_url": "https://tomaskral.ch/media/pages/projects/sana/7413f85f0f-1735415186/javorina_javorina-gym_sana_ph.lukas-pelech-6.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C16.jpg",
+    "pixels": [
+      2500,
+      3333
+    ],
+    "bytes": 5390283,
+    "sha256": "42015ed83d5fef4417eb588d059d77267b44fb9a15c8cce9f022740bd2723245",
+    "status": "downloaded",
+    "final_url": "https://tomaskral.ch/media/pages/projects/sana/7413f85f0f-1735415186/javorina_javorina-gym_sana_ph.lukas-pelech-6.jpg"
+  },
+  {
+    "candidate": "C17",
+    "page": "https://www.beoak.com/en-us/products/sana-wallbar-large",
+    "image_url": "https://core-media.javorina.com/products/sana_wallbar_gallery_317a91bb.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C17.jpg",
+    "pixels": [
+      1000,
+      1500
+    ],
+    "bytes": 463549,
+    "sha256": "02c910f7876573405e69bd5e9ad096b12e5a0882f2a6cce2c08cc9a1de26e090",
+    "status": "downloaded",
+    "final_url": "https://core-media.javorina.com/products/sana_wallbar_gallery_317a91bb.jpg"
+  },
+  {
+    "candidate": "C18",
+    "page": "https://www.beoak.com/sk-sk/products/sana-wallbar-with-bench",
+    "image_url": "https://core-media.javorina.com/file_upload/Sana_wallbar_with_bench_dimensions_95734e44.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C18.jpg",
+    "pixels": [
+      2245,
+      3179
+    ],
+    "bytes": 336056,
+    "sha256": "d6616f9b3ace87b0768310e1fbf8993460c2ce79a17260b1b8b5bd320db29bcc",
+    "status": "downloaded",
+    "final_url": "https://core-media.javorina.com/file_upload/Sana_wallbar_with_bench_dimensions_95734e44.jpg"
+  },
+  {
+    "candidate": "C19",
+    "page": "https://www.red-dot.org/project/integrated-fitness-cabinet-68274",
+    "image_url": "https://www.red-dot.org/fileadmin/user_upload/projects/2024/PD/16-08815-2024PD.1083699_C6.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C19.jpg",
+    "pixels": [
+      1920,
+      1080
+    ],
+    "bytes": 1589622,
+    "sha256": "34e5e0424cbf8b5aab5e4732d9a67514991e3e108cef52ecb339f7dc357b79ee",
+    "status": "downloaded",
+    "final_url": "https://www.red-dot.org/fileadmin/user_upload/projects/2024/PD/16-08815-2024PD.1083699_C6.jpg"
+  },
+  {
+    "candidate": "C20",
+    "page": "https://goldenhome.sg/blogs/news/international-recognition-goldenhomes-1-fitness-room-wins-the-2024-french-design-award-gold-medal",
+    "image_url": "https://cdn.shopify.com/s/files/1/0850/6346/7296/files/4_8488de88-3200-4bf8-a85a-1079d7966dbf_1024x1024.jpg?v=1720514218",
+    "path": "research/analogs/print-2026-11-21/candidates/C20.jpg",
+    "pixels": [
+      800,
+      450
+    ],
+    "bytes": 54413,
+    "sha256": "63383fa24fb003a0f35e8779f38b868c53c1736ff732f05d1539276c7621d90f",
+    "status": "downloaded",
+    "final_url": "https://cdn.shopify.com/s/files/1/0850/6346/7296/files/4_8488de88-3200-4bf8-a85a-1079d7966dbf_1024x1024.jpg?v=1720514218"
+  },
+  {
+    "candidate": "C21",
+    "page": "https://www.frenchdesignaward.com/award-winning-work/1827",
+    "image_url": "https://image.french-design-award.com/images/20240111/1704953873711132803.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C21.jpg",
+    "pixels": [
+      3840,
+      2160
+    ],
+    "bytes": 1239532,
+    "sha256": "c28dc3328103ed5b031ed104014eceb79d077443d4e46a15b09e2755efd2cbed",
+    "status": "downloaded",
+    "final_url": "https://image.french-design-award.com/images/20240111/1704953873711132803.jpg"
+  },
+  {
+    "candidate": "C22",
+    "page": "https://www.red-dot.org/zh/project/at-least-home-workout-bench-72143",
+    "image_url": "https://www.red-dot.org/fileadmin/user_upload/projects/2024/DC/NU24133617-1.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C22.jpg",
+    "pixels": [
+      3500,
+      2333
+    ],
+    "bytes": 533040,
+    "sha256": "d7d3d82aaf8d637461ed79d813903e2aed3e65ed7d6f9a2593590713a20f8860",
+    "status": "downloaded",
+    "final_url": "https://www.red-dot.org/fileadmin/user_upload/projects/2024/DC/NU24133617-1.jpg"
+  },
+  {
+    "candidate": "C23",
+    "page": "https://kettlersport.com/nl-nl/ergometer/hoi-ride-plus/",
+    "image_url": "https://resources.kettlersport.com/pictures/kettler/K-EM1058/hoi-ride-plus-blueberry-green-produktbild_1600.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C23.jpg",
+    "pixels": [
+      1600,
+      1600
+    ],
+    "bytes": 193263,
+    "sha256": "1ef583d39a0171529a00947212c73c22ec5c4615dd764b52497466f0b3e2d504",
+    "status": "downloaded",
+    "final_url": "https://resources.kettlersport.com/pictures/kettler/K-EM1058/hoi-ride-plus-blueberry-green-produktbild_1600.jpg"
+  },
+  {
+    "candidate": "C24",
+    "page": "https://www.m-bikeshop.com/sobni-bicikl-kettler-hoi-ride-stone-proizvod-35105/",
+    "image_url": "https://www.m-bikeshop.com/upload/catalog/product/35105/EM1058400_3_Sobni-bicikl-KETTLER-HOI-Ride%2B-Stone_68adbdfa37335.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C24.jpg",
+    "pixels": [
+      2000,
+      2000
+    ],
+    "bytes": 351095,
+    "sha256": "5031dacb6504ee0013f6769f5c900e7f552f844a5f75e307595cbcaab2ff58b6",
+    "status": "downloaded",
+    "final_url": "https://www.m-bikeshop.com/upload/catalog/product/35105/EM1058400_3_Sobni-bicikl-KETTLER-HOI-Ride%2B-Stone_68adbdfa37335.jpg"
+  },
+  {
+    "candidate": "C25",
+    "page": "https://www.pentfitness.com/products/joana-pilates-reformer",
+    "image_url": "https://www.pentfitness.com/cdn/shop/files/reformer2.jpg?v=1771341363",
+    "path": "research/analogs/print-2026-11-21/candidates/C25.jpg",
+    "pixels": [
+      3982,
+      2658
+    ],
+    "bytes": 463199,
+    "sha256": "13bbdefb926514352cb48cfa9c99d7de50cae8441845ffd00ecc4f342e75f38b",
+    "status": "downloaded",
+    "final_url": "https://www.pentfitness.com/cdn/shop/files/reformer2.jpg?v=1771341363"
+  },
+  {
+    "candidate": "C26",
+    "page": "https://www.pentfitness.com/products/joana-pilates-reformer",
+    "image_url": "https://www.pentfitness.com/cdn/shop/files/luxury_pilates_reformer_pent_small_75ccfd1a-d580-4cb6-a775-e0044e7ba712.jpg?v=1771341363",
+    "path": "research/analogs/print-2026-11-21/candidates/C26.jpg",
+    "pixels": [
+      2400,
+      1602
+    ],
+    "bytes": 423837,
+    "sha256": "921c3bf06d10786a6dd41fc6650b13fca0ad4e4cee0c1e99c02f9b06d6bb1027",
+    "status": "downloaded",
+    "final_url": "https://www.pentfitness.com/cdn/shop/files/luxury_pilates_reformer_pent_small_75ccfd1a-d580-4cb6-a775-e0044e7ba712.jpg?v=1771341363"
+  },
+  {
+    "candidate": "C27",
+    "page": "https://www.iron-house.co/pent-fitness-equipment-store/pilates-reformer",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/50e06d13e4b0a05702aea12f/e08330c5-4a75-45c3-bba6-7f48eab7dafe/PENT%2BJoana%2BClose-up.png",
+    "path": "research/analogs/print-2026-11-21/candidates/C27.png",
+    "pixels": [
+      1680,
+      1130
+    ],
+    "bytes": 2259082,
+    "sha256": "0a540eb683a2f065e8468d6166e3e52f5393bd059a14a384d55a89b334a1e457",
+    "status": "downloaded",
+    "final_url": "https://images.squarespace-cdn.com/content/v1/50e06d13e4b0a05702aea12f/e08330c5-4a75-45c3-bba6-7f48eab7dafe/PENT%2BJoana%2BClose-up.png"
+  },
+  {
+    "candidate": "C28",
+    "page": "https://www.kenkostores.com/en/product-page/aerobic-hanteln-ahorn",
+    "image_url": "https://static.wixstatic.com/media/08c993_ba5d49ab90164a6b8fee3791951337a7~mv2.jpg/v1/fill/w_980%2Ch_653%2Cq_90%2Cenc_avif%2Cquality_auto/08c993_ba5d49ab90164a6b8fee3791951337a7~mv2.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C28.jpg",
+    "pixels": [
+      980,
+      653
+    ],
+    "bytes": 63608,
+    "sha256": "37e93ff2991e77820489b8d36560922e547de5a1931247d7bee8831e824e6bd7",
+    "status": "downloaded",
+    "final_url": "https://static.wixstatic.com/media/08c993_ba5d49ab90164a6b8fee3791951337a7~mv2.jpg/v1/fill/w_980%2Ch_653%2Cq_90%2Cenc_avif%2Cquality_auto/08c993_ba5d49ab90164a6b8fee3791951337a7~mv2.jpg"
+  },
+  {
+    "candidate": "C29",
+    "page": "https://shop.mohd.it/en/aerobic-dumbbells-set-of-2-maple.html",
+    "image_url": "https://cdn.mohd.it/cache/image/format%3Dwebp/media/catalog/product/a/e/aerobic-dumbbells-1-maple.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C29.jpg",
+    "pixels": [
+      1200,
+      900
+    ],
+    "bytes": 23774,
+    "sha256": "ea1be7f538e590304614b45e3517a0244dc1bd362fe23b4f0bffbe0fbfb53351",
+    "status": "downloaded",
+    "final_url": "https://cdn.mohd.it/cache/image/format%3Dwebp/media/catalog/product/a/e/aerobic-dumbbells-1-maple.jpg"
+  },
+  {
+    "candidate": "C30",
+    "page": "https://shop.mohd.it/en/aerobic-dumbbells-set-of-2-maple.html",
+    "image_url": "https://cdn.mohd.it/cache/image/format%3Dwebp/media/catalog/product/a/e/aerobic-dumbbells-maple.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C30.jpg",
+    "pixels": [
+      1200,
+      900
+    ],
+    "bytes": 56318,
+    "sha256": "bf2bd046b5ad0baf3ebb5967f8b832b15ae67736308a976f8ac55085981b405e",
+    "status": "downloaded",
+    "final_url": "https://cdn.mohd.it/cache/image/format%3Dwebp/media/catalog/product/a/e/aerobic-dumbbells-maple.jpg"
+  },
+  {
+    "candidate": "C31",
+    "page": "https://ux-design-award.com/winners/2026-1-momo-modular-physiotherapy-kit",
+    "image_url": "https://ux-design-award.com/media/pages/winners/2026-1-momo-modular-physiotherapy-kit/d6c0110768-1767723399/306_bild1.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C31.jpg",
+    "pixels": [
+      3840,
+      2501
+    ],
+    "bytes": 1408627,
+    "sha256": "580bb39eda2d750ad4b8500e8fb0daf1773939102687fbeb1363407898fe74a4",
+    "status": "downloaded",
+    "final_url": "https://ux-design-award.com/media/pages/winners/2026-1-momo-modular-physiotherapy-kit/d6c0110768-1767723399/306_bild1.jpg"
+  },
+  {
+    "candidate": "C32",
+    "page": "https://ux-design-awards.com/winners/2026-1-momo-modular-physiotherapy-kit",
+    "image_url": "https://ux-design-awards.com/media/pages/winners/2026-1-momo-modular-physiotherapy-kit/f16fd3ea7e-1767723399/306_bild2.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C32.jpg",
+    "pixels": [
+      3840,
+      2501
+    ],
+    "bytes": 1479487,
+    "sha256": "c880fa88a3e788ca13e6003ec6532a215413351ab9046ab8a062e996bd356bce",
+    "status": "downloaded",
+    "final_url": "https://ux-design-awards.com/media/pages/winners/2026-1-momo-modular-physiotherapy-kit/f16fd3ea7e-1767723399/306_bild2.jpg"
+  },
+  {
+    "candidate": "C33",
+    "page": "https://ifdesign.com/ko/winner-ranking/project/momo/783369",
+    "image_url": "https://ifdalivestorage.blob.core.windows.net/user-uploads/1131131/783369/aa8d5c8a-78ff-4dd8-964f-c49e05365bef/momo-2_rev.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C33.jpg",
+    "pixels": [
+      1080,
+      1345
+    ],
+    "bytes": 1695713,
+    "sha256": "af9ea88d8c8cd08555c8550d269992f480344b4a4257ecabe3b9fa6961696468",
+    "status": "downloaded",
+    "final_url": "https://ifdalivestorage.blob.core.windows.net/user-uploads/1131131/783369/aa8d5c8a-78ff-4dd8-964f-c49e05365bef/momo-2_rev.jpg"
+  },
+  {
+    "candidate": "C34",
+    "page": "https://ux-design-awards.com/winners/2026-1-momo-modular-physiotherapy-kit",
+    "image_url": "https://ux-design-awards.com/media/pages/winners/2026-1-momo-modular-physiotherapy-kit/f44480d2e8-1767723399/306-bild3-3840x.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C34.jpg",
+    "pixels": [
+      3840,
+      2501
+    ],
+    "bytes": 2445456,
+    "sha256": "f8f8fc9bfe819c956786f8e160de05511d985c3e9429d171b1913ee8a40e5f7b",
+    "status": "downloaded",
+    "final_url": "https://ux-design-awards.com/media/pages/winners/2026-1-momo-modular-physiotherapy-kit/f44480d2e8-1767723399/306-bild3-3840x.jpg"
+  },
+  {
+    "candidate": "C35",
+    "page": "https://ux-design-awards.com/winners/2026-1-momo-modular-physiotherapy-kit",
+    "image_url": "https://ux-design-awards.com/media/pages/winners/2026-1-momo-modular-physiotherapy-kit/3f44eeeca5-1767723399/306_bild4.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C35.jpg",
+    "pixels": [
+      3840,
+      2501
+    ],
+    "bytes": 1337333,
+    "sha256": "12ab307196ff19caf82f72dc01578d793a58ba5e00d59885aafe46ea9bcfa77f",
+    "status": "downloaded",
+    "final_url": "https://ux-design-awards.com/media/pages/winners/2026-1-momo-modular-physiotherapy-kit/3f44eeeca5-1767723399/306_bild4.jpg"
+  },
+  {
+    "candidate": "C36",
+    "page": "https://www.productdesignaward.eu/winners/epd/2025/12350/",
+    "image_url": "https://s3-us-west-2.amazonaws.com/productdesignaward/upload/3263569/22763225/full/6af0f5aba2a8c2b6ac5187d7eada0e87.png",
+    "path": "research/analogs/print-2026-11-21/candidates/C36.png",
+    "pixels": [
+      2560,
+      1440
+    ],
+    "bytes": 3566436,
+    "sha256": "22a85a1123575eb33bb199afcf5158b14ad705b535a0c992a680281fc3598148",
+    "status": "downloaded",
+    "final_url": "https://s3-us-west-2.amazonaws.com/productdesignaward/upload/3263569/22763225/full/6af0f5aba2a8c2b6ac5187d7eada0e87.png"
+  },
+  {
+    "candidate": "C37",
+    "page": "https://www.productdesignaward.eu/winners/epda/2025/12481/",
+    "image_url": "https://s3-us-west-2.amazonaws.com/productdesignaward/upload/3263569/22763225/full/8f76ce9d7f929ed15b5e8cb49a7bc9c7.png",
+    "path": "research/analogs/print-2026-11-21/candidates/C37.png",
+    "pixels": [
+      4096,
+      2731
+    ],
+    "bytes": 3095974,
+    "sha256": "b135d2026d840d0bc33d2e2fc6f309ac6ab6fdc8a8ef5f91f37f624287e737e4",
+    "status": "downloaded",
+    "final_url": "https://s3-us-west-2.amazonaws.com/productdesignaward/upload/3263569/22763225/full/8f76ce9d7f929ed15b5e8cb49a7bc9c7.png"
+  },
+  {
+    "candidate": "C38",
+    "page": "https://ifdesign.com/en/winner-ranking/project/unigym-all-in-one-home-rehabilitation-robot/672774",
+    "image_url": "https://ifdalivestorage.blob.core.windows.net/user-uploads/796718/mid-size/672774/725b4e13-47ff-46d6-820b-1e45ea171d7c/05.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C38.jpg",
+    "pixels": [
+      2048,
+      1447
+    ],
+    "bytes": 84218,
+    "sha256": "ceab714cc985d3bdbd8d9298a54b37617b44e8ec06eb5448c65a95aaaea6f9b2",
+    "status": "downloaded",
+    "final_url": "https://ifdalivestorage.blob.core.windows.net/user-uploads/796718/mid-size/672774/725b4e13-47ff-46d6-820b-1e45ea171d7c/05.jpg"
+  },
+  {
+    "candidate": "C39",
+    "page": "https://ifdesign.com/en/winner-ranking/project/unigym-all-in-one-home-rehabilitation-robot/672774",
+    "image_url": "https://ifdalivestorage.blob.core.windows.net/user-uploads/796718/672774/bc4c8938-e1d8-4ca1-aae0-162403b4292d/01.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C39.jpg",
+    "pixels": [
+      2717,
+      1919
+    ],
+    "bytes": 4633941,
+    "sha256": "adeedfa85e2d9aa13dad3e77bbee04eeda7c390e89b8618714138cf16863d2c1",
+    "status": "downloaded",
+    "final_url": "https://ifdalivestorage.blob.core.windows.net/user-uploads/796718/672774/bc4c8938-e1d8-4ca1-aae0-162403b4292d/01.jpg"
+  },
+  {
+    "candidate": "C40",
+    "page": "https://ifdesign.com/en/winner-ranking/project/unigym-all-in-one-home-rehabilitation-robot/672774",
+    "image_url": "https://ifdalivestorage.blob.core.windows.net/user-uploads/796718/672774/400bc91d-4455-46dd-a0f3-7f919286b0f9/02.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C40.jpg",
+    "pixels": [
+      2598,
+      1835
+    ],
+    "bytes": 4609244,
+    "sha256": "7f1b248dc60acfd1a45b7f85b33a4ce3fda69203682fca7ca5d82e8cceb2134d",
+    "status": "downloaded",
+    "final_url": "https://ifdalivestorage.blob.core.windows.net/user-uploads/796718/672774/400bc91d-4455-46dd-a0f3-7f919286b0f9/02.jpg"
+  },
+  {
+    "candidate": "C41",
+    "page": "https://www.behance.net/gallery/205658335/OAIM-UniGym-All-in-One-Home-Rehabilitation-Robot/modules/1167568879",
+    "image_url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/72af12205658335.66becbb6e0846.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C41.jpg",
+    "pixels": [
+      1400,
+      909
+    ],
+    "bytes": 175650,
+    "sha256": "c8e2d9582e1adb330b95f1ae038dd1da39712c2ab9302c22e9ed7beb04b96fe5",
+    "status": "downloaded",
+    "final_url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/72af12205658335.66becbb6e0846.jpg"
+  },
+  {
+    "candidate": "C42",
+    "page": "https://www.jamesdysonaward.org/en-US/2024/project/near-exergame",
+    "image_url": "https://www.jamesdysonaward.org/Document/1292e1af-c655-41df-b1a4-58f72d6484bd/outlining-of-the-near-exergame.jpg",
+    "status": "failed",
+    "error": "403 Client Error: Forbidden for url: https://www.jamesdysonaward.org/Document/1292e1af-c655-41df-b1a4-58f72d6484bd/outlining-of-the-near-exergame.jpg"
+  },
+  {
+    "candidate": "C43",
+    "page": "https://tonal.com/products/tonal-2?variant=49151847006490",
+    "image_url": "https://cdn.shopify.com/s/files/1/0879/3767/9642/files/CREFTNL1-mod04-02.png?v=1753925912",
+    "path": "research/analogs/print-2026-11-21/candidates/C43.png",
+    "pixels": [
+      755,
+      457
+    ],
+    "bytes": 78456,
+    "sha256": "465c3eeeef73bf39d57be1bca59d67218a55c7946a0744198ab04f8582629ff8",
+    "status": "downloaded",
+    "final_url": "https://cdn.shopify.com/s/files/1/0879/3767/9642/files/CREFTNL1-mod04-02.png?v=1753925912"
+  },
+  {
+    "candidate": "C44",
+    "page": "https://www.recoveryforathletes.com/products/nohrd-wall-compact-fitness-wall",
+    "image_url": "https://www.recoveryforathletes.com/cdn/shop/products/Nohrd_Wall_Compact_2_749x749.jpg?v=1699049458",
+    "path": "research/analogs/print-2026-11-21/candidates/C44.jpg",
+    "pixels": [
+      749,
+      749
+    ],
+    "bytes": 61558,
+    "sha256": "979acb7886ca3ca917b1d7057a078d772fdad4ddbbbe5284da5a95a08a88a276",
+    "status": "downloaded",
+    "final_url": "https://www.recoveryforathletes.com/cdn/shop/products/Nohrd_Wall_Compact_2_749x749.jpg?v=1699049458"
+  },
+  {
+    "candidate": "C45",
+    "page": "https://kilo-home.ru/tproduct/165541219192-4-kilo-gantel-4-kg",
+    "image_url": "https://static.tildacdn.com/stor3038-3263-4533-b239-326234333765/96653333.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C45.jpg",
+    "pixels": [
+      1680,
+      2238
+    ],
+    "bytes": 316085,
+    "sha256": "6ed23916fce4bc13bbe3edd75ba156366f33655618cab8aba092f98ff1d94f0e",
+    "status": "downloaded",
+    "final_url": "https://static.tildacdn.com/stor3038-3263-4533-b239-326234333765/96653333.jpg"
+  },
+  {
+    "candidate": "C46",
+    "page": "https://www.eng.usm.my/index.php/en/more-articles/1046-near-exergame-from-enginering-campus-usm-secures-runner-up-position-in-national-james-dyson-award-2024",
+    "image_url": "https://www.eng.usm.my/images/Berita/Photo_2024/sadasdasdasdasdasdasdsa.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C46.jpg",
+    "pixels": [
+      1024,
+      666
+    ],
+    "bytes": 441951,
+    "sha256": "2d65335e02f9a9cdc0f51a8cd95ebecc75ac4b24027a2b8fa8677f77a63dd07d",
+    "status": "downloaded",
+    "final_url": "https://www.eng.usm.my/images/Berita/Photo_2024/sadasdasdasdasdasdasdsa.jpg"
+  },
+  {
+    "candidate": "C47",
+    "page": "https://www.red-dot.org/de/project/at-least-home-workout-bench-72143",
+    "image_url": "https://www.red-dot.org/index.php?eID=tx_solr_image&f=133192&size=large&token=47b6fefd4ca91044dfb62391098226544852dfcd&usage=slider",
+    "path": "research/analogs/print-2026-11-21/candidates/C47.jpg",
+    "pixels": [
+      1900,
+      1266
+    ],
+    "bytes": 527118,
+    "sha256": "26335d937bb801f2c752daa1ccfa4c15fdb6f7e6d953a0b583e1bc49b211b3a8",
+    "status": "downloaded",
+    "final_url": "https://www.red-dot.org/index.php?eID=tx_solr_image&f=133192&size=large&token=47b6fefd4ca91044dfb62391098226544852dfcd&usage=slider"
+  },
+  {
+    "candidate": "C48",
+    "page": "https://www.red-dot.org/de/project/at-least-home-workout-bench-72143",
+    "image_url": "https://www.red-dot.org/index.php?eID=tx_solr_image&f=132452&size=large&token=7c89b7af4978eb25e372321cc74fadcde004a435&usage=slider",
+    "path": "research/analogs/print-2026-11-21/candidates/C48.jpg",
+    "pixels": [
+      1900,
+      1266
+    ],
+    "bytes": 394972,
+    "sha256": "cac4ff3779e6dae5f7109161a229b08f7faf6a8be666e08ffea92574d83bd248",
+    "status": "downloaded",
+    "final_url": "https://www.red-dot.org/index.php?eID=tx_solr_image&f=132452&size=large&token=7c89b7af4978eb25e372321cc74fadcde004a435&usage=slider"
+  },
+  {
+    "candidate": "C49",
+    "page": "https://www.red-dot.org/project/integrated-fitness-cabinet-68275",
+    "image_url": "https://www.red-dot.org/index.php?eID=tx_solr_image&f=125302&size=large&token=4ca45c272137c8de7076def8169de9d3cb759b53&usage=slider",
+    "path": "research/analogs/print-2026-11-21/candidates/C49.jpg",
+    "pixels": [
+      1900,
+      1069
+    ],
+    "bytes": 253718,
+    "sha256": "688729e05f877a3ef0d1d8279ab2909e7b342b59b2e9cbd567e278410a46aba6",
+    "status": "downloaded",
+    "final_url": "https://www.red-dot.org/index.php?eID=tx_solr_image&f=125302&size=large&token=4ca45c272137c8de7076def8169de9d3cb759b53&usage=slider"
+  },
+  {
+    "candidate": "C50",
+    "page": "https://www.red-dot.org/project/integrated-fitness-cabinet-68275",
+    "image_url": "https://www.red-dot.org/index.php?eID=tx_solr_image&f=125303&size=large&token=2a750fa52a87db0cd10c35839f70690f12b594e0&usage=slider",
+    "path": "research/analogs/print-2026-11-21/candidates/C50.jpg",
+    "pixels": [
+      1900,
+      1069
+    ],
+    "bytes": 673436,
+    "sha256": "65c99e54ccb32454d636badd0c6afaac27372e0004b6fcd8de91baac57186bb6",
+    "status": "downloaded",
+    "final_url": "https://www.red-dot.org/index.php?eID=tx_solr_image&f=125303&size=large&token=2a750fa52a87db0cd10c35839f70690f12b594e0&usage=slider"
+  },
+  {
+    "candidate": "C51",
+    "page": "https://ifdesign.com/en/winner-ranking/project/be-my-form/783020",
+    "image_url": "https://ifdalivestorage.blob.core.windows.net/user-uploads/1186606/783020/699c3655-7823-4450-a1f2-2a5447de718b/783020._be_my_form._1.png",
+    "path": "research/analogs/print-2026-11-21/candidates/C51.png",
+    "pixels": [
+      2416,
+      1392
+    ],
+    "bytes": 3980237,
+    "sha256": "77b781b3645dedccd50e6f9db06e5c49794e60eca223cbe51d2077d8cd330f7e",
+    "status": "downloaded",
+    "method": "Browser pageAssets bundle from visible public project page"
+  },
+  {
+    "candidate": "C52",
+    "page": "https://ifdesign.com/en/winner-ranking/project/be-my-form/783020",
+    "image_url": "https://ifdalivestorage.blob.core.windows.net/user-uploads/1186606/783020/4d265341-4d8a-49a8-8a61-c5304a3f2790/783020._be_my_form._2.png",
+    "path": "research/analogs/print-2026-11-21/candidates/C52.png",
+    "pixels": [
+      2416,
+      1392
+    ],
+    "bytes": 4303490,
+    "sha256": "8c7ab2d44f53a607f546238e8c6d9dcee368b7d1dd2adc193f2c589034ca6bcc",
+    "status": "downloaded",
+    "method": "Browser pageAssets bundle from visible public project page"
+  },
+  {
+    "candidate": "C53",
+    "page": "https://www.jamesdysonaward.org/en-US/2024/project/near-exergame",
+    "image_url": "https://www.jamesdysonaward.org/Document/6e41a222-a2c4-4e32-9ad1-268ec44cc6f4/main-picture.png",
+    "path": "research/analogs/print-2026-11-21/candidates/C53.png",
+    "pixels": [
+      1200,
+      721
+    ],
+    "bytes": 1251573,
+    "sha256": "a895ba0241a96fe853dfb2dba9da85ce2dacf1bfd48bcf1a0eb76e16863e2ed9",
+    "status": "downloaded",
+    "method": "Browser pageAssets bundle from public project page"
+  },
+  {
+    "candidate": "C54",
+    "page": "https://www.jamesdysonaward.org/en-US/2024/project/near-exergame",
+    "image_url": "https://www.jamesdysonaward.org/Document/1292e1af-c655-41df-b1a4-58f72d6484bd/outlining-of-the-near-exergame.jpg",
+    "path": "research/analogs/print-2026-11-21/candidates/C54.jpg",
+    "pixels": [
+      934,
+      702
+    ],
+    "bytes": 128106,
+    "sha256": "f3ee77755b745791154fc853f35b280bc998c611fd78c234f97e2d07b639291a",
+    "status": "downloaded",
+    "method": "Browser pageAssets bundle from public project page"
+  },
+  {
+    "candidate": "C55",
+    "page": "https://tonal.com/products/tonal-2",
+    "image_url": "https://tonal.com/cdn/shop/files/PDP-Tonal2-1.webp?v=1793627816&width=1110",
+    "path": "research/analogs/print-2026-11-21/candidates/C55.jpg",
+    "pixels": [
+      1110,
+      930
+    ],
+    "bytes": 133955,
+    "sha256": "c53f33376935ba2301c419f90eb41e28563aed597ac8ef7b3c6d4d8f73dc373a",
+    "status": "downloaded",
+    "final_url": "https://tonal.com/cdn/shop/files/PDP-Tonal2-1.webp?v=1793627816&width=1110"
+  },
+  {
+    "candidate": "C56",
+    "page": "https://tonal.com/products/tonal-2",
+    "image_url": "https://tonal.com/cdn/shop/files/PDP-Tonal2-2_2x_f134e707-e256-4856-94dd-41cb92a4f7c3.webp?v=1793627818&width=1110",
+    "path": "research/analogs/print-2026-11-21/candidates/C56.jpg",
+    "pixels": [
+      1110,
+      930
+    ],
+    "bytes": 139869,
+    "sha256": "c14fe0d89f1c52ca012af076a5da1cdae794804c17e9231bd257eb7612381523",
+    "status": "downloaded",
+    "final_url": "https://tonal.com/cdn/shop/files/PDP-Tonal2-2_2x_f134e707-e256-4856-94dd-41cb92a4f7c3.webp?v=1793627818&width=1110"
+  },
+  {
+    "candidate": "C57",
+    "page": "https://tonal.com/products/tonal-2",
+    "image_url": "https://tonal.com/cdn/shop/files/PDP-Tonal2-3_2x_b1ee3698-711d-4ecd-8c90-768a1612811a.webp?v=1793627819&width=1110",
+    "path": "research/analogs/print-2026-11-21/candidates/C57.jpg",
+    "pixels": [
+      1110,
+      930
+    ],
+    "bytes": 118297,
+    "sha256": "0d10c403330edafcd4acf72ddcde2aa495cf850c88b3f3f8afce3bf1a0da96b0",
+    "status": "downloaded",
+    "final_url": "https://tonal.com/cdn/shop/files/PDP-Tonal2-3_2x_b1ee3698-711d-4ecd-8c90-768a1612811a.webp?v=1793627819&width=1110"
+  }
+]
