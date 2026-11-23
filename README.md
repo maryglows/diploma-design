@@ -1,5 +1,7 @@
 # Диплом: модульный спортивный тренажёр с мебельной функцией
 
+**Актуально 23.11.2026:** [таблица преимуществ и ограничений аналогов для движений трёх групп — 12 А4](outputs/current/Analog_project_advantages_A4_2026-11-23.pdf), [полный разбор](research/analogs/function-analysis-2026-11-23.md). Рабочая ветка `codex/analog-function-analysis-2026-11-23`; проверенный статус сохранения и ближайшие действия — в [CURRENT.md](CURRENT.md). Более ранние ветки ниже относятся к истории этапов.
+
 **Актуально 21.11.2026:** [подробные карточки аналогов v2 — 19 А4](outputs/current/Analog_detail_cards_A4_2026-11-21_v2.pdf) для вырезания и ручного анализа на А3; [состав и источники](docs/analog-detail-revision-2026-11-21.md). Продолжение — в существующем checkout, ветка `codex/analog-detail-cards-2026-11-21`; перед работой сверить [CURRENT.md](CURRENT.md) и Git. Исторические ветки ниже не считаются объединёнными с main.
 
 **Сохранение 20.11.2026:** [полный комплект этого чата и текст для преподавателя](docs/work-session-2026-11-20.md) сохранён на GitHub в ветке [`codex/project-work-2026-11-20`](https://github.com/maryglows/diploma-design/tree/codex/project-work-2026-11-20), открыт [черновик PR №3](https://github.com/maryglows/diploma-design/pull/3). Проверенный статус отправки - в [CURRENT.md](CURRENT.md). Для продолжения открывать эту ветку; она не считается объединённой с main.
