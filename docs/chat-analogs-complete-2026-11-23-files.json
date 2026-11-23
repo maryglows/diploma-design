@@ -5,7 +5,7 @@
   "source_head": "b1a2d8bf498d0c7a5b27fa6c710a38abc7df0925",
   "hash_basis": "Git blob content after text normalization. Entire tracked project tree; this manifest excludes itself. Temporary .codex-build caches are not deliverables.",
   "file_count": 548,
-  "total_bytes": 585345613,
+  "total_bytes": 585345968,
   "files": [
     {
       "path": ".gitattributes",
@@ -27,9 +27,9 @@
     },
     {
       "path": "CURRENT.md",
-      "bytes": 71834,
-      "git_blob": "03a4e0736a9a04ae39d84d6080414dac6a09e7aa",
-      "sha256": "914a482e71385f9cc202a0b028c466b282d790121995de8d152aa0c6a237439d"
+      "bytes": 72112,
+      "git_blob": "5a044713d3076ee3aecd540c7b67ac10109c48b7",
+      "sha256": "35fa3a5356c20b7a874b61e71c1ae67f05bff743598aa20d7ec747e72ec1b371"
     },
     {
       "path": "DECISIONS.md",
@@ -51,9 +51,9 @@
     },
     {
       "path": "TASKS.md",
-      "bytes": 26940,
-      "git_blob": "b7216e7a3669f87bce3f27c33c3c892e2014cb59",
-      "sha256": "a37854e3531bd5b26de689dbb3b67fbe2c55de434a335e768fe96e229493f0b8"
+      "bytes": 27017,
+      "git_blob": "6a6719a7dfa5fdd925735b484b059d6bca27027d",
+      "sha256": "dcc2d4a74f5c1c747cbad2c3ca29119ecc8d6ad6b8ea6f3411ec2580f3bf52ca"
     },
     {
       "path": "design/README.md",
