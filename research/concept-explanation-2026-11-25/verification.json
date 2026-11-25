@@ -1,0 +1,51 @@
+{
+  "status": "passed",
+  "pdfs": {
+    "Concepts_functions_scenarios_A4_2026-11-25.pdf": {
+      "pages": 32,
+      "bytes": 10481161,
+      "sha256": "c87fd8fcac5d570180a4700b6d652b6b43e9b111efbfb5e4d5a1981820060502",
+      "external_links": 20
+    },
+    "Six_user_scenarios_A4_2026-11-25.pdf": {
+      "pages": 6,
+      "bytes": 82008,
+      "sha256": "39179ccf4fb82592f129eda64846a13317a3f87555396b2af775c30978eeab3f",
+      "external_links": 0
+    }
+  },
+  "concepts": 2,
+  "components_explained": 17,
+  "core_movements": 9,
+  "reserve_movements": 9,
+  "scenarios": 6,
+  "scenario_steps": 36,
+  "scenario_extract_matches_main_visually": true,
+  "editable_vector_sources": 8,
+  "raster_placements": 11,
+  "min_raster_ppi": 270.2,
+  "min_font_pt": 7.0,
+  "old_exercise_codes_absent": true,
+  "illustrative_base_area_m2": [
+    "0.78",
+    "0.72"
+  ],
+  "illustrative_difference_m2": "0.06",
+  "source_statuses_disclosed": true,
+  "old_files_preserved_against": "9c7d81b8ca7f7c8cf774b9dbaab9ddfd2d6bd4d2",
+  "preserved": {
+    "outputs/current/Project_card_A4_2026-11-25.pdf": "e106961c3c9098dc21ce31daa2597f1a4221182d1dedba5f96d39933b4b8b50a",
+    "outputs/current/Pencil_sketches_COLOR_A4_2026-11-25.pdf": "11665bf0ab270c5481a0e286c663daa4a5894a33af948303d7315e3fe8e52227",
+    "outputs/current/Pencil_sketches_BW_A4_2026-11-25.pdf": "b19b49f80193cf8c0ecfa558d280cfaa354ac23b18737d6b29886561f7345b67",
+    "outputs/current/Preliminary_trainer_brief_A4_2026-11-25.pdf": "8e144199218961e8c8ec95e60eac623f30e5071c9fea21c2c59d4edea0663285",
+    "outputs/current/Analogi_trenazhera_2026-11-20.xlsx": "d73ceb1afee97b64776c47069d10d16a5ef74bc1ff4e3b73bf3850e950bf59a2",
+    "meetings/raw/teacher-discussion-03.md": "e2e73bbf73cf20a672fa7d4b6c27fe3cdb127dc56740ee33291f0b8c4ac7dbce",
+    "design/pencil-sketches-2026-11-25/bench-color.png": "7e24754bc2371513d8a439386de934abb7d97fca7bad886c616993c017bb259f",
+    "design/pencil-sketches-2026-11-25/bench-bw.png": "3d18e26c863802188a2747595f3afe9fb9f42c520a6cbda545032f4098b94801",
+    "design/pencil-sketches-2026-11-25/cabinet-color.png": "5c11610fef31cc4d8e9d74e6fcfe3ab5314adc938d3ee184a30811ff2923a877",
+    "design/pencil-sketches-2026-11-25/cabinet-bw.png": "a06f10fbb860e940883c541bca96f6af617db7bf50cf9db3214dbb946998c89e",
+    "design/pencil-sketches-2026-11-25/inventory-color.png": "98ee9e11a2dc4c32e1c4fbc86b9caffaa03684a5dccb85a817fc7d8fc2c7eabc",
+    "design/pencil-sketches-2026-11-25/inventory-bw.png": "61806ea98a4d010b450bfd7ad75b330426cf15ea05a537918d30969413dd29dc"
+  },
+  "visual_review": "All 32 A4 pages rendered with Poppler and inspected; six extracted pages match the full report. Revised standing support statement and scenario labels checked. No structural or user testing was performed."
+}
