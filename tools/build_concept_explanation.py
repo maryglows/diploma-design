@@ -142,7 +142,7 @@ def write_md():
    for t,u,status in p['sources']:lines += ['- ['+t+']('+u+'): '+status]
    for t in p.get('tail',[]):lines+=['',t]
    lines+=['']
- (D/'README.md').write_text('\n'.join(lines)+'\n',encoding='utf-8')
+ (D/'README.md').write_text('\n'.join(lines).rstrip()+'\n',encoding='utf-8')
 
 def build():
  doc=Doc(STEM);doc.c.setTitle('Два варианта домашнего тренажёра: функции, упражнения и сценарии')
