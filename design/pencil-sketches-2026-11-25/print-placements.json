@@ -1,0 +1,82 @@
+[
+  {
+    "pdf": "Project_card_A4_2026-11-25.pdf",
+    "page": 2,
+    "path": "research/bork-style-2026-11-25/hs844-set.jpg",
+    "ppi": 943.4,
+    "crop": false,
+    "sha256": "48a238ea86a8fd2ed25ffc7bc69127c120b39d6985d5bebb733217ab4a346f9b"
+  },
+  {
+    "pdf": "Project_card_A4_2026-11-25.pdf",
+    "page": 2,
+    "path": "research/bork-style-2026-11-25/hs844-case.jpg",
+    "ppi": 943.4,
+    "crop": false,
+    "sha256": "365f51d3553443988d6813b2a081816355a8f9a39f6b1f35cf888d44399297ce"
+  },
+  {
+    "pdf": "Project_card_A4_2026-11-25.pdf",
+    "page": 2,
+    "path": "research/bork-style-2026-11-25/hs841-detail.jpg",
+    "ppi": 943.4,
+    "crop": false,
+    "sha256": "603e089bc808cc7c69dcefb10026d0410d8406396d95bd401c041ff132d76843"
+  },
+  {
+    "pdf": "Project_card_A4_2026-11-25.pdf",
+    "page": 2,
+    "path": "research/bork-style-2026-11-25/hs830-mat.jpg",
+    "ppi": 943.4,
+    "crop": false,
+    "sha256": "2c2a3da1f4c0b5c0c972adbac9fee3e87048c8eaf548c12f6737aee67d5dc46b"
+  },
+  {
+    "pdf": "Pencil_sketches_COLOR_A4_2026-11-25.pdf",
+    "page": 1,
+    "path": "design/pencil-sketches-2026-11-25/bench-color.png",
+    "ppi": 163.2,
+    "crop": false,
+    "sha256": "7e24754bc2371513d8a439386de934abb7d97fca7bad886c616993c017bb259f"
+  },
+  {
+    "pdf": "Pencil_sketches_COLOR_A4_2026-11-25.pdf",
+    "page": 2,
+    "path": "design/pencil-sketches-2026-11-25/cabinet-color.png",
+    "ppi": 163.3,
+    "crop": false,
+    "sha256": "5c11610fef31cc4d8e9d74e6fcfe3ab5314adc938d3ee184a30811ff2923a877"
+  },
+  {
+    "pdf": "Pencil_sketches_COLOR_A4_2026-11-25.pdf",
+    "page": 3,
+    "path": "design/pencil-sketches-2026-11-25/inventory-color.png",
+    "ppi": 163.3,
+    "crop": false,
+    "sha256": "98ee9e11a2dc4c32e1c4fbc86b9caffaa03684a5dccb85a817fc7d8fc2c7eabc"
+  },
+  {
+    "pdf": "Pencil_sketches_BW_A4_2026-11-25.pdf",
+    "page": 1,
+    "path": "design/pencil-sketches-2026-11-25/bench-bw.png",
+    "ppi": 163.2,
+    "crop": false,
+    "sha256": "3d18e26c863802188a2747595f3afe9fb9f42c520a6cbda545032f4098b94801"
+  },
+  {
+    "pdf": "Pencil_sketches_BW_A4_2026-11-25.pdf",
+    "page": 2,
+    "path": "design/pencil-sketches-2026-11-25/cabinet-bw.png",
+    "ppi": 163.3,
+    "crop": false,
+    "sha256": "a06f10fbb860e940883c541bca96f6af617db7bf50cf9db3214dbb946998c89e"
+  },
+  {
+    "pdf": "Pencil_sketches_BW_A4_2026-11-25.pdf",
+    "page": 3,
+    "path": "design/pencil-sketches-2026-11-25/inventory-bw.png",
+    "ppi": 163.3,
+    "crop": false,
+    "sha256": "61806ea98a4d010b450bfd7ad75b330426cf15ea05a537918d30969413dd29dc"
+  }
+]

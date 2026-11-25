@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-25",
+  "brand_confirmed_by_author": "BORK",
+  "images": [
+    {
+      "name": "hs844-set",
+      "page": "https://www.bork.ru/eShop/Sports-Equipment/hs844/",
+      "image_url": "https://st.bork.ru/components/product/beauty/sports-equipment/hs844/feature/01.jpg",
+      "status": 200,
+      "path": "research/bork-style-2026-11-25/hs844-set.jpg",
+      "sha256": "48a238ea86a8fd2ed25ffc7bc69127c120b39d6985d5bebb733217ab4a346f9b"
+    },
+    {
+      "name": "hs844-case",
+      "page": "https://www.bork.ru/eShop/Sports-Equipment/hs844/",
+      "image_url": "https://st.bork.ru/components/product/beauty/sports-equipment/hs844/feature/02.jpg",
+      "status": 200,
+      "path": "research/bork-style-2026-11-25/hs844-case.jpg",
+      "sha256": "365f51d3553443988d6813b2a081816355a8f9a39f6b1f35cf888d44399297ce"
+    },
+    {
+      "name": "hs841-detail",
+      "page": "https://www.bork.ru/eShop/Sports-Equipment/hs841/",
+      "image_url": "https://st.bork.ru/components/product/beauty/sports-equipment/hs841/feature/02.jpg",
+      "status": 200,
+      "path": "research/bork-style-2026-11-25/hs841-detail.jpg",
+      "sha256": "603e089bc808cc7c69dcefb10026d0410d8406396d95bd401c041ff132d76843"
+    },
+    {
+      "name": "hs830-mat",
+      "page": "https://www.bork.ru/eShop/Sports-Equipment/hs830/",
+      "image_url": "https://st.bork.ru/components/product/beauty/sports-equipment/hs830/feature/01.jpg",
+      "status": 200,
+      "path": "research/bork-style-2026-11-25/hs830-mat.jpg",
+      "sha256": "2c2a3da1f4c0b5c0c972adbac9fee3e87048c8eaf548c12f6737aee67d5dc46b"
+    }
+  ],
+  "author_reference": {
+    "path": "research/bork-style-2026-11-25/author-pencil-reference.png",
+    "role": "Pencil sketch presentation only; no instructions imported",
+    "sha256": "475e765c87c20ecc24d9611ccb9f227d6d39a50c03ea42b00e073260409580c7"
+  }
+}

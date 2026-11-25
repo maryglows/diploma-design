@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-25",
+  "tool": "built-in image_gen",
+  "default_source_directory": "C:/Users/mekae/.codex/generated_images/01a1fd9f-28d6-71f1-8575-775ab98afc75",
+  "selected": {
+    "bench-color.png": "exec-647d1a61-4b4c-4bae-a892-06e6ffead41a.png",
+    "cabinet-color.png": "exec-a1afe1f1-266d-4199-8875-4cbfddafa0d6.png",
+    "inventory-color.png": "exec-3f73123d-8499-47a5-9687-0291de45faae.png",
+    "bench-bw.png": "exec-695723b8-3d11-49c6-8e38-2bf6b582782a.png",
+    "cabinet-bw.png": "exec-611077c0-1815-4bb9-87da-5acc43074efb.png",
+    "inventory-bw.png": "exec-20c8674f-0370-4409-8575-54a74b9c5cb5.png"
+  },
+  "discarded_cabinet": {
+    "file": "exec-6faed593-19ec-4f0c-9677-661e2f9a4a4d.png",
+    "reason": "Front cross rail blocked seated approach; additional inventory was not justified. Corrected with image_gen; rejected version not included in printable deliverables."
+  },
+  "pixel_image_edits_in_scripts": false,
+  "pdf_print_processing": "PyMuPDF page.recolor(components=1) for true grayscale document output only"
+}
