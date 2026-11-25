@@ -1,0 +1,814 @@
+[
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 1,
+    "asset": "speed-p04",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/speed-p04.jpg",
+    "ppi": 400,
+    "label": "Корпус с отдельными принадлежностями"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 1,
+    "asset": "speed-detail-a",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/speed-detail-a.jpg",
+    "ppi": 400,
+    "label": "Регулировка выхода троса"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 1,
+    "asset": "speed-detail-b",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/speed-detail-b.jpg",
+    "ppi": 400,
+    "label": "Шарнир платформы"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 1,
+    "asset": "speed-ring",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/speed-ring.jpg",
+    "ppi": 400,
+    "label": "Кольцо управления"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 1,
+    "asset": "speed-plans",
+    "crop": [
+      0.13,
+      0.36,
+      0.385,
+      0.8
+    ],
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/speed-plans.jpg",
+    "ppi": 401,
+    "label": "Экран настройки нагрузки"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 1,
+    "asset": "speed-p13",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/speed-p13.jpg",
+    "ppi": 400,
+    "label": "Человек в приседе"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 2,
+    "asset": "solo-p00",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/solo-p00.jpg",
+    "ppi": 400,
+    "label": "Сиденье над хранением"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 2,
+    "asset": "solo-p01",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/solo-p01.jpg",
+    "ppi": 400,
+    "label": "Гиря в торцевой ячейке"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 2,
+    "asset": "solo-p12",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/solo-p12.jpg",
+    "ppi": 400,
+    "label": "Колесо с рукояткой"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 2,
+    "asset": "solo-p00",
+    "crop": [
+      0.3,
+      0.28,
+      0.72,
+      0.66
+    ],
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/solo-p00.jpg",
+    "ppi": 400,
+    "label": "Узел спинки крупным планом"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 2,
+    "asset": "solo-p02",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/solo-p02.jpg",
+    "ppi": 400,
+    "label": "Вынутые гантели"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 2,
+    "asset": "solo-trainer-01",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/solo-trainer-01.jpg",
+    "ppi": 400,
+    "label": "Человек на наклонной опоре"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 3,
+    "asset": "tech-p14-x246",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/tech-p14-x246.jpg",
+    "ppi": 400,
+    "label": "Скамья и распределение предметов"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 3,
+    "asset": "tech-p10-x173",
+    "crop": [
+      0.35,
+      0.12,
+      0.97,
+      0.9
+    ],
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/tech-p10-x173.jpg",
+    "ppi": 400,
+    "label": "Разделители гантелей"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 3,
+    "asset": "tech-p11-x184",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/tech-p11-x184.jpg",
+    "ppi": 266,
+    "label": "Колёса и торец"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 3,
+    "asset": "tech-p09-x167",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/tech-p09-x167.jpg",
+    "ppi": 328,
+    "label": "Лента у корпуса"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 3,
+    "asset": "tech-p07-x139",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/tech-p07-x139.jpg",
+    "ppi": 338,
+    "label": "Контакт тела на узкой опоре"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 3,
+    "asset": "tech-p02-x18",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/tech-p02-x18.jpg",
+    "ppi": 399,
+    "label": "Поворот корпуса сидя"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 4,
+    "asset": "step-0674",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/step-0674.jpg",
+    "ppi": 400,
+    "label": "Закрытая скамья"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 4,
+    "asset": "step-lid",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/step-lid.jpg",
+    "ppi": 400,
+    "label": "Снятие большой боковины"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 4,
+    "asset": "step-hook",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/step-hook.jpg",
+    "ppi": 400,
+    "label": "Карабин и выдвижной крюк"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 4,
+    "asset": "step-0700",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/step-0700.jpg",
+    "ppi": 400,
+    "label": "Поверхность степа"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 4,
+    "asset": "step-0695",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/step-0695.jpg",
+    "ppi": 400,
+    "label": "Отсеки после раскрытия"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 4,
+    "asset": "step-0767",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/step-0767.jpg",
+    "ppi": 400,
+    "label": "Тяга с опорой рукой"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 5,
+    "asset": "fit-p03",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/fit-p03.jpg",
+    "ppi": 400,
+    "label": "Боковые и торцевые ячейки"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 5,
+    "asset": "fit-p06",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/fit-p06.jpg",
+    "ppi": 400,
+    "label": "Кольцо для карабина"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 5,
+    "asset": "fit-p07",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/fit-p07.jpg",
+    "ppi": 400,
+    "label": "Гиря и мяч в торце"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 5,
+    "asset": "fit-frame-08",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/fit-frame-08.jpg",
+    "ppi": 400,
+    "label": "Присоединение ленты"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 5,
+    "asset": "fit-p05",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/fit-p05.jpg",
+    "ppi": 400,
+    "label": "Опора под поднятым верхом"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 5,
+    "asset": "fit-frame-10",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/fit-frame-10.jpg",
+    "ppi": 400,
+    "label": "Отжимание от высокой поверхности"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 6,
+    "asset": "old-C05",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/old-C05.jpg",
+    "ppi": 400,
+    "label": "Экран над хранением"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 6,
+    "asset": "old-C06",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/old-C06.jpg",
+    "ppi": 400,
+    "label": "Держатели свободных весов"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 6,
+    "asset": "wall-2322",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/wall-2322.jpg",
+    "ppi": 400,
+    "label": "Тросовый узел"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 6,
+    "asset": "wall-manual-p13",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/wall-manual-p13.png",
+    "ppi": 400,
+    "label": "Настенное крепление из инструкции"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 7,
+    "asset": "tonal-p00",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/tonal-p00.jpg",
+    "ppi": 400,
+    "label": "Корпус на стене"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 7,
+    "asset": "tonal-p00",
+    "crop": [
+      0.11,
+      0.04,
+      0.75,
+      0.45
+    ],
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/tonal-p00.jpg",
+    "ppi": 399,
+    "label": "Шарнир переставляемого рычага"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 7,
+    "asset": "tonal-p02",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/tonal-p02.jpg",
+    "ppi": 400,
+    "label": "Кнопка рядом с кистью"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 7,
+    "asset": "tonal-p06",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/tonal-p06.jpg",
+    "ppi": 400,
+    "label": "Схема зоны человека"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 8,
+    "asset": "cassina-01",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/cassina-01.jpg",
+    "ppi": 400,
+    "label": "Закрытая и открытая колонна"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 8,
+    "asset": "cassina-05",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/cassina-05.jpg",
+    "ppi": 400,
+    "label": "Отдельные крючки гирь"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 8,
+    "asset": "cassina-06",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/cassina-06.jpg",
+    "ppi": 400,
+    "label": "Подставка под гантели"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 8,
+    "asset": "cassina-07",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/cassina-07.jpg",
+    "ppi": 400,
+    "label": "Крючки для лент"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 9,
+    "asset": "sana-01",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/sana-01.jpg",
+    "ppi": 400,
+    "label": "Перестановка перекладины"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 9,
+    "asset": "sana-shop-08",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/sana-shop-08.jpg",
+    "ppi": 400,
+    "label": "Место возврата круглой детали"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 9,
+    "asset": "sana-shop-07",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/sana-shop-07.jpg",
+    "ppi": 400,
+    "label": "Боковой узел крупным планом"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 9,
+    "asset": "sana-shop-10",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/sana-shop-10.jpg",
+    "ppi": 400,
+    "label": "Скамья с отдельным мягким контактом"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 10,
+    "asset": "old-C19",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/old-C19.jpg",
+    "ppi": 400,
+    "label": "Встроенное хранение"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 10,
+    "asset": "old-C19",
+    "crop": [
+      0,
+      0.04,
+      0.35,
+      0.98
+    ],
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/old-C19.jpg",
+    "ppi": 400,
+    "label": "Открытые двери"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 10,
+    "asset": "old-C19",
+    "crop": [
+      0.3,
+      0.1,
+      0.77,
+      0.96
+    ],
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/old-C19.jpg",
+    "ppi": 400,
+    "label": "Разделение внутренних предметов"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 10,
+    "asset": "old-C21",
+    "crop": [
+      0.03,
+      0.1,
+      0.62,
+      0.98
+    ],
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/old-C21.jpg",
+    "ppi": 400,
+    "label": "Край рабочей зоны"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 11,
+    "asset": "old-C22",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/old-C22.jpg",
+    "ppi": 400,
+    "label": "Мебельный образ скамьи"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 11,
+    "asset": "old-C47",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/old-C47.jpg",
+    "ppi": 400,
+    "label": "Доступ под верхом"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 11,
+    "asset": "old-C47",
+    "crop": [
+      0.18,
+      0.2,
+      0.87,
+      0.91
+    ],
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/old-C47.jpg",
+    "ppi": 400,
+    "label": "Раскладка предметов крупнее"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 11,
+    "asset": "old-C48",
+    "crop": [
+      0.07,
+      0.34,
+      0.95,
+      0.87
+    ],
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/old-C48.jpg",
+    "ppi": 400,
+    "label": "Обивка и кромка"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 12,
+    "asset": "pent-p01",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/pent-p01.jpg",
+    "ppi": 400,
+    "label": "Пружины и выбор сопротивления"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 12,
+    "asset": "pent-frame-03",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/pent-frame-03.jpg",
+    "ppi": 297,
+    "label": "Карабин и текстильная рукоять"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 12,
+    "asset": "pent-frame-06",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/pent-frame-06.jpg",
+    "ppi": 297,
+    "label": "Различимые положения регулировки"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 12,
+    "asset": "pent-frame-10",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/pent-frame-10.jpg",
+    "ppi": 297,
+    "label": "Подвижная каретка и мягкие части"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 13,
+    "asset": "old-C23",
+    "crop": [
+      0.27,
+      0.26,
+      0.67,
+      0.7
+    ],
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/old-C23.jpg",
+    "ppi": 400,
+    "label": "Седло и стойка"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 13,
+    "asset": "old-C23",
+    "crop": [
+      0.3,
+      0.48,
+      0.85,
+      0.86
+    ],
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/old-C23.jpg",
+    "ppi": 377,
+    "label": "Педаль с ремешком"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 13,
+    "asset": "old-C24",
+    "crop": [
+      0.15,
+      0.62,
+      0.89,
+      0.97
+    ],
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/old-C24.jpg",
+    "ppi": 400,
+    "label": "Основание"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 13,
+    "asset": "kettler-display",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/kettler-display.jpg",
+    "ppi": 400,
+    "label": "Консоль"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 14,
+    "asset": "kilo-03",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/kilo-03.jpg",
+    "ppi": 400,
+    "label": "Цельная форма груза"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 14,
+    "asset": "kilo-05",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/kilo-05.jpg",
+    "ppi": 400,
+    "label": "Хват двумя руками"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 14,
+    "asset": "kilo-06",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/kilo-06.jpg",
+    "ppi": 400,
+    "label": "Поверхность крупным планом"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 14,
+    "asset": "kilo-13",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/kilo-13.jpg",
+    "ppi": 400,
+    "label": "Использование отдельно от хранения"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 15,
+    "asset": "old-C28",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/old-C28.jpg",
+    "ppi": 400,
+    "label": "Человек держит пару"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 15,
+    "asset": "old-C29",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/old-C29.jpg",
+    "ppi": 400,
+    "label": "Дерево и металлические части"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 15,
+    "asset": "old-C30",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/old-C30.jpg",
+    "ppi": 400,
+    "label": "Размерный ряд"
+  },
+  {
+    "pdf": "Visual_analog_details_A4_2026-11-25.pdf",
+    "page": 15,
+    "asset": "old-C29",
+    "crop": [
+      0.28,
+      0.2,
+      0.72,
+      0.82
+    ],
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/old-C29.jpg",
+    "ppi": 346,
+    "label": "Торцы крупным планом"
+  },
+  {
+    "pdf": "Preliminary_trainer_brief_A4_2026-11-25.pdf",
+    "page": 2,
+    "asset": "body-child-6",
+    "crop": null,
+    "saved_source": "research/assets/age-groups/child-6.jpg",
+    "ppi": 399,
+    "label": "Рука и противоположная нога"
+  },
+  {
+    "pdf": "Preliminary_trainer_brief_A4_2026-11-25.pdf",
+    "page": 2,
+    "asset": "body-child-5",
+    "crop": null,
+    "saved_source": "research/assets/age-groups/child-5.jpg",
+    "ppi": 399,
+    "label": "Дотянуться до мягкого предмета"
+  },
+  {
+    "pdf": "Preliminary_trainer_brief_A4_2026-11-25.pdf",
+    "page": 2,
+    "asset": "body-child-4",
+    "crop": null,
+    "saved_source": "research/assets/age-groups/child-4.jpg",
+    "ppi": 400,
+    "label": "Поднять таз лёжа"
+  },
+  {
+    "pdf": "Preliminary_trainer_brief_A4_2026-11-25.pdf",
+    "page": 2,
+    "asset": "body-youth-pushup",
+    "crop": null,
+    "saved_source": "research/assets/age-groups/youth-pushup.jpg",
+    "ppi": 399,
+    "label": "Отжаться с коленей"
+  },
+  {
+    "pdf": "Preliminary_trainer_brief_A4_2026-11-25.pdf",
+    "page": 2,
+    "asset": "body-youth-goblet-lowered",
+    "crop": null,
+    "saved_source": "research/assets/age-groups/youth-goblet-lowered.jpg",
+    "ppi": 399,
+    "label": "Присесть с гантелью"
+  },
+  {
+    "pdf": "Preliminary_trainer_brief_A4_2026-11-25.pdf",
+    "page": 2,
+    "asset": "body-youth-rdl-dumbbells",
+    "crop": null,
+    "saved_source": "research/assets/age-groups/youth-rdl-dumbbells.jpg",
+    "ppi": 400,
+    "label": "Наклониться с гантелями"
+  },
+  {
+    "pdf": "Preliminary_trainer_brief_A4_2026-11-25.pdf",
+    "page": 2,
+    "asset": "body-nhs-sit-to-stand",
+    "crop": null,
+    "saved_source": "research/assets/board-1/nhs-sit-to-stand.jpg",
+    "ppi": 399,
+    "label": "Сесть и встать"
+  },
+  {
+    "pdf": "Preliminary_trainer_brief_A4_2026-11-25.pdf",
+    "page": 2,
+    "asset": "body-older-calf",
+    "crop": null,
+    "saved_source": "research/assets/age-groups/older-calf.jpg",
+    "ppi": 399,
+    "label": "Поднять пятки у опоры"
+  },
+  {
+    "pdf": "Preliminary_trainer_brief_A4_2026-11-25.pdf",
+    "page": 2,
+    "asset": "body-older-twist",
+    "crop": null,
+    "saved_source": "research/assets/age-groups/older-twist.jpg",
+    "ppi": 400,
+    "label": "Повернуть корпус сидя"
+  },
+  {
+    "pdf": "Preliminary_trainer_brief_A4_2026-11-25.pdf",
+    "page": 6,
+    "asset": "solo-p12",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/solo-p12.jpg",
+    "ppi": 400,
+    "label": "Сталь и узел колеса"
+  },
+  {
+    "pdf": "Preliminary_trainer_brief_A4_2026-11-25.pdf",
+    "page": 6,
+    "asset": "step-0700",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/step-0700.jpg",
+    "ppi": 401,
+    "label": "Покрытие отдельной части"
+  },
+  {
+    "pdf": "Preliminary_trainer_brief_A4_2026-11-25.pdf",
+    "page": 6,
+    "asset": "fit-p06",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/fit-p06.jpg",
+    "ppi": 400,
+    "label": "Полимерный корпус"
+  },
+  {
+    "pdf": "Preliminary_trainer_brief_A4_2026-11-25.pdf",
+    "page": 6,
+    "asset": "pent-p01",
+    "crop": null,
+    "saved_source": "research/analogs/detail-v2-2026-11-21/assets/pent-p01.jpg",
+    "ppi": 400,
+    "label": "Дерево и механика"
+  }
+]

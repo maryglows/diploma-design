@@ -1,0 +1,38 @@
+{
+  "status": "passed",
+  "pdfs": {
+    "Visual_analog_details_A4_2026-11-25.pdf": {
+      "pages": 17,
+      "sha256": "a7015033957bd726f9add4735d7dfedf68ca0016274a7d3b4128b795c3e7151e",
+      "links": 111,
+      "bytes": 7185740
+    },
+    "Preliminary_trainer_brief_A4_2026-11-25.pdf": {
+      "pages": 11,
+      "sha256": "8e144199218961e8c8ec95e60eac623f30e5071c9fea21c2c59d4edea0663285",
+      "links": 34,
+      "bytes": 799422
+    }
+  },
+  "analogs_and_inventory": 15,
+  "visual_details": 70,
+  "experience_sources": 5,
+  "movement_photos": 9,
+  "requirements": 12,
+  "concept_svgs": 2,
+  "old_codes_absent_from_pdf_text": true,
+  "min_photo_ppi": 266,
+  "min_font_pt": 7.6,
+  "raw_material_quote_subtotal_rub": "3838.32",
+  "subtotal_is_not_complete_product_cost": true,
+  "preserved_against_commit": "b4ac1a2276957fafa778d4d1e6fc425cdc0767a6",
+  "preserved_files": {
+    "outputs/current/Analogi_trenazhera_2026-11-20.xlsx": "d73ceb1afee97b64776c47069d10d16a5ef74bc1ff4e3b73bf3850e950bf59a2",
+    "outputs/current/Trainer_photos_A4.pdf": "7bff48d39b0661ae88daec20be3977a49ba68639c4102ae61ef8f3fa6eb7587d",
+    "outputs/current/Trainer_photos_A4.pptx": "9c7b340f4a57edfbb7ea4bc3c5317f67b48788b7e4cee921b3af44d2a54e82d5",
+    "outputs/current/Analog_project_advantages_A4_2026-11-23.pdf": "e2d9d84062f10cc7276655dee6ed519b706fd60ea6deee28b94a5dba57f6e5e0",
+    "outputs/current/Analog_detail_cards_A4_2026-11-21_v2.pdf": "5e2153631fd1144bc5f6313e13fc9ede7fa79780c57cb0057ceb115a5629b51c",
+    "meetings/raw/teacher-discussion-03.md": "e2e73bbf73cf20a672fa7d4b6c27fe3cdb127dc56740ee33291f0b8c4ac7dbce"
+  },
+  "visual_review": "All 28 A4 pages rendered with Poppler and inspected. Revised photo headers, cabinet captions and review links checked. Structural behaviour has not been tested."
+}
