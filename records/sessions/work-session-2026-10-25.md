@@ -6,20 +6,20 @@
 
 Комплект отправлен на GitHub коммитом `a4b0a77`: [открыть ветку](https://github.com/maryglows/diploma-design/tree/codex/project-work-2026-10-25). Создан [черновик PR №2](https://github.com/maryglows/diploma-design/pull/2), он не объединён. Удалённая ветка сверена с локальной, `main` осталась на `63ef3ef`. Запись об успешной отправке добавляется отдельным коммитом в ту же ветку.
 
-Актуальные материалы и ограничения перечислены в [CURRENT.md](../CURRENT.md), задачи — только в [TASKS.md](../TASKS.md). Переход к общим функциям и предварительному заданию выполнен по источникам. Замеры, интервью и испытания конструкции не выполнены; материал и окончательная форма не выбраны.
+Актуальные материалы и ограничения перечислены в [CURRENT.md](../../docs/CURRENT.md), задачи — только в [TASKS.md](../../docs/TASKS.md). Переход к общим функциям и предварительному заданию выполнен по источникам. Замеры, интервью и испытания конструкции не выполнены; материал и окончательная форма не выбраны.
 
 ## Что сохранено
 
 | Результат | Файлы и контекст |
 |---|---|
-| Доработка первоначального общего листа | [PDF](../outputs/current/Research_board_01_2026-10-24.pdf), [PPTX](../outputs/current/Research_board_01_2026-10-24.pptx), [разбор](../research/board-1-review.md), [содержание](../research/board-1-content.json) |
-| Три отдельных листа по группам | [Общий PDF](../outputs/current/Age_group_boards_2026-10-24_v3.pdf), [редактируемый PPTX](../outputs/current/Age_group_boards_2026-10-24_v3.pptx), [дети](../outputs/current/Age_group_boards_2026-10-24_v3_01_children.pdf), [молодёжь](../outputs/current/Age_group_boards_2026-10-24_v3_02_young_adults.pdf), [пожилые](../outputs/current/Age_group_boards_2026-10-24_v3_03_older_adults.pdf) |
-| Исследование общей платформы | [Word](../outputs/current/Platform_concept_research_2026-10-24.docx), [источники](../outputs/current/Platform_concept_sources_2026-10-24.md), [статус предложений](../research/platform-concept-research.md) |
-| Актуальные итоги после комментария автора | [PPTX v2](../outputs/current/Diploma_research_summary_2026-10-25_v2.pptx), [PDF v2](../outputs/current/Diploma_research_summary_2026-10-25_v2.pdf), 30 слайдов; изложение от первого лица женского рода, удалены дерево и сравнение формы |
-| Презентация до комментария | [Первоначальный PPTX](../outputs/current/Diploma_research_summary_2026-10-25.pptx), [PDF](../outputs/current/Diploma_research_summary_2026-10-25.pdf), 32 слайда; сохранены как история |
-| Сообщение преподавателю | [Текст Татьяне Владимировне и приложения](../meetings/outgoing/2026-10-25-tatyana-vladimirovna.md). Факт отправки и обратная связь не подтверждены |
-| Фотографии и основания | [Источники по группам](../research/age-group-sources.md), [содержание A3](../research/age-group-boards.json), [манифест фотографий](../research/assets/age-groups/manifest.json), изображения в `research/assets/age-groups/` и `research/assets/board-1/` |
-| Редактирование и пересборка | Скрипты `tools/build_first_board.mjs`, `build_group_boards.mjs`, `render_first_board_pdf.py`, `build_platform_research.py`, `author_day_summary.mjs`, `revise_day_summary_v2.mjs`; [история итоговой презентации](../research/day-summary-2026-10-25.md) |
+| Доработка первоначального общего листа | [PDF](../../outputs/current/Research_board_01_2026-10-24.pdf), [PPTX](../../outputs/current/Research_board_01_2026-10-24.pptx), [разбор](../../research/board-1-review.md), [содержание](../../research/board-1-content.json) |
+| Три отдельных листа по группам | [Общий PDF](../../outputs/current/Age_group_boards_2026-10-24_v3.pdf), [редактируемый PPTX](../../outputs/current/Age_group_boards_2026-10-24_v3.pptx), [дети](../../outputs/current/Age_group_boards_2026-10-24_v3_01_children.pdf), [молодёжь](../../outputs/current/Age_group_boards_2026-10-24_v3_02_young_adults.pdf), [пожилые](../../outputs/current/Age_group_boards_2026-10-24_v3_03_older_adults.pdf) |
+| Исследование общей платформы | [Word](../../outputs/current/Platform_concept_research_2026-10-24.docx), [источники](../../outputs/current/Platform_concept_sources_2026-10-24.md), [статус предложений](../../research/platform-concept-research.md) |
+| Актуальные итоги после комментария автора | [PPTX v2](../../outputs/current/Diploma_research_summary_2026-10-25_v2.pptx), [PDF v2](../../outputs/current/Diploma_research_summary_2026-10-25_v2.pdf), 30 слайдов; изложение от первого лица женского рода, удалены дерево и сравнение формы |
+| Презентация до комментария | [Первоначальный PPTX](../../outputs/current/Diploma_research_summary_2026-10-25.pptx), [PDF](../../outputs/current/Diploma_research_summary_2026-10-25.pdf), 32 слайда; сохранены как история |
+| Сообщение преподавателю | [Текст Татьяне Владимировне и приложения](../../meetings/outgoing/2026-10-25-tatyana-vladimirovna.md). Факт отправки и обратная связь не подтверждены |
+| Фотографии и основания | [Источники по группам](../../research/age-group-sources.md), [содержание A3](../../research/age-group-boards.json), [манифест фотографий](../../research/assets/age-groups/manifest.json), изображения в `research/assets/age-groups/` и `research/assets/board-1/` |
+| Редактирование и пересборка | Скрипты `tools/build_first_board.mjs`, `build_group_boards.mjs`, `render_first_board_pdf.py`, `build_platform_research.py`, `author_day_summary.mjs`, `revise_day_summary_v2.mjs`; [история итоговой презентации](../../research/day-summary-2026-10-25.md) |
 
 В [контрольном манифесте](work-session-2026-10-25-files.json) перечислены материалы с размерами и SHA-256. PPTX и DOCX — самостоятельные редактируемые файлы; открывать их можно без сохранённой живой сессии Codex. Скрипты используют среду и библиотеки, описанные в связанных исследовательских записях; служебный каталог `.codex-build/` с рендерами и распакованными программами не включён в Git.
 
