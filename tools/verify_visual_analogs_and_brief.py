@@ -5,7 +5,7 @@ import json,re,hashlib,subprocess,xml.etree.ElementTree as ET
 import pymupdf
 
 ROOT=Path(__file__).resolve().parents[1]
-D=ROOT/'research/analogs/visual-brief-2026-11-25';OUT=ROOT/'outputs/current'
+D=ROOT/'research/analogs/visual-brief-2026-11-25'
 BASE='b4ac1a2276957fafa778d4d1e6fc425cdc0767a6'
 
 def verify():
@@ -17,8 +17,10 @@ def verify():
  assert all(len(m['groups'])==3 and m['conclusion'] and len(m['tiles']) in [4,6] for m in data['models'])
  assert all('https://' in r['url'] and r['kind'] for r in data['reviews'].values())
  result={};texts={};links={};min_font=100
- for stem,count in [('Visual_analog_details_A4_2026-11-25',17),('Preliminary_trainer_brief_A4_2026-11-25',11)]:
-  path=OUT/(stem+'.pdf');doc=pymupdf.open(path);assert len(doc)==count
+ for folder,stem,count in [('analogs','Visual_analog_details_A4_2026-11-25',17),
+                           ('concept','Preliminary_trainer_brief_A4_2026-11-25',11)]:
+  output=ROOT/'docs'/folder
+  path=output/(stem+'.pdf');doc=pymupdf.open(path);assert len(doc)==count
   chunks=[];urls=[]
   for page in doc:
    assert abs(page.rect.width-210/25.4*72)<.1 and abs(page.rect.height-297/25.4*72)<.1
@@ -38,8 +40,8 @@ def verify():
   else:
    assert all(r['url'] in urls for r in data['reviews'].values())
    assert '3838.32' in texts[stem]
-  html=(OUT/(stem+'.html')).read_text('utf-8')
-  for image in re.findall(r'<img[^>]+src="([^"]+)"',html):assert (OUT/image).resolve().is_file(),image
+  html=(output/(stem+'.html')).read_text('utf-8')
+  for image in re.findall(r'<img[^>]+src="([^"]+)"',html):assert (output/image).resolve().is_file(),image
   assert html.count('<section>')==count
   result[stem+'.pdf']={'pages':count,'sha256':hashlib.sha256(path.read_bytes()).hexdigest(),'links':len(urls),'bytes':path.stat().st_size}
  assert min(p['ppi'] for p in placements)>=200

@@ -14,7 +14,9 @@ from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import Paragraph,Table,TableStyle
 
 ROOT=Path(__file__).resolve().parents[1]
-D=ROOT/'research/analogs/visual-brief-2026-11-25';OUT=ROOT/'outputs/current'
+D=ROOT/'research/analogs/visual-brief-2026-11-25'
+ANALOGS=ROOT/'docs/analogs'
+CONCEPT=ROOT/'docs/concept'
 DESIGN=ROOT/'design/preliminary-trainer-2026-11-25';DESIGN.mkdir(parents=True,exist_ok=True)
 WORK=ROOT/'.codex-build/visual-brief-2026-11-25';WORK.mkdir(parents=True,exist_ok=True)
 data=json.loads((D/'visual-analysis.json').read_text('utf-8'))
@@ -52,8 +54,9 @@ def p(text,style='body',bold=None):
  return Paragraph(s,styles[style])
 
 class Document:
- def __init__(self,stem):
-  self.stem=stem;self.c=Canvas(str(OUT/(stem+'.pdf')),pagesize=(210*mm,297*mm),pageCompression=1)
+ def __init__(self,stem,output):
+  self.stem=stem;self.output=output
+  self.c=Canvas(str(output/(stem+'.pdf')),pagesize=(210*mm,297*mm),pageCompression=1)
   self.c.setTitle('Детали аналогов и предварительное задание на эскиз' if 'Visual' in stem else 'Предварительное задание на эскиз домашнего тренажёра')
   self.html=[];self.pages=0;self.current=[]
  def begin(self,title,subtitle):
@@ -114,7 +117,7 @@ class Document:
  def save(self):
   self.c.save()
   css='''@page{size:A4;margin:10mm}*{box-sizing:border-box}body{font:9.5pt/1.3 "Segoe UI",sans-serif;background:#e0e5e0;color:#273a34}section{background:white;width:210mm;min-height:297mm;padding:10mm;margin:5mm auto;break-after:page}h1{color:#244f3d;font-size:16pt;margin:0 0 3mm}h2{color:#244f3d;font-size:11pt}p{margin:1.5mm 0}.subtitle,.source{font-size:8.3pt;color:#4d6259}a{color:#315e48}.grid{display:grid;grid-template-columns:1fr 1fr;gap:3mm}.tile{border:1px solid #c8d2cc;padding:2mm}.tile img{display:block;max-width:100%;object-fit:contain;margin:auto}.tile h2{font-size:9.5pt;margin:1mm 0}.plus{color:#315e48}.minus{color:#81592d}table{border-collapse:collapse;table-layout:fixed;width:100%;margin:3mm 0}td,th{border:.4pt solid #c8d2cc;padding:2mm;vertical-align:top;text-align:left}th{background:#315e48;color:white}tr:nth-child(odd){background:#f3f6f3}.concept{width:100%;max-height:115mm}@media print{body{margin:0;background:white}section{width:190mm;min-height:277mm;padding:0;margin:0}}'''
-  (OUT/(self.stem+'.html')).write_text('<!doctype html><meta charset="utf-8"><title>'+self.stem+'</title><style>'+css+'</style>'+''.join(self.html),encoding='utf-8')
+  (self.output/(self.stem+'.html')).write_text('<!doctype html><meta charset="utf-8"><title>'+self.stem+'</title><style>'+css+'</style>'+''.join(self.html),encoding='utf-8')
 
 class Figure:
  """A shared primitive list drawn both as editable SVG and as PDF vectors."""
@@ -195,7 +198,7 @@ def diagrams():
  return a,b
 
 def atlas():
- doc=Document('Visual_analog_details_A4_2026-11-25')
+ doc=Document('Visual_analog_details_A4_2026-11-25',ANALOGS)
  for m in data['models']:
   doc.begin(f"{int(m['number']):02d}. {m['title']}",'Детали на фотографиях: польза, ограничения и перенос в наш проект.')
   y=doc.text(m['facts'],10,29,190,'small')+3
@@ -256,7 +259,7 @@ def add_concept(doc,fig,concept):
  doc.finish()
 
 def make_brief(a,b):
- doc=Document('Preliminary_trainer_brief_A4_2026-11-25')
+ doc=Document('Preliminary_trainer_brief_A4_2026-11-25',CONCEPT)
  doc.begin('Предварительное задание на эскиз','Начало разработки модели по упражнениям, аналогам и найденному опыту использования.')
  y=doc.text(brief['purpose'],10,31,190,'body')+4
  rows=[[f['name'],f['why'],f['proposal']] for f in brief['base_functions']]
@@ -358,7 +361,7 @@ def write_research(total):
  for r in brief['requirements']:lines.extend(['**'+r['topic']+'**. '+r['requirement'],'Основание: '+r['basis']+'. Критерий: '+r['acceptance']])
  lines.extend(['## Стоимость','Две закупочные позиции на 25.11.2026: '+str(total)+' руб. Это не себестоимость изделия.',brief['cost_example']['not_priced']])
  for s in data['new_sources']:lines.extend(['['+s['title']+']('+s['url']+'). '+s['finding']])
- (D/'README.md').write_text('\n\n'.join(lines)+'\n',encoding='utf-8')
+ (ANALOGS/'detailed-review.md').write_text('\n\n'.join(lines)+'\n',encoding='utf-8')
 
 if __name__=='__main__':
  a,b=diagrams();at=atlas();br,total=make_brief(a,b);write_research(total)
