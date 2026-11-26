@@ -1,0 +1,12 @@
+{
+  "status": "pass",
+  "file_count": 138,
+  "bytes": 268359903,
+  "readability_checks": {
+    "pdf": 15,
+    "office": 2,
+    "json": 24
+  },
+  "errors": [],
+  "credential_pattern_matches_paths_only": []
+}

@@ -1,0 +1,712 @@
+{
+  "saved_on": "2026-11-20",
+  "repository": "maryglows/diploma-design",
+  "branch": "codex/project-work-2026-11-20",
+  "verified_uploaded_artifact_commit": "2f3845a2e812eec2eb2e47fe90f4dcd79b720dbd",
+  "pull_request": "https://github.com/maryglows/diploma-design/pull/3",
+  "hash_basis": "Git blob content after text normalization; original transcript bytes preserved using .gitattributes. Manifest excludes itself. Includes new and modified files since 4a1825c; earlier project files remain in branch.",
+  "file_count": 140,
+  "total_bytes": 268361416,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 115,
+      "sha256": "166e57ea3e0603a1e449f30969e5e65dafb6e3183157c921f5b23bf466c6445f"
+    },
+    {
+      "path": "CURRENT.md",
+      "bytes": 53699,
+      "sha256": "95e102e10822db690f7a9b76404e049d95c7bb35446ab38fe5f506669bf1b42a"
+    },
+    {
+      "path": "DECISIONS.md",
+      "bytes": 28700,
+      "sha256": "caf7d426ab1ba0e09ef2b8d4c5f2b6f0d6d29430c664876355046eaef3fb23a8"
+    },
+    {
+      "path": "PROJECT.md",
+      "bytes": 13879,
+      "sha256": "60f89caac47cb0c389b5b6025d994d6d155a665e1c179d219a84e2908446da80"
+    },
+    {
+      "path": "README.md",
+      "bytes": 8589,
+      "sha256": "aaec5f9bd82e9fbf2123864738b7ff246ee59538f8fedbdcd2c68a28526304b0"
+    },
+    {
+      "path": "TASKS.md",
+      "bytes": 21486,
+      "sha256": "9c5c22d4496b47c0a2700a00d655e3553a905be319e72a375435767472a8abdd"
+    },
+    {
+      "path": "design/README.md",
+      "bytes": 3996,
+      "sha256": "f5a80c4a0a0d7c68deafe41c6ee7c299c70b01f86c9ad66c78dfe368c371e2e2"
+    },
+    {
+      "path": "design/assets/concepts-2026-11-06/form-studies.png",
+      "bytes": 1940623,
+      "sha256": "6ca4d82edfeeaf9cc5975f324ffea3de5c23c3830067e55275a37a4af0d8d40a"
+    },
+    {
+      "path": "design/assets/s-rank-2026-11-06/concept-a-v2.png",
+      "bytes": 1864292,
+      "sha256": "0a7eb4e6b39a6bb6f1e7b2428f86767ec153edbfef34a9c9e6be930df282b2ee"
+    },
+    {
+      "path": "design/assets/s-rank-2026-11-06/concept-a.png",
+      "bytes": 1799099,
+      "sha256": "f5a135eade954bbdbb8f78391cd8c8467dffb3cc2b748b8ab9efdfd1ab0669ee"
+    },
+    {
+      "path": "design/assets/s-rank-2026-11-06/concept-b.png",
+      "bytes": 1556520,
+      "sha256": "798e6ecfe5e1ed7e00deb567cf109f649dd323b679d3e6e810f41cc6fa547fbb"
+    },
+    {
+      "path": "design/assets/s-rank-2026-11-06/concept-c-v2.png",
+      "bytes": 1942711,
+      "sha256": "5d6e0d16c2158dc434871166bdcb361e2926fd2dd80fca5a71417ac32bc49658"
+    },
+    {
+      "path": "design/assets/s-rank-2026-11-06/concept-c-v3.png",
+      "bytes": 1837985,
+      "sha256": "394ce7709574e559042f52ce644a54d4ba804150d867fe6d4b3ef8f6f4e7cc87"
+    },
+    {
+      "path": "design/assets/s-rank-2026-11-06/concept-c.png",
+      "bytes": 1871877,
+      "sha256": "05ba67049cee31558b70e9e8d3d7aa540462f2be18698897551ce0d9c5c11a76"
+    },
+    {
+      "path": "design/assets/s-rank-2026-11-06/function-kit.png",
+      "bytes": 1875266,
+      "sha256": "462b3ff9ed1e211a5879d114e4d3ae2b618a227ad4a011e9af6c6a8a59216704"
+    },
+    {
+      "path": "design/assets/s-rank-2026-11-06/reference-bench.png",
+      "bytes": 1826155,
+      "sha256": "1507437ac4e4ce94bac686735cdd03def1872ca552696f4481c88eaf2aa12a1e"
+    },
+    {
+      "path": "design/assets/s-rank-2026-11-06/reference-wall-no-drill-v2.png",
+      "bytes": 1977308,
+      "sha256": "d18b2251016cb128d130cb8bdb466b61d26904ac5dc6de3a332972b45f8afdae"
+    },
+    {
+      "path": "design/assets/s-rank-2026-11-06/reference-wall.png",
+      "bytes": 1881265,
+      "sha256": "2e4c6b3e3685954e3dd16ed142e8111932233892e01cbcbc6621875e06940f47"
+    },
+    {
+      "path": "design/assets/s-rank-2026-11-06/support-story.png",
+      "bytes": 1450324,
+      "sha256": "a71580ea73bf1e8c4a07771d1205a732a5bcfdd175400584521bcd809717fa92"
+    },
+    {
+      "path": "design/concept-image-prompt-2026-11-06.json",
+      "bytes": 3509,
+      "sha256": "f38226e369f64e1fd0c538acda4ae57112c2815efbc7ee232813bb1e2e1912aa"
+    },
+    {
+      "path": "design/reference-sketch-no-drill-edit-2026-11-06.json",
+      "bytes": 2689,
+      "sha256": "26a556c474baf46fa4e00bab7207130ab820953e3d8026828d68d7e39798ea3f"
+    },
+    {
+      "path": "design/reference-sketch-prompts-2026-11-06.json",
+      "bytes": 6361,
+      "sha256": "10f24ffc3c4448bc18ca24e840a8c4cf3c2d6c72389665e1ae71153187bba5a2"
+    },
+    {
+      "path": "design/references/2026-11-06/01-bench-storage.png",
+      "bytes": 1801532,
+      "sha256": "b781e75bc3da256a92b3eb3cfa832cb59c8eb2f780270e7ba1fbb4a24a859240"
+    },
+    {
+      "path": "design/references/2026-11-06/02-wall-storage.png",
+      "bytes": 767877,
+      "sha256": "70d7b57d9efb982e39f2b3ac30c48312c8665f8a29940a2363fca79f8ce517d7"
+    },
+    {
+      "path": "design/references/2026-11-06/03-sketch-style.png",
+      "bytes": 662135,
+      "sha256": "2253054e6c29ff8707b7196ef45e5b0556515b6d0a01da9764e8507846900622"
+    },
+    {
+      "path": "design/s-rank-image-edit-c-v3-2026-11-06.json",
+      "bytes": 1701,
+      "sha256": "29dc449d6a4783d3318265143077e9a7e1c701ef1cf60d93cccfc53b189921e3"
+    },
+    {
+      "path": "design/s-rank-image-edits-2026-11-06.json",
+      "bytes": 3379,
+      "sha256": "981f077d846ed4d478b5bb09531557463b617dbef31b1e38abc3ef038c337670"
+    },
+    {
+      "path": "design/s-rank-image-prompts-2026-11-06.json",
+      "bytes": 12719,
+      "sha256": "ae347d65b293a2a3aad46a2bc10f2e8e70b2eff6705238af5f32a2fd4122a050"
+    },
+    {
+      "path": "design/s-rank-support-story-2026-11-06.json",
+      "bytes": 2636,
+      "sha256": "3a075d93755e6eda4a3cce9dddd1602eb654b9b1e9a9e15b8a4c8ec9b33597f1"
+    },
+    {
+      "path": "docs/teacher-message-user-edited-2026-11-20.md",
+      "bytes": 4554,
+      "sha256": "d0c9217637d29f2c419b45104f5341518e7cbd85c8da8f6c6b8300ee19cf4519"
+    },
+    {
+      "path": "docs/verification-2026-11-20/consultation-03-2026-11-06.json",
+      "bytes": 379,
+      "sha256": "ac0200961aad60573f58eaa421d258ddd685f39e7e44db365b03eba1fe588d42"
+    },
+    {
+      "path": "docs/verification-2026-11-20/movement-form-2026-11-06.json",
+      "bytes": 221,
+      "sha256": "e9a1d72770437bed6ea3303942a0110eb547b50834821544a47bb3af2af671dc"
+    },
+    {
+      "path": "docs/verification-2026-11-20/no-drill-update-2026-11-06.json",
+      "bytes": 2930,
+      "sha256": "bdd08a8cce7df8b5deeda8efa866bbd62204898b8b06762412ff4409e8a810d0"
+    },
+    {
+      "path": "docs/verification-2026-11-20/publication-check.json",
+      "bytes": 206,
+      "sha256": "3e3169825248a891a106bb7bbc673fb9253193006f57c657301ce6cc9d995526"
+    },
+    {
+      "path": "docs/verification-2026-11-20/s-rank-2026-11-06.json",
+      "bytes": 3779,
+      "sha256": "bfe6b2b343e5f5525154c037429bea5edf9300269701cb393d86a6bc145758e1"
+    },
+    {
+      "path": "docs/work-session-2026-11-20.md",
+      "bytes": 5553,
+      "sha256": "e1d7025873c028c638906a3628b2d09db1d42f21c4481b6af69a8a8a15ea2169"
+    },
+    {
+      "path": "meetings/raw/teacher-discussion-02.md",
+      "bytes": 25385,
+      "sha256": "f7623273e97ae6ce81e5f3e92c8aa995511de45c9123a2c022f385554f6203ea"
+    },
+    {
+      "path": "meetings/raw/teacher-discussion-03.md",
+      "bytes": 28647,
+      "sha256": "e2e73bbf73cf20a672fa7d4b6c27fe3cdb127dc56740ee33291f0b8c4ac7dbce"
+    },
+    {
+      "path": "meetings/reviews/consultation-03-source-check-2026-11-06.md",
+      "bytes": 5637,
+      "sha256": "1c04b6646f72af89c435a346d466b55cab9d6da96126fdac970c1fff5e57c00d"
+    },
+    {
+      "path": "meetings/reviews/teacher-discussion-02-review.md",
+      "bytes": 21911,
+      "sha256": "0a1879264c4701262703f543d1d10871f6debe23b78268aeff1a89488c460a70"
+    },
+    {
+      "path": "meetings/reviews/teacher-discussion-03-review.md",
+      "bytes": 26457,
+      "sha256": "fe1fc4925affa59b97f0e6fa4166dd7b902a4c80aeb5e4097a2af9ab49425171"
+    },
+    {
+      "path": "outputs/current/Consultation_02_next_steps_2026-10-30.pdf",
+      "bytes": 95936,
+      "sha256": "f46b99ed96708ca46c52c58d4adb8d21d51935f1192240325521b8d59f49f738"
+    },
+    {
+      "path": "outputs/current/Consultation_03_analysis_priorities_2026-11-06.pdf",
+      "bytes": 98024,
+      "sha256": "eb19d37282283b22c661cc759bffd49f54758c6e0436a981c9cf281be95edb64"
+    },
+    {
+      "path": "outputs/current/Function_selection_2026-11-06.csv",
+      "bytes": 9205,
+      "sha256": "8679bfeb89c67d94c32df09b5a98223b766fe5c3c4c36b674f53496adec28c74"
+    },
+    {
+      "path": "outputs/current/Functions_and_layouts_A3_2026-11-06.html",
+      "bytes": 22224939,
+      "sha256": "9fe1f50fa4566662c7759f9b99107cc6df92d55a36d6f39e5aa2cf8ad0b17f6d"
+    },
+    {
+      "path": "outputs/current/Functions_and_layouts_A3_2026-11-06.pdf",
+      "bytes": 16298041,
+      "sha256": "2c0098c2c1c434dcb258fd2a12f7a4955ebbfb6d3235825b4b5a7f4e039467be"
+    },
+    {
+      "path": "outputs/current/Functions_and_layouts_A3_2026-11-06_01.svg",
+      "bytes": 2166367,
+      "sha256": "75a763100a5dd2ea8649434ded76dedfe8a0926b6ef601b22e3cbd1fa2c266fb"
+    },
+    {
+      "path": "outputs/current/Functions_and_layouts_A3_2026-11-06_02.svg",
+      "bytes": 1556231,
+      "sha256": "b172eb09c66bf171925e639b262f8da12598d14e294c30d413af49c2eeddc223"
+    },
+    {
+      "path": "outputs/current/Functions_and_layouts_A3_2026-11-06_03.svg",
+      "bytes": 2508354,
+      "sha256": "cbee8ec30ea201e8f5dae5ac0e3d970f36082cecd96a9a987c2605bad2b36ebe"
+    },
+    {
+      "path": "outputs/current/Functions_and_layouts_A3_2026-11-06_04.svg",
+      "bytes": 2493167,
+      "sha256": "f2d606c42551dd99d80482efccca592a1ff5ac546467c0b3fe2dad055aa9eef1"
+    },
+    {
+      "path": "outputs/current/Functions_and_layouts_A3_2026-11-06_05.svg",
+      "bytes": 2082865,
+      "sha256": "603868c4a2538340069c16621192e4f45b1eb4fa0a3a6dbbb343fd6455fdbcdb"
+    },
+    {
+      "path": "outputs/current/Functions_and_layouts_A3_2026-11-06_06.svg",
+      "bytes": 2458615,
+      "sha256": "400030e8ef72c663a7e3ab1ea0a9aec3b8e942e7147760ef74050cc3a2e7170a"
+    },
+    {
+      "path": "outputs/current/Functions_and_layouts_A3_2026-11-06_07.svg",
+      "bytes": 1938660,
+      "sha256": "48e36f2aac74d956c4c7614eb61398204f7a5fae3e432372c6f91fb74212ee23"
+    },
+    {
+      "path": "outputs/current/Functions_and_layouts_A3_2026-11-06_08.svg",
+      "bytes": 7019651,
+      "sha256": "789c292e3dffc3d2954062474adafe2bf301dec5675e935633cbf5d876fab30d"
+    },
+    {
+      "path": "outputs/current/Functions_and_layouts_explained_A4_2026-11-06.md",
+      "bytes": 27331,
+      "sha256": "abf766cd70ded57a745f1b46aafca9a4a39472cc58b8991ba9a1f422e879c637"
+    },
+    {
+      "path": "outputs/current/Functions_and_layouts_explained_A4_2026-11-06.pdf",
+      "bytes": 113201,
+      "sha256": "34d8d780c296b00dfc26ee48c46ef22f8525c956b36dca9f6ba3a2a7e1b851b7"
+    },
+    {
+      "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06.html",
+      "bytes": 22683644,
+      "sha256": "4beabcb7011fc36778632c3495a6ad64ab73786b7f5d616eb21f1b237583be44"
+    },
+    {
+      "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06.pdf",
+      "bytes": 14442029,
+      "sha256": "e66b0dc4ea100dd0c7a505e4d3de9aff8d172ddf14de012004298b63b52f975e"
+    },
+    {
+      "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_01.svg",
+      "bytes": 4315691,
+      "sha256": "b51ee659b13a92db113b5a025937a8653fe00bdfe7d1e5a58ac1b2bd1d74f2c8"
+    },
+    {
+      "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_02.svg",
+      "bytes": 2166367,
+      "sha256": "75a763100a5dd2ea8649434ded76dedfe8a0926b6ef601b22e3cbd1fa2c266fb"
+    },
+    {
+      "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_03.svg",
+      "bytes": 1556231,
+      "sha256": "b172eb09c66bf171925e639b262f8da12598d14e294c30d413af49c2eeddc223"
+    },
+    {
+      "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_04.svg",
+      "bytes": 2899229,
+      "sha256": "562e96a28a01eee0d3d70af05d731f2fb3fd543576f3db7b36a2c3d56490c214"
+    },
+    {
+      "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_05.svg",
+      "bytes": 2443350,
+      "sha256": "313b1d2192185bdcc81fa7db04753c5746d7503c6293b9c0dd6414b80286b07b"
+    },
+    {
+      "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_06.svg",
+      "bytes": 2516708,
+      "sha256": "3836a7410547665d9bd2837a49dcd57d937e6da5ba3aa0cd5fe15e00e7805ba9"
+    },
+    {
+      "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_07.svg",
+      "bytes": 1834451,
+      "sha256": "b2f2670e0f2ca85f7e08f83d57b2a09125624f901bdb40756e41ecf8941a33ef"
+    },
+    {
+      "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_08.svg",
+      "bytes": 4950743,
+      "sha256": "b6b575d5f455c54802cfe7ef98a5dfa527a22da96c0d1cf2b34c0ba0cc3a8284"
+    },
+    {
+      "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_v2.html",
+      "bytes": 22940755,
+      "sha256": "d608bc32db51547a9b2bbb36c750bc82f6c94dc57425737192987ed17c4ad580"
+    },
+    {
+      "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_v2.pdf",
+      "bytes": 14668867,
+      "sha256": "fc696c1db1e92df5e26f665b2e34428685ba3442798aede1a1ecf75da754b24f"
+    },
+    {
+      "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_v2_01.svg",
+      "bytes": 4316120,
+      "sha256": "36b095d9dc64fdc60e4b6103b55aa5578c3fd18cea52c18c8f397166f965136c"
+    },
+    {
+      "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_v2_02.svg",
+      "bytes": 2166367,
+      "sha256": "75a763100a5dd2ea8649434ded76dedfe8a0926b6ef601b22e3cbd1fa2c266fb"
+    },
+    {
+      "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_v2_03.svg",
+      "bytes": 1556151,
+      "sha256": "d221921d9315ed8ae6faf3899cc32599518cc340b8a54debb903b1c49a638638"
+    },
+    {
+      "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_v2_04.svg",
+      "bytes": 2899181,
+      "sha256": "5b328ede5eab98b929b90235ca65959ea3a15ec3ad285808d29b24f3f4f534a3"
+    },
+    {
+      "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_v2_05.svg",
+      "bytes": 2443350,
+      "sha256": "313b1d2192185bdcc81fa7db04753c5746d7503c6293b9c0dd6414b80286b07b"
+    },
+    {
+      "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_v2_06.svg",
+      "bytes": 2645231,
+      "sha256": "fa8f5208f1d318c5eb77d479b1c48f038d138e69120aa1a9f8cceb8730eab3bd"
+    },
+    {
+      "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_v2_07.svg",
+      "bytes": 1834498,
+      "sha256": "ec3afd0636869a1b80a4df42de0a1335c9a12576ca565623249a72c0bdd18b9d"
+    },
+    {
+      "path": "outputs/current/Functions_and_reference_sketches_A3_2026-11-06_v2_08.svg",
+      "bytes": 5078847,
+      "sha256": "0fdfd89292f88f09263b401802a0ca8dd027839c891513e3f1f664f6389b6e4b"
+    },
+    {
+      "path": "outputs/current/Movement_and_form_studies_A3_2026-11-06.pdf",
+      "bytes": 2616453,
+      "sha256": "fc43afe66a14977e8fc766ddc115c9c077b66244e29622a528f647ce3940f81f"
+    },
+    {
+      "path": "outputs/current/Movement_and_form_studies_A3_2026-11-06_01.svg",
+      "bytes": 11546,
+      "sha256": "0fe4219cd733e989c15b937a5d5ab0188fb4af4887725adade98f6ded9fd269b"
+    },
+    {
+      "path": "outputs/current/Movement_and_form_studies_A3_2026-11-06_02.svg",
+      "bytes": 30562,
+      "sha256": "3cda1382b0063dd0532e56f7222fe5bffb698262f4568596e82c8a9bf1bc3eb8"
+    },
+    {
+      "path": "outputs/current/Movement_and_form_studies_A3_2026-11-06_03.svg",
+      "bytes": 14111,
+      "sha256": "6a2a9cf0ade3ea384c48fe4ee51f642aaf5ae6f514cb6334633c549328dd132d"
+    },
+    {
+      "path": "outputs/current/Movement_and_form_studies_A3_2026-11-06_04.svg",
+      "bytes": 2589235,
+      "sha256": "89eb32e10e90e405591d06026323db45b959a844c30931c53d35f5fb315cb897"
+    },
+    {
+      "path": "outputs/current/Movement_and_form_studies_A3_2026-11-06_05.svg",
+      "bytes": 15030,
+      "sha256": "4e1736d35674fa1023466d3d5abd6f40729a34f9d21563c75ad42ce10cf0d070"
+    },
+    {
+      "path": "outputs/current/Movement_and_form_studies_A3_2026-11-06_v2.pdf",
+      "bytes": 2708974,
+      "sha256": "a26fd8bf2e5171173632972408b65095c2eb46399b2b2e0eb7a0ff8412ae23df"
+    },
+    {
+      "path": "outputs/current/People_cutouts_A4_2026-10-29.html",
+      "bytes": 5553679,
+      "sha256": "045d614857b035d810e57c982804cc7de4a1ad406f8ccf5dc80255c7d249725a"
+    },
+    {
+      "path": "outputs/current/People_cutouts_A4_2026-10-29.pdf",
+      "bytes": 6415382,
+      "sha256": "e78e4b88c1c45ab0d6822c978ab3f338d38ab55ef9c402e19da3b432ba3282e1"
+    },
+    {
+      "path": "outputs/current/README.md",
+      "bytes": 32410,
+      "sha256": "0c36ab787d60ee2d62c756eb0dfb4c38eb1e1e6ea072e6ac9c149ca8cd501323"
+    },
+    {
+      "path": "outputs/current/Reference_sketches_explained_A4_2026-11-06.md",
+      "bytes": 30273,
+      "sha256": "b18567da6e41dcf71fcc55771794a1318c5aff77dcdecc41c201ba27632d966f"
+    },
+    {
+      "path": "outputs/current/Reference_sketches_explained_A4_2026-11-06.pdf",
+      "bytes": 115758,
+      "sha256": "4a7c469a25d662ca1788d3fa4e29cc1eb7b861c1d807cfe008ea9ab442a94284"
+    },
+    {
+      "path": "outputs/current/Reference_sketches_explained_A4_2026-11-06_v2.md",
+      "bytes": 30732,
+      "sha256": "47ff02330e0a0b2cee7b4b4c119c8915d2c1e50f73089e9c7ffc14ade516a1f0"
+    },
+    {
+      "path": "outputs/current/Reference_sketches_explained_A4_2026-11-06_v2.pdf",
+      "bytes": 116130,
+      "sha256": "6f79d6aa3f185afd8a8fd2747d67937189306b710e2d60582a1a6403d53266ad"
+    },
+    {
+      "path": "outputs/current/Scenarios_A3_2026-10-30.pdf",
+      "bytes": 10398616,
+      "sha256": "1a46c765675da8546e088b9e59ba914357f25bfb95af33ec6a04159ae290c6e6"
+    },
+    {
+      "path": "outputs/current/Scenarios_A3_2026-10-30.pptx",
+      "bytes": 5879713,
+      "sha256": "c14e9307df52aaa060df3f4b759fb7a960940f7ef16a1b698c9b14a9e981d1f3"
+    },
+    {
+      "path": "outputs/current/Scenarios_A3_2026-10-30_v2.pdf",
+      "bytes": 10337186,
+      "sha256": "74755881a4a5d390967c571d9e418f5b5a9c0d8cc99740675668639493725356"
+    },
+    {
+      "path": "outputs/current/Scenarios_A3_2026-10-30_v2.pptx",
+      "bytes": 5721701,
+      "sha256": "7b07ac84586f919becfa9de11550ad12e57707a4f57a889ef3cafbab51b9a671"
+    },
+    {
+      "path": "outputs/current/Simple_movement_schemes_A3_2026-11-06.pdf",
+      "bytes": 100646,
+      "sha256": "dfb15f0bc27d1dc8bf830a59276f7085979c90a68c29625cccb814c1b501368c"
+    },
+    {
+      "path": "outputs/current/Simple_movement_schemes_A3_2026-11-06_01.svg",
+      "bytes": 14827,
+      "sha256": "7a51535c959b5291296418e10d7f7581a31e30577382e82d5c99e1387c8d23e6"
+    },
+    {
+      "path": "outputs/current/Simple_movement_schemes_A3_2026-11-06_02.svg",
+      "bytes": 14687,
+      "sha256": "46d811f0a1c3cc44018d0503dee84449649d8a8657830e87e83d045077584f0c"
+    },
+    {
+      "path": "outputs/current/Simple_movement_schemes_A3_2026-11-06_03.svg",
+      "bytes": 15746,
+      "sha256": "b8deab93a9a2a4787e944d6a94d0a07285dae35f0c095fe037e1eb79e1b9b255"
+    },
+    {
+      "path": "outputs/current/Spatial_analysis_A3_2026-10-30.pdf",
+      "bytes": 102136,
+      "sha256": "3586ddd7cc56056c91fc9c8dbda42ae393acbb5c8886d9ee2d24d9a837f6780a"
+    },
+    {
+      "path": "outputs/current/Spatial_analysis_A3_2026-10-30_01_solo.svg",
+      "bytes": 27363,
+      "sha256": "d25e8088dbc8f8808d64f1434d731b4a5df6af4d557beb84382461383fce2501"
+    },
+    {
+      "path": "outputs/current/Spatial_analysis_A3_2026-10-30_02_family.svg",
+      "bytes": 37319,
+      "sha256": "7be471cfcbc02ca80e8e00ec589d8d15ff4c272b80c488b742f280b90e691d1a"
+    },
+    {
+      "path": "outputs/current/Teacher_talking_points_2026-11-06.md",
+      "bytes": 5090,
+      "sha256": "ba9293708e525d5e24e3650cbeb71ca3c9fbedcabb6eda943bd6998826a78ac9"
+    },
+    {
+      "path": "research/assets/scenarios-2026-10-30/01_solo.png",
+      "bytes": 2030650,
+      "sha256": "e4a3ed01141a3c5f603c8d79cdd7d826d0dbdf3cf47ca7aa073c15bd4671004c"
+    },
+    {
+      "path": "research/assets/scenarios-2026-10-30/02_couple.png",
+      "bytes": 2014318,
+      "sha256": "4c5ef41a697d01a21a5e5cc0a3b04353cb786e35a51889e311ecb97bdf5e83ee"
+    },
+    {
+      "path": "research/assets/scenarios-2026-10-30/03_family.png",
+      "bytes": 2178942,
+      "sha256": "ca58ff0162b8a27c5561cfe870d9ee7afead7fb0fb705330c8571ef0b8eeab26"
+    },
+    {
+      "path": "research/assets/scenarios-2026-10-30/03_family_v2.png",
+      "bytes": 2036929,
+      "sha256": "2e9a62e4ded77866702771821e1893b76ec8c12b2149806f0f86bb673e5b48dc"
+    },
+    {
+      "path": "research/children-a3-analysis-2026-10-30.md",
+      "bytes": 13988,
+      "sha256": "2ea99579ca742ad570879a2142cc35e2fd5e883395dc5c62d14fc03f5df7e8f1"
+    },
+    {
+      "path": "research/consultation-02-brief-2026-10-30.json",
+      "bytes": 10928,
+      "sha256": "16a6929aa47b4863d07c9ba12ff5970349d8f152576464c2ad460c6ca5294c1f"
+    },
+    {
+      "path": "research/consultation-03-brief-2026-11-06.json",
+      "bytes": 12161,
+      "sha256": "a1a0aac3ddd742bbce8a00a545d1ae27b489cd8bf8c09c7a776f5f27aaa34e56"
+    },
+    {
+      "path": "research/movement-envelopes-2026-11-06.json",
+      "bytes": 3618,
+      "sha256": "64cb85de7ffadffe043ad24f778248d798d6f915b561a27892bed6516c5674d7"
+    },
+    {
+      "path": "research/no-drill-update-2026-11-06.md",
+      "bytes": 4090,
+      "sha256": "ea147526b8ffec4dbb2a765d242f334cfa8c9d7a2c1d0667b38ac12fcb210568"
+    },
+    {
+      "path": "research/older-adults-a3-analysis-2026-10-30.md",
+      "bytes": 15402,
+      "sha256": "b407b42b274b51695415030cc780ee036b47aef22fdc39203506c02f4ef0574b"
+    },
+    {
+      "path": "research/people-cutouts-2026-10-29.json",
+      "bytes": 7487,
+      "sha256": "2a98e4aac1d72ce36ba2790100a9bbfc6d53e69c0bfd45d1caa633b08bfe3967"
+    },
+    {
+      "path": "research/reference-update-2026-11-06.json",
+      "bytes": 8466,
+      "sha256": "2257cc9c9c7aa75773128477e2e0126ea7e1dc020b128f413085c1ff9b6ab55d"
+    },
+    {
+      "path": "research/reference-update-2026-11-06_v2.json",
+      "bytes": 9456,
+      "sha256": "500222b993f1ebbaa0c3925dc90258671e3e24a9cc6089ad36340e9836d67369"
+    },
+    {
+      "path": "research/s-rank-development-2026-11-06.json",
+      "bytes": 31224,
+      "sha256": "89dc6c82db566246eb2a0cf59e0b0930d98ab0ee03793091e06ef2e36fd220bb"
+    },
+    {
+      "path": "research/s-rank-development-2026-11-06.md",
+      "bytes": 17672,
+      "sha256": "eab76d48ad46a3e8631cf5ef333f48a9b671ed95ac236b9b5fd7b3c8d9541452"
+    },
+    {
+      "path": "research/scenario-boards-2026-10-30.md",
+      "bytes": 11952,
+      "sha256": "66c1c1a7a0982309c9f8a725cb5e1f5ed8c530ab875dc2e896f4c730155a33ae"
+    },
+    {
+      "path": "research/scenario-image-edit-v2-2026-10-30.json",
+      "bytes": 1282,
+      "sha256": "57fd27c247d80f27c80b4f670b14c37e40101b07e8b9d0e76e8bc721e8f85b31"
+    },
+    {
+      "path": "research/scenario-image-prompts-2026-10-30.json",
+      "bytes": 9536,
+      "sha256": "ef0bdb7213d299d3c77a412890a5be2b8e68700a16ef49347a97f13a6a229391"
+    },
+    {
+      "path": "research/scenarios-2026-10-30.json",
+      "bytes": 9500,
+      "sha256": "569cf5f2dd35d6e44646e02c100515582ba0fb111c0ade4b98c3e64b72c2d123"
+    },
+    {
+      "path": "research/scenarios-2026-10-30_v2.json",
+      "bytes": 10448,
+      "sha256": "a194f8e8b28f68df26e7bd4ae8cae5471acbb5be84b2bb5375d80cb9df760f83"
+    },
+    {
+      "path": "research/simple-movement-schemes-2026-11-06.json",
+      "bytes": 5280,
+      "sha256": "b62a3b4b4b090ef997ba975fc1dff0d84682334f07aa43287cf98702d078abc0"
+    },
+    {
+      "path": "research/simple-movement-schemes-2026-11-06.md",
+      "bytes": 3579,
+      "sha256": "7f55a083aa5bb6164241ec3c936890c54b416fad5509dbefaa95b83d92dd90c2"
+    },
+    {
+      "path": "research/spatial-analysis-2026-10-30.md",
+      "bytes": 15320,
+      "sha256": "9f4b40f324bb8b7ff0bb3302d952cdfdeb1408aae75454f9e262d3b1b994074a"
+    },
+    {
+      "path": "research/spatial-model-2026-10-30.json",
+      "bytes": 6819,
+      "sha256": "c2b85ec6cb69c99164aaea79d71abb121d5249d237ba72fac16763414ac95080"
+    },
+    {
+      "path": "research/workspace-and-forms-2026-11-06.md",
+      "bytes": 17769,
+      "sha256": "e982600cd0017eac892e1b5979d1ff7fa1f8029978c886229ef96151f9085cd9"
+    },
+    {
+      "path": "research/youth-a3-analysis-2026-10-30.md",
+      "bytes": 16057,
+      "sha256": "839da5cdd48c3ab52c952d4f094081186c591a6b7d05196bee5c9f59219f3a9b"
+    },
+    {
+      "path": "tools/author_scenario_boards.mjs",
+      "bytes": 2967,
+      "sha256": "0bb7ebc38f79d2e06c70f44592540b4df949a446e5b59c9be6c6588aca6ada6b"
+    },
+    {
+      "path": "tools/build_consultation_02_brief.py",
+      "bytes": 2917,
+      "sha256": "cef6cc3f1b3d3005ce52903c51e7d5f4588e5b4e38f0994f90e292e960b1aa86"
+    },
+    {
+      "path": "tools/build_consultation_03_brief.py",
+      "bytes": 2840,
+      "sha256": "6686931ea501bbca41f63a65a052b18f450cfd6654dbc12ae78c3896ef0777de"
+    },
+    {
+      "path": "tools/build_movement_form_studies.py",
+      "bytes": 20889,
+      "sha256": "f794be45fcbf078209e29aab2a489d25f2d5e72acd8e88106664cd2563686ea9"
+    },
+    {
+      "path": "tools/build_people_cutouts.py",
+      "bytes": 7683,
+      "sha256": "801a4d24e6028747892b093a6be0d74ce6758f5678a05be8db00f09fd9c9ddab"
+    },
+    {
+      "path": "tools/build_reference_update.py",
+      "bytes": 22002,
+      "sha256": "37e7acec183c2bb78d69c116fe340935e49549583ad7b57f3c6a1f1d3f8925c0"
+    },
+    {
+      "path": "tools/build_s_rank_package.py",
+      "bytes": 30345,
+      "sha256": "6ff87e47299459d55c0da26fc24433cbe0c59da8498b1f3740d7eec0eab270dd"
+    },
+    {
+      "path": "tools/build_scenario_boards.py",
+      "bytes": 6072,
+      "sha256": "019bb7fe488369af13c7ce0e14850b87d3e96e175835bd81d1ced43f824e7d75"
+    },
+    {
+      "path": "tools/build_simple_movement_schemes.py",
+      "bytes": 9561,
+      "sha256": "40fd6e9f1fd2f431f0348aa45c4f97cda715b0e44d7a023032abcbaf4dd9b9e5"
+    },
+    {
+      "path": "tools/build_spatial_boards.py",
+      "bytes": 22326,
+      "sha256": "0b187defba7a7ab6dfea8e0ef6e4679f1d202e7d4a501b706894029e2a730a15"
+    },
+    {
+      "path": "tools/finalize_scenario_boards.mjs",
+      "bytes": 1622,
+      "sha256": "e37c6e0a1438aba5e6ba85b9f7ed0a99b764d1ac9c82a9eba526bae8bde3cea6"
+    },
+    {
+      "path": "tools/revise_scenario_boards_v2.mjs",
+      "bytes": 1531,
+      "sha256": "4b66bb256c382330eb8d39b485be3a115d5e0b1fa7825703f7653e224c8acfc7"
+    }
+  ]
+}

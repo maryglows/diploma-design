@@ -1,0 +1,117 @@
+{
+  "downloaded_on": "2026-11-21",
+  "archived_on": "2026-11-23",
+  "description": "Ролики производителей, найденные для фотокарточек v2. Не видео из консультации и не восстановленные пользовательские вложения. Время стоп-кадров приблизительное.",
+  "videos": [
+    {
+      "title": "FITBENCH FREE",
+      "path": "research/analogs/source-videos-2026-11-21/fit-official.mp4",
+      "source_url": "https://cdn.shopify.com/videos/c/vp/1ea786beea8a4fa48380aaee813e1420/1ea786beea8a4fa48380aaee813e1420.HD-720p-1.6Mbps-63174351.mp4",
+      "product_page": "https://fitbench.com/products/fitbench-free-naked",
+      "bytes": 17210506,
+      "sha256": "60adad451712772b78b77bb27986c22c3e165389b999bc6b1f7c1e34b36e7dcd",
+      "selected_frames": [
+        {
+          "id": "fit-frame-02",
+          "path": "research/analogs/detail-v2-2026-11-21/assets/fit-frame-02.jpg",
+          "near_seconds": 7.5
+        },
+        {
+          "id": "fit-frame-03",
+          "path": "research/analogs/detail-v2-2026-11-21/assets/fit-frame-03.jpg",
+          "near_seconds": 12.5
+        },
+        {
+          "id": "fit-frame-05",
+          "path": "research/analogs/detail-v2-2026-11-21/assets/fit-frame-05.jpg",
+          "near_seconds": 22.5
+        },
+        {
+          "id": "fit-frame-06",
+          "path": "research/analogs/detail-v2-2026-11-21/assets/fit-frame-06.jpg",
+          "near_seconds": 27.5
+        },
+        {
+          "id": "fit-frame-07",
+          "path": "research/analogs/detail-v2-2026-11-21/assets/fit-frame-07.jpg",
+          "near_seconds": 32.5
+        },
+        {
+          "id": "fit-frame-08",
+          "path": "research/analogs/detail-v2-2026-11-21/assets/fit-frame-08.jpg",
+          "near_seconds": 37.5
+        },
+        {
+          "id": "fit-frame-09",
+          "path": "research/analogs/detail-v2-2026-11-21/assets/fit-frame-09.jpg",
+          "near_seconds": 42.5
+        },
+        {
+          "id": "fit-frame-10",
+          "path": "research/analogs/detail-v2-2026-11-21/assets/fit-frame-10.jpg",
+          "near_seconds": 47.5
+        },
+        {
+          "id": "fit-frame-11",
+          "path": "research/analogs/detail-v2-2026-11-21/assets/fit-frame-11.jpg",
+          "near_seconds": 52.5
+        },
+        {
+          "id": "fit-frame-12",
+          "path": "research/analogs/detail-v2-2026-11-21/assets/fit-frame-12.jpg",
+          "near_seconds": 57.5
+        }
+      ]
+    },
+    {
+      "title": "PENT. JOANA Reformer",
+      "path": "research/analogs/source-videos-2026-11-21/pent-official.mp4",
+      "source_url": "https://cdn.shopify.com/videos/c/vp/34f3012d169d47419e4fa2b051f0aff5/34f3012d169d47419e4fa2b051f0aff5.SD-480p-1.5Mbps-63072956.mp4",
+      "product_page": "https://www.pentfitness.com/products/joana-pilates-reformer",
+      "bytes": 11558443,
+      "sha256": "7494c797289b29931f4dcc9eb8539e5535c84aa7e1dba0ab34beb357f04dcf22",
+      "selected_frames": [
+        {
+          "id": "pent-frame-03",
+          "path": "research/analogs/detail-v2-2026-11-21/assets/pent-frame-03.jpg",
+          "near_seconds": 12.5
+        },
+        {
+          "id": "pent-frame-04",
+          "path": "research/analogs/detail-v2-2026-11-21/assets/pent-frame-04.jpg",
+          "near_seconds": 17.5
+        },
+        {
+          "id": "pent-frame-05",
+          "path": "research/analogs/detail-v2-2026-11-21/assets/pent-frame-05.jpg",
+          "near_seconds": 22.5
+        },
+        {
+          "id": "pent-frame-06",
+          "path": "research/analogs/detail-v2-2026-11-21/assets/pent-frame-06.jpg",
+          "near_seconds": 27.5
+        },
+        {
+          "id": "pent-frame-07",
+          "path": "research/analogs/detail-v2-2026-11-21/assets/pent-frame-07.jpg",
+          "near_seconds": 32.5
+        },
+        {
+          "id": "pent-frame-08",
+          "path": "research/analogs/detail-v2-2026-11-21/assets/pent-frame-08.jpg",
+          "near_seconds": 37.5
+        },
+        {
+          "id": "pent-frame-09",
+          "path": "research/analogs/detail-v2-2026-11-21/assets/pent-frame-09.jpg",
+          "near_seconds": 42.5
+        },
+        {
+          "id": "pent-frame-10",
+          "path": "research/analogs/detail-v2-2026-11-21/assets/pent-frame-10.jpg",
+          "near_seconds": 47.5
+        }
+      ]
+    }
+  ]
+}

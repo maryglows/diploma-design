@@ -1,0 +1,3690 @@
+[
+  {
+    "id": "01.01",
+    "model": "01",
+    "asset": "speed-p04",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 1,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/speed-p04.jpg"
+  },
+  {
+    "id": "01.02",
+    "model": "01",
+    "asset": "old-C02",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 1,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C02.jpg"
+  },
+  {
+    "id": "01.03",
+    "model": "01",
+    "asset": "speed-detail-a",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 1,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/speed-detail-a.jpg"
+  },
+  {
+    "id": "01.04",
+    "model": "01",
+    "asset": "speed-detail-b",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 1,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/speed-detail-b.jpg"
+  },
+  {
+    "id": "01.05",
+    "model": "01",
+    "asset": "speed-detail-c",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 1,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/speed-detail-c.jpg"
+  },
+  {
+    "id": "01.06",
+    "model": "01",
+    "asset": "speed-ring",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 1,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/speed-ring.jpg"
+  },
+  {
+    "id": "01.07",
+    "model": "01",
+    "asset": "speed-hooks",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 1,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/speed-hooks.jpg"
+  },
+  {
+    "id": "01.08",
+    "model": "01",
+    "asset": "speed-ankle",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 1,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/speed-ankle.jpg"
+  },
+  {
+    "id": "01.09",
+    "model": "01",
+    "asset": "speed-speaker",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 1,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/speed-speaker.jpg"
+  },
+  {
+    "id": "01.10",
+    "model": "01",
+    "asset": "speed-p06",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 1,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/speed-p06.jpg"
+  },
+  {
+    "id": "01.11",
+    "model": "01",
+    "asset": "speed-p07",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 1,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/speed-p07.jpg"
+  },
+  {
+    "id": "01.12",
+    "model": "01",
+    "asset": "speed-orientation",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 1,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/speed-orientation.jpg"
+  },
+  {
+    "id": "01.13",
+    "model": "01",
+    "asset": "speed-orientation",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 2,
+    "crop": [
+      0.12,
+      0.26,
+      0.305,
+      0.585
+    ],
+    "photo_mm": [
+      19.86,
+      35.0
+    ],
+    "pdf_pixels": [
+      236,
+      416
+    ],
+    "ppi": 302,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/speed-orientation.jpg"
+  },
+  {
+    "id": "01.14",
+    "model": "01",
+    "asset": "speed-orientation",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 2,
+    "crop": [
+      0.615,
+      0.5,
+      0.87,
+      0.945
+    ],
+    "photo_mm": [
+      20.08,
+      35.0
+    ],
+    "pdf_pixels": [
+      316,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/speed-orientation.jpg"
+  },
+  {
+    "id": "01.15",
+    "model": "01",
+    "asset": "speed-plans",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 2,
+    "crop": [
+      0.13,
+      0.36,
+      0.385,
+      0.8
+    ],
+    "photo_mm": [
+      20.33,
+      35.0
+    ],
+    "pdf_pixels": [
+      320,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/speed-plans.jpg"
+  },
+  {
+    "id": "01.16",
+    "model": "01",
+    "asset": "speed-plans",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 2,
+    "crop": [
+      0.615,
+      0.19,
+      0.87,
+      0.64
+    ],
+    "photo_mm": [
+      19.87,
+      35.0
+    ],
+    "pdf_pixels": [
+      313,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/speed-plans.jpg"
+  },
+  {
+    "id": "01.17",
+    "model": "01",
+    "asset": "speed-during",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 2,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/speed-during.jpg"
+  },
+  {
+    "id": "01.18",
+    "model": "01",
+    "asset": "speed-after",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 2,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/speed-after.jpg"
+  },
+  {
+    "id": "01.19",
+    "model": "01",
+    "asset": "speed-p12",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 2,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/speed-p12.jpg"
+  },
+  {
+    "id": "01.20",
+    "model": "01",
+    "asset": "speed-p13",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 2,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/speed-p13.jpg"
+  },
+  {
+    "id": "01.21",
+    "model": "01",
+    "asset": "speed-p14",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 2,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/speed-p14.jpg"
+  },
+  {
+    "id": "01.22",
+    "model": "01",
+    "asset": "speed-p15",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 2,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/speed-p15.jpg"
+  },
+  {
+    "id": "01.23",
+    "model": "01",
+    "asset": "speed-ski",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 2,
+    "crop": null,
+    "photo_mm": [
+      29.17,
+      35.0
+    ],
+    "pdf_pixels": [
+      459,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/speed-ski.jpg"
+  },
+  {
+    "id": "02.01",
+    "model": "02",
+    "asset": "solo-p00",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 3,
+    "crop": null,
+    "photo_mm": [
+      34.0,
+      34.0
+    ],
+    "pdf_pixels": [
+      535,
+      535
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/solo-p00.jpg"
+  },
+  {
+    "id": "02.02",
+    "model": "02",
+    "asset": "solo-p13",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 3,
+    "crop": null,
+    "photo_mm": [
+      34.0,
+      34.0
+    ],
+    "pdf_pixels": [
+      535,
+      535
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/solo-p13.jpg"
+  },
+  {
+    "id": "02.03",
+    "model": "02",
+    "asset": "solo-p14",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 3,
+    "crop": null,
+    "photo_mm": [
+      34.0,
+      34.0
+    ],
+    "pdf_pixels": [
+      535,
+      535
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/solo-p14.jpg"
+  },
+  {
+    "id": "02.04",
+    "model": "02",
+    "asset": "solo-p12",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 3,
+    "crop": null,
+    "photo_mm": [
+      34.0,
+      34.0
+    ],
+    "pdf_pixels": [
+      535,
+      535
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/solo-p12.jpg"
+  },
+  {
+    "id": "02.05",
+    "model": "02",
+    "asset": "solo-p01",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 3,
+    "crop": null,
+    "photo_mm": [
+      34.0,
+      34.0
+    ],
+    "pdf_pixels": [
+      535,
+      535
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/solo-p01.jpg"
+  },
+  {
+    "id": "02.06",
+    "model": "02",
+    "asset": "solo-p02",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 3,
+    "crop": null,
+    "photo_mm": [
+      34.0,
+      34.0
+    ],
+    "pdf_pixels": [
+      535,
+      535
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/solo-p02.jpg"
+  },
+  {
+    "id": "02.07",
+    "model": "02",
+    "asset": "solo-p03",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 3,
+    "crop": null,
+    "photo_mm": [
+      34.0,
+      34.0
+    ],
+    "pdf_pixels": [
+      535,
+      535
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/solo-p03.jpg"
+  },
+  {
+    "id": "02.08",
+    "model": "02",
+    "asset": "solo-p04",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 3,
+    "crop": null,
+    "photo_mm": [
+      34.0,
+      34.0
+    ],
+    "pdf_pixels": [
+      535,
+      535
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/solo-p04.jpg"
+  },
+  {
+    "id": "02.09",
+    "model": "02",
+    "asset": "solo-p00",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 3,
+    "crop": [
+      0.3,
+      0.28,
+      0.72,
+      0.66
+    ],
+    "photo_mm": [
+      37.58,
+      34.0
+    ],
+    "pdf_pixels": [
+      591,
+      535
+    ],
+    "ppi": 399,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/solo-p00.jpg"
+  },
+  {
+    "id": "02.10",
+    "model": "02",
+    "asset": "solo-p01",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 3,
+    "crop": [
+      0.15,
+      0.28,
+      0.85,
+      0.79
+    ],
+    "photo_mm": [
+      40.5,
+      29.51
+    ],
+    "pdf_pixels": [
+      638,
+      465
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/solo-p01.jpg"
+  },
+  {
+    "id": "02.11",
+    "model": "02",
+    "asset": "solo-p12",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 3,
+    "crop": [
+      0.1,
+      0.23,
+      0.9,
+      0.86
+    ],
+    "photo_mm": [
+      40.5,
+      31.9
+    ],
+    "pdf_pixels": [
+      637,
+      502
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/solo-p12.jpg"
+  },
+  {
+    "id": "02.12",
+    "model": "02",
+    "asset": "solo-p13",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 3,
+    "crop": null,
+    "photo_mm": [
+      34.0,
+      34.0
+    ],
+    "pdf_pixels": [
+      535,
+      535
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/solo-p13.jpg"
+  },
+  {
+    "id": "02.13",
+    "model": "02",
+    "asset": "solo-trainer-01",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 3,
+    "crop": null,
+    "photo_mm": [
+      40.5,
+      28.09
+    ],
+    "pdf_pixels": [
+      637,
+      442
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/solo-trainer-01.jpg"
+  },
+  {
+    "id": "02.14",
+    "model": "02",
+    "asset": "solo-home-1",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 3,
+    "crop": null,
+    "photo_mm": [
+      40.5,
+      18.81
+    ],
+    "pdf_pixels": [
+      637,
+      296
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/solo-home-1.jpg"
+  },
+  {
+    "id": "02.15",
+    "model": "02",
+    "asset": "solo-p02",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 3,
+    "crop": [
+      0.05,
+      0.42,
+      0.58,
+      0.95
+    ],
+    "photo_mm": [
+      34.0,
+      34.0
+    ],
+    "pdf_pixels": [
+      535,
+      535
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/solo-p02.jpg"
+  },
+  {
+    "id": "02.16",
+    "model": "02",
+    "asset": "solo-p14",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 3,
+    "crop": null,
+    "photo_mm": [
+      34.0,
+      34.0
+    ],
+    "pdf_pixels": [
+      535,
+      535
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/solo-p14.jpg"
+  },
+  {
+    "id": "03.01",
+    "model": "03",
+    "asset": "tech-p14-x246",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 4,
+    "crop": null,
+    "photo_mm": [
+      43.77,
+      35.0
+    ],
+    "pdf_pixels": [
+      519,
+      415
+    ],
+    "ppi": 301,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tech-p14-x246.jpg"
+  },
+  {
+    "id": "03.02",
+    "model": "03",
+    "asset": "tech-p11-x182",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 4,
+    "crop": null,
+    "photo_mm": [
+      45.24,
+      35.0
+    ],
+    "pdf_pixels": [
+      508,
+      393
+    ],
+    "ppi": 285,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tech-p11-x182.jpg"
+  },
+  {
+    "id": "03.03",
+    "model": "03",
+    "asset": "tech-p10-x173",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 4,
+    "crop": null,
+    "photo_mm": [
+      43.06,
+      35.0
+    ],
+    "pdf_pixels": [
+      678,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tech-p10-x173.jpg"
+  },
+  {
+    "id": "03.04",
+    "model": "03",
+    "asset": "tech-p11-x184",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 4,
+    "crop": null,
+    "photo_mm": [
+      32.0,
+      31.88
+    ],
+    "pdf_pixels": [
+      252,
+      251
+    ],
+    "ppi": 200,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tech-p11-x184.jpg"
+  },
+  {
+    "id": "03.05",
+    "model": "03",
+    "asset": "tech-p09-x167",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 4,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      32.83
+    ],
+    "pdf_pixels": [
+      535,
+      310
+    ],
+    "ppi": 240,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tech-p09-x167.jpg"
+  },
+  {
+    "id": "03.06",
+    "model": "03",
+    "asset": "tech-p09-x163",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 4,
+    "crop": null,
+    "photo_mm": [
+      44.32,
+      33.27
+    ],
+    "pdf_pixels": [
+      349,
+      262
+    ],
+    "ppi": 200,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tech-p09-x163.jpg"
+  },
+  {
+    "id": "03.07",
+    "model": "03",
+    "asset": "tech-p10-x173",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 4,
+    "crop": [
+      0.35,
+      0.12,
+      0.97,
+      0.9
+    ],
+    "photo_mm": [
+      34.16,
+      35.0
+    ],
+    "pdf_pixels": [
+      538,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tech-p10-x173.jpg"
+  },
+  {
+    "id": "03.08",
+    "model": "03",
+    "asset": "tech-p10-x173",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 4,
+    "crop": [
+      0.02,
+      0.12,
+      0.38,
+      0.95
+    ],
+    "photo_mm": [
+      18.63,
+      35.0
+    ],
+    "pdf_pixels": [
+      293,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tech-p10-x173.jpg"
+  },
+  {
+    "id": "03.09",
+    "model": "03",
+    "asset": "tech-p02-x22",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 4,
+    "crop": null,
+    "photo_mm": [
+      26.84,
+      35.0
+    ],
+    "pdf_pixels": [
+      306,
+      399
+    ],
+    "ppi": 290,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tech-p02-x22.jpg"
+  },
+  {
+    "id": "03.10",
+    "model": "03",
+    "asset": "tech-p03-x38",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 4,
+    "crop": null,
+    "photo_mm": [
+      37.21,
+      34.67
+    ],
+    "pdf_pixels": [
+      293,
+      273
+    ],
+    "ppi": 200,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tech-p03-x38.jpg"
+  },
+  {
+    "id": "03.11",
+    "model": "03",
+    "asset": "tech-p02-x28",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 5,
+    "crop": null,
+    "photo_mm": [
+      35.56,
+      34.42
+    ],
+    "pdf_pixels": [
+      280,
+      271
+    ],
+    "ppi": 200,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tech-p02-x28.jpg"
+  },
+  {
+    "id": "03.12",
+    "model": "03",
+    "asset": "tech-p02-x26",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 5,
+    "crop": null,
+    "photo_mm": [
+      33.98,
+      35.0
+    ],
+    "pdf_pixels": [
+      300,
+      309
+    ],
+    "ppi": 224,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tech-p02-x26.jpg"
+  },
+  {
+    "id": "03.13",
+    "model": "03",
+    "asset": "tech-p03-x51",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 5,
+    "crop": null,
+    "photo_mm": [
+      30.15,
+      35.0
+    ],
+    "pdf_pixels": [
+      311,
+      361
+    ],
+    "ppi": 262,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tech-p03-x51.jpg"
+  },
+  {
+    "id": "03.14",
+    "model": "03",
+    "asset": "tech-p03-x59",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 5,
+    "crop": null,
+    "photo_mm": [
+      30.8,
+      35.0
+    ],
+    "pdf_pixels": [
+      308,
+      350
+    ],
+    "ppi": 254,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tech-p03-x59.jpg"
+  },
+  {
+    "id": "03.15",
+    "model": "03",
+    "asset": "tech-p02-x18",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 5,
+    "crop": null,
+    "photo_mm": [
+      26.61,
+      35.0
+    ],
+    "pdf_pixels": [
+      330,
+      434
+    ],
+    "ppi": 315,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tech-p02-x18.jpg"
+  },
+  {
+    "id": "03.16",
+    "model": "03",
+    "asset": "tech-p01-x291",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 5,
+    "crop": null,
+    "photo_mm": [
+      41.66,
+      35.0
+    ],
+    "pdf_pixels": [
+      656,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tech-p01-x291.jpg"
+  },
+  {
+    "id": "03.17",
+    "model": "03",
+    "asset": "tech-p06-x110",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 5,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      34.3
+    ],
+    "pdf_pixels": [
+      527,
+      319
+    ],
+    "ppi": 236,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tech-p06-x110.jpg"
+  },
+  {
+    "id": "03.18",
+    "model": "03",
+    "asset": "tech-p07-x139",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 5,
+    "crop": null,
+    "photo_mm": [
+      54.42,
+      35.0
+    ],
+    "pdf_pixels": [
+      496,
+      319
+    ],
+    "ppi": 232,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tech-p07-x139.jpg"
+  },
+  {
+    "id": "03.19",
+    "model": "03",
+    "asset": "tech-p07-x147",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 5,
+    "crop": null,
+    "photo_mm": [
+      39.28,
+      35.0
+    ],
+    "pdf_pixels": [
+      358,
+      319
+    ],
+    "ppi": 232,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tech-p07-x147.jpg"
+  },
+  {
+    "id": "03.20",
+    "model": "03",
+    "asset": "tech-p08-x158",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 5,
+    "crop": null,
+    "photo_mm": [
+      39.73,
+      35.0
+    ],
+    "pdf_pixels": [
+      625,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tech-p08-x158.jpg"
+  },
+  {
+    "id": "04.01",
+    "model": "04",
+    "asset": "step-0674",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 6,
+    "crop": null,
+    "photo_mm": [
+      52.49,
+      35.0
+    ],
+    "pdf_pixels": [
+      826,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/step-0674.jpg"
+  },
+  {
+    "id": "04.02",
+    "model": "04",
+    "asset": "step-0718",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 6,
+    "crop": null,
+    "photo_mm": [
+      52.49,
+      35.0
+    ],
+    "pdf_pixels": [
+      826,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/step-0718.jpg"
+  },
+  {
+    "id": "04.03",
+    "model": "04",
+    "asset": "step-lid",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 6,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/step-lid.jpg"
+  },
+  {
+    "id": "04.04",
+    "model": "04",
+    "asset": "step-hook",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 6,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/step-hook.jpg"
+  },
+  {
+    "id": "04.05",
+    "model": "04",
+    "asset": "step-0700",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 6,
+    "crop": null,
+    "photo_mm": [
+      23.34,
+      35.0
+    ],
+    "pdf_pixels": [
+      367,
+      551
+    ],
+    "ppi": 399,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/step-0700.jpg"
+  },
+  {
+    "id": "04.06",
+    "model": "04",
+    "asset": "step-0706",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 6,
+    "crop": null,
+    "photo_mm": [
+      23.32,
+      35.0
+    ],
+    "pdf_pixels": [
+      367,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/step-0706.jpg"
+  },
+  {
+    "id": "04.07",
+    "model": "04",
+    "asset": "step-0695",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 6,
+    "crop": null,
+    "photo_mm": [
+      52.49,
+      35.0
+    ],
+    "pdf_pixels": [
+      826,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/step-0695.jpg"
+  },
+  {
+    "id": "04.08",
+    "model": "04",
+    "asset": "step-0734",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 6,
+    "crop": null,
+    "photo_mm": [
+      23.32,
+      35.0
+    ],
+    "pdf_pixels": [
+      367,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/step-0734.jpg"
+  },
+  {
+    "id": "04.09",
+    "model": "04",
+    "asset": "step-0752",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 6,
+    "crop": null,
+    "photo_mm": [
+      23.34,
+      35.0
+    ],
+    "pdf_pixels": [
+      367,
+      551
+    ],
+    "ppi": 399,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/step-0752.jpg"
+  },
+  {
+    "id": "04.10",
+    "model": "04",
+    "asset": "step-0767",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 7,
+    "crop": null,
+    "photo_mm": [
+      23.34,
+      35.0
+    ],
+    "pdf_pixels": [
+      367,
+      551
+    ],
+    "ppi": 399,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/step-0767.jpg"
+  },
+  {
+    "id": "04.11",
+    "model": "04",
+    "asset": "step-0791",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 7,
+    "crop": null,
+    "photo_mm": [
+      23.34,
+      35.0
+    ],
+    "pdf_pixels": [
+      367,
+      551
+    ],
+    "ppi": 399,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/step-0791.jpg"
+  },
+  {
+    "id": "04.12",
+    "model": "04",
+    "asset": "step-0845",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 7,
+    "crop": null,
+    "photo_mm": [
+      23.34,
+      35.0
+    ],
+    "pdf_pixels": [
+      367,
+      551
+    ],
+    "ppi": 399,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/step-0845.jpg"
+  },
+  {
+    "id": "04.13",
+    "model": "04",
+    "asset": "step-0903",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 7,
+    "crop": null,
+    "photo_mm": [
+      23.34,
+      35.0
+    ],
+    "pdf_pixels": [
+      367,
+      551
+    ],
+    "ppi": 399,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/step-0903.jpg"
+  },
+  {
+    "id": "04.14",
+    "model": "04",
+    "asset": "step-open",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 7,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.88
+    ],
+    "pdf_pixels": [
+      892,
+      502
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/step-open.jpg"
+  },
+  {
+    "id": "04.15",
+    "model": "04",
+    "asset": "step-0695",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 7,
+    "crop": [
+      0.4,
+      0.28,
+      0.96,
+      0.8
+    ],
+    "photo_mm": [
+      56.52,
+      35.0
+    ],
+    "pdf_pixels": [
+      890,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/step-0695.jpg"
+  },
+  {
+    "id": "04.16",
+    "model": "04",
+    "asset": "step-lid",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 7,
+    "crop": [
+      0.08,
+      0.22,
+      0.92,
+      0.87
+    ],
+    "photo_mm": [
+      45.23,
+      35.0
+    ],
+    "pdf_pixels": [
+      504,
+      390
+    ],
+    "ppi": 283,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/step-lid.jpg"
+  },
+  {
+    "id": "04.17",
+    "model": "04",
+    "asset": "step-hook",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 7,
+    "crop": [
+      0.2,
+      0.17,
+      0.92,
+      0.92
+    ],
+    "photo_mm": [
+      33.6,
+      35.0
+    ],
+    "pdf_pixels": [
+      432,
+      450
+    ],
+    "ppi": 327,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/step-hook.jpg"
+  },
+  {
+    "id": "04.18",
+    "model": "04",
+    "asset": "step-0718",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 7,
+    "crop": [
+      0.15,
+      0.42,
+      0.53,
+      0.88
+    ],
+    "photo_mm": [
+      43.38,
+      35.0
+    ],
+    "pdf_pixels": [
+      683,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/step-0718.jpg"
+  },
+  {
+    "id": "05.01",
+    "model": "05",
+    "asset": "fit-p02",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 8,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/fit-p02.jpg"
+  },
+  {
+    "id": "05.02",
+    "model": "05",
+    "asset": "fit-p00",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 8,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/fit-p00.jpg"
+  },
+  {
+    "id": "05.03",
+    "model": "05",
+    "asset": "fit-p03",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 8,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/fit-p03.jpg"
+  },
+  {
+    "id": "05.04",
+    "model": "05",
+    "asset": "fit-p04",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 8,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/fit-p04.jpg"
+  },
+  {
+    "id": "05.05",
+    "model": "05",
+    "asset": "fit-p06",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 8,
+    "crop": null,
+    "photo_mm": [
+      52.49,
+      35.0
+    ],
+    "pdf_pixels": [
+      826,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/fit-p06.jpg"
+  },
+  {
+    "id": "05.06",
+    "model": "05",
+    "asset": "fit-p07",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 8,
+    "crop": null,
+    "photo_mm": [
+      52.49,
+      35.0
+    ],
+    "pdf_pixels": [
+      826,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/fit-p07.jpg"
+  },
+  {
+    "id": "05.07",
+    "model": "05",
+    "asset": "fit-frame-02",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 8,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.87
+    ],
+    "pdf_pixels": [
+      892,
+      502
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/fit-frame-02.jpg"
+  },
+  {
+    "id": "05.08",
+    "model": "05",
+    "asset": "fit-frame-03",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 8,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.87
+    ],
+    "pdf_pixels": [
+      892,
+      502
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/fit-frame-03.jpg"
+  },
+  {
+    "id": "05.09",
+    "model": "05",
+    "asset": "fit-frame-05",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 8,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.87
+    ],
+    "pdf_pixels": [
+      892,
+      502
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/fit-frame-05.jpg"
+  },
+  {
+    "id": "05.10",
+    "model": "05",
+    "asset": "fit-frame-06",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 9,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.87
+    ],
+    "pdf_pixels": [
+      892,
+      502
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/fit-frame-06.jpg"
+  },
+  {
+    "id": "05.11",
+    "model": "05",
+    "asset": "fit-frame-07",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 9,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.87
+    ],
+    "pdf_pixels": [
+      892,
+      502
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/fit-frame-07.jpg"
+  },
+  {
+    "id": "05.12",
+    "model": "05",
+    "asset": "fit-frame-08",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 9,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.87
+    ],
+    "pdf_pixels": [
+      892,
+      502
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/fit-frame-08.jpg"
+  },
+  {
+    "id": "05.13",
+    "model": "05",
+    "asset": "fit-frame-09",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 9,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.87
+    ],
+    "pdf_pixels": [
+      892,
+      502
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/fit-frame-09.jpg"
+  },
+  {
+    "id": "05.14",
+    "model": "05",
+    "asset": "fit-frame-10",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 9,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.87
+    ],
+    "pdf_pixels": [
+      892,
+      502
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/fit-frame-10.jpg"
+  },
+  {
+    "id": "05.15",
+    "model": "05",
+    "asset": "fit-frame-11",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 9,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.87
+    ],
+    "pdf_pixels": [
+      892,
+      502
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/fit-frame-11.jpg"
+  },
+  {
+    "id": "05.16",
+    "model": "05",
+    "asset": "fit-frame-12",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 9,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.87
+    ],
+    "pdf_pixels": [
+      892,
+      502
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/fit-frame-12.jpg"
+  },
+  {
+    "id": "05.17",
+    "model": "05",
+    "asset": "fit-p05",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 9,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/fit-p05.jpg"
+  },
+  {
+    "id": "05.18",
+    "model": "05",
+    "asset": "fit-p06",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 9,
+    "crop": [
+      0.02,
+      0.05,
+      0.62,
+      0.74
+    ],
+    "photo_mm": [
+      45.64,
+      35.0
+    ],
+    "pdf_pixels": [
+      718,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/fit-p06.jpg"
+  },
+  {
+    "id": "06.01",
+    "model": "06",
+    "asset": "wall-3345",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 10,
+    "crop": null,
+    "photo_mm": [
+      46.67,
+      35.0
+    ],
+    "pdf_pixels": [
+      735,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/wall-3345.jpg"
+  },
+  {
+    "id": "06.02",
+    "model": "06",
+    "asset": "old-C04",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 10,
+    "crop": null,
+    "photo_mm": [
+      48.15,
+      35.0
+    ],
+    "pdf_pixels": [
+      758,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C04.jpg"
+  },
+  {
+    "id": "06.03",
+    "model": "06",
+    "asset": "wall-2322",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 10,
+    "crop": null,
+    "photo_mm": [
+      23.34,
+      35.0
+    ],
+    "pdf_pixels": [
+      367,
+      551
+    ],
+    "ppi": 399,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/wall-2322.jpg"
+  },
+  {
+    "id": "06.04",
+    "model": "06",
+    "asset": "wall-2323",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 10,
+    "crop": null,
+    "photo_mm": [
+      52.49,
+      35.0
+    ],
+    "pdf_pixels": [
+      826,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/wall-2323.jpg"
+  },
+  {
+    "id": "06.05",
+    "model": "06",
+    "asset": "old-C05",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 10,
+    "crop": null,
+    "photo_mm": [
+      52.5,
+      35.0
+    ],
+    "pdf_pixels": [
+      826,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C05.jpg"
+  },
+  {
+    "id": "06.06",
+    "model": "06",
+    "asset": "old-C06",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 10,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.87
+    ],
+    "pdf_pixels": [
+      892,
+      502
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C06.jpg"
+  },
+  {
+    "id": "06.07",
+    "model": "06",
+    "asset": "wall-3400",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 10,
+    "crop": null,
+    "photo_mm": [
+      25.46,
+      35.0
+    ],
+    "pdf_pixels": [
+      401,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/wall-3400.jpg"
+  },
+  {
+    "id": "06.08",
+    "model": "06",
+    "asset": "wall-3460",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 10,
+    "crop": null,
+    "photo_mm": [
+      23.34,
+      35.0
+    ],
+    "pdf_pixels": [
+      367,
+      551
+    ],
+    "ppi": 399,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/wall-3460.jpg"
+  },
+  {
+    "id": "06.09",
+    "model": "06",
+    "asset": "wall-3435",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 10,
+    "crop": null,
+    "photo_mm": [
+      52.49,
+      35.0
+    ],
+    "pdf_pixels": [
+      826,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/wall-3435.jpg"
+  },
+  {
+    "id": "06.10",
+    "model": "06",
+    "asset": "wall-3441",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 11,
+    "crop": null,
+    "photo_mm": [
+      52.49,
+      35.0
+    ],
+    "pdf_pixels": [
+      826,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/wall-3441.jpg"
+  },
+  {
+    "id": "06.11",
+    "model": "06",
+    "asset": "wall-3566",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 11,
+    "crop": null,
+    "photo_mm": [
+      52.49,
+      35.0
+    ],
+    "pdf_pixels": [
+      826,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/wall-3566.jpg"
+  },
+  {
+    "id": "06.12",
+    "model": "06",
+    "asset": "wall-3666",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 11,
+    "crop": null,
+    "photo_mm": [
+      52.43,
+      35.0
+    ],
+    "pdf_pixels": [
+      825,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/wall-3666.jpg"
+  },
+  {
+    "id": "06.13",
+    "model": "06",
+    "asset": "wall-3663",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 11,
+    "crop": null,
+    "photo_mm": [
+      23.32,
+      35.0
+    ],
+    "pdf_pixels": [
+      367,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/wall-3663.jpg"
+  },
+  {
+    "id": "06.14",
+    "model": "06",
+    "asset": "wall-3917",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 11,
+    "crop": null,
+    "photo_mm": [
+      52.49,
+      35.0
+    ],
+    "pdf_pixels": [
+      826,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/wall-3917.jpg"
+  },
+  {
+    "id": "06.15",
+    "model": "06",
+    "asset": "wall-3424",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 11,
+    "crop": [
+      0.28,
+      0.08,
+      0.88,
+      0.95
+    ],
+    "photo_mm": [
+      36.2,
+      35.0
+    ],
+    "pdf_pixels": [
+      570,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/wall-3424.jpg"
+  },
+  {
+    "id": "06.16",
+    "model": "06",
+    "asset": "wall-manual-p07",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 11,
+    "crop": null,
+    "photo_mm": [
+      24.49,
+      35.0
+    ],
+    "pdf_pixels": [
+      385,
+      551
+    ],
+    "ppi": 399,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/wall-manual-p07.png"
+  },
+  {
+    "id": "06.17",
+    "model": "06",
+    "asset": "wall-manual-p13",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 11,
+    "crop": null,
+    "photo_mm": [
+      24.49,
+      35.0
+    ],
+    "pdf_pixels": [
+      385,
+      551
+    ],
+    "ppi": 399,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/wall-manual-p13.png"
+  },
+  {
+    "id": "07.01",
+    "model": "07",
+    "asset": "tonal-p00",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 12,
+    "crop": null,
+    "photo_mm": [
+      41.77,
+      35.0
+    ],
+    "pdf_pixels": [
+      658,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tonal-p00.jpg"
+  },
+  {
+    "id": "07.02",
+    "model": "07",
+    "asset": "tonal-p06",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 12,
+    "crop": null,
+    "photo_mm": [
+      41.77,
+      35.0
+    ],
+    "pdf_pixels": [
+      658,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tonal-p06.jpg"
+  },
+  {
+    "id": "07.03",
+    "model": "07",
+    "asset": "tonal-extra-59",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 12,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      29.9
+    ],
+    "pdf_pixels": [
+      892,
+      471
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tonal-extra-59.jpg"
+  },
+  {
+    "id": "07.04",
+    "model": "07",
+    "asset": "tonal-p02",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 12,
+    "crop": null,
+    "photo_mm": [
+      41.77,
+      35.0
+    ],
+    "pdf_pixels": [
+      658,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tonal-p02.jpg"
+  },
+  {
+    "id": "07.05",
+    "model": "07",
+    "asset": "tonal-p03",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 12,
+    "crop": null,
+    "photo_mm": [
+      41.77,
+      35.0
+    ],
+    "pdf_pixels": [
+      658,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tonal-p03.jpg"
+  },
+  {
+    "id": "07.06",
+    "model": "07",
+    "asset": "tonal-p01",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 12,
+    "crop": null,
+    "photo_mm": [
+      41.77,
+      35.0
+    ],
+    "pdf_pixels": [
+      658,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tonal-p01.jpg"
+  },
+  {
+    "id": "07.07",
+    "model": "07",
+    "asset": "tonal-p04",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 12,
+    "crop": null,
+    "photo_mm": [
+      41.77,
+      35.0
+    ],
+    "pdf_pixels": [
+      658,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tonal-p04.jpg"
+  },
+  {
+    "id": "07.08",
+    "model": "07",
+    "asset": "tonal-p05",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 12,
+    "crop": null,
+    "photo_mm": [
+      53.11,
+      35.0
+    ],
+    "pdf_pixels": [
+      836,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tonal-p05.jpg"
+  },
+  {
+    "id": "07.09",
+    "model": "07",
+    "asset": "tonal-p03",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 12,
+    "crop": [
+      0.05,
+      0.05,
+      0.62,
+      0.8
+    ],
+    "photo_mm": [
+      31.73,
+      35.0
+    ],
+    "pdf_pixels": [
+      500,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tonal-p03.jpg"
+  },
+  {
+    "id": "07.10",
+    "model": "07",
+    "asset": "tonal-p00",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 12,
+    "crop": [
+      0.11,
+      0.04,
+      0.75,
+      0.45
+    ],
+    "photo_mm": [
+      56.67,
+      30.39
+    ],
+    "pdf_pixels": [
+      892,
+      478
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tonal-p00.jpg"
+  },
+  {
+    "id": "07.11",
+    "model": "07",
+    "asset": "tonal-p02",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 12,
+    "crop": [
+      0.22,
+      0.18,
+      0.79,
+      0.82
+    ],
+    "photo_mm": [
+      37.19,
+      35.0
+    ],
+    "pdf_pixels": [
+      586,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tonal-p02.jpg"
+  },
+  {
+    "id": "07.12",
+    "model": "07",
+    "asset": "tonal-p06",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 12,
+    "crop": null,
+    "photo_mm": [
+      41.77,
+      35.0
+    ],
+    "pdf_pixels": [
+      658,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/tonal-p06.jpg"
+  },
+  {
+    "id": "08.01",
+    "model": "08",
+    "asset": "cassina-01",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 13,
+    "crop": null,
+    "photo_mm": [
+      52.5,
+      35.0
+    ],
+    "pdf_pixels": [
+      826,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/cassina-01.jpg"
+  },
+  {
+    "id": "08.02",
+    "model": "08",
+    "asset": "cassina-02",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 13,
+    "crop": null,
+    "photo_mm": [
+      23.33,
+      35.0
+    ],
+    "pdf_pixels": [
+      367,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/cassina-02.jpg"
+  },
+  {
+    "id": "08.03",
+    "model": "08",
+    "asset": "cassina-04",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 13,
+    "crop": null,
+    "photo_mm": [
+      24.41,
+      35.0
+    ],
+    "pdf_pixels": [
+      384,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/cassina-04.jpg"
+  },
+  {
+    "id": "08.04",
+    "model": "08",
+    "asset": "cassina-05",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 13,
+    "crop": null,
+    "photo_mm": [
+      23.33,
+      35.0
+    ],
+    "pdf_pixels": [
+      367,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/cassina-05.jpg"
+  },
+  {
+    "id": "08.05",
+    "model": "08",
+    "asset": "cassina-06",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 13,
+    "crop": null,
+    "photo_mm": [
+      23.33,
+      35.0
+    ],
+    "pdf_pixels": [
+      367,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/cassina-06.jpg"
+  },
+  {
+    "id": "08.06",
+    "model": "08",
+    "asset": "cassina-07",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 13,
+    "crop": null,
+    "photo_mm": [
+      23.3,
+      35.0
+    ],
+    "pdf_pixels": [
+      367,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/cassina-07.jpg"
+  },
+  {
+    "id": "08.07",
+    "model": "08",
+    "asset": "cassina-08",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 13,
+    "crop": null,
+    "photo_mm": [
+      23.42,
+      35.0
+    ],
+    "pdf_pixels": [
+      369,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/cassina-08.jpg"
+  },
+  {
+    "id": "08.08",
+    "model": "08",
+    "asset": "cassina-03",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 13,
+    "crop": null,
+    "photo_mm": [
+      52.5,
+      35.0
+    ],
+    "pdf_pixels": [
+      826,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/cassina-03.jpg"
+  },
+  {
+    "id": "08.09",
+    "model": "08",
+    "asset": "cassina-00",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 13,
+    "crop": null,
+    "photo_mm": [
+      55.53,
+      35.0
+    ],
+    "pdf_pixels": [
+      874,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/cassina-00.jpg"
+  },
+  {
+    "id": "09.01",
+    "model": "09",
+    "asset": "sana-00",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 14,
+    "crop": null,
+    "photo_mm": [
+      46.67,
+      35.0
+    ],
+    "pdf_pixels": [
+      735,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/sana-00.jpg"
+  },
+  {
+    "id": "09.02",
+    "model": "09",
+    "asset": "sana-08",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 14,
+    "crop": null,
+    "photo_mm": [
+      46.67,
+      35.0
+    ],
+    "pdf_pixels": [
+      735,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/sana-08.jpg"
+  },
+  {
+    "id": "09.03",
+    "model": "09",
+    "asset": "sana-01",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 14,
+    "crop": null,
+    "photo_mm": [
+      46.67,
+      35.0
+    ],
+    "pdf_pixels": [
+      735,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/sana-01.jpg"
+  },
+  {
+    "id": "09.04",
+    "model": "09",
+    "asset": "sana-02",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 14,
+    "crop": null,
+    "photo_mm": [
+      46.67,
+      35.0
+    ],
+    "pdf_pixels": [
+      735,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/sana-02.jpg"
+  },
+  {
+    "id": "09.05",
+    "model": "09",
+    "asset": "sana-03",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 14,
+    "crop": null,
+    "photo_mm": [
+      46.67,
+      35.0
+    ],
+    "pdf_pixels": [
+      735,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/sana-03.jpg"
+  },
+  {
+    "id": "09.06",
+    "model": "09",
+    "asset": "sana-06",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 14,
+    "crop": null,
+    "photo_mm": [
+      26.25,
+      35.0
+    ],
+    "pdf_pixels": [
+      413,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/sana-06.jpg"
+  },
+  {
+    "id": "09.07",
+    "model": "09",
+    "asset": "sana-shop-07",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 14,
+    "crop": null,
+    "photo_mm": [
+      23.33,
+      35.0
+    ],
+    "pdf_pixels": [
+      367,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/sana-shop-07.jpg"
+  },
+  {
+    "id": "09.08",
+    "model": "09",
+    "asset": "sana-shop-08",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 14,
+    "crop": null,
+    "photo_mm": [
+      52.5,
+      35.0
+    ],
+    "pdf_pixels": [
+      826,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/sana-shop-08.jpg"
+  },
+  {
+    "id": "09.09",
+    "model": "09",
+    "asset": "sana-shop-05",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 14,
+    "crop": null,
+    "photo_mm": [
+      23.33,
+      35.0
+    ],
+    "pdf_pixels": [
+      367,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/sana-shop-05.jpg"
+  },
+  {
+    "id": "09.10",
+    "model": "09",
+    "asset": "sana-shop-11",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 15,
+    "crop": null,
+    "photo_mm": [
+      24.72,
+      35.0
+    ],
+    "pdf_pixels": [
+      389,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/sana-shop-11.jpg"
+  },
+  {
+    "id": "09.11",
+    "model": "09",
+    "asset": "sana-shop-01",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 15,
+    "crop": null,
+    "photo_mm": [
+      52.48,
+      35.0
+    ],
+    "pdf_pixels": [
+      826,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/sana-shop-01.jpg"
+  },
+  {
+    "id": "09.12",
+    "model": "09",
+    "asset": "sana-shop-02",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 15,
+    "crop": null,
+    "photo_mm": [
+      52.5,
+      35.0
+    ],
+    "pdf_pixels": [
+      826,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/sana-shop-02.jpg"
+  },
+  {
+    "id": "09.13",
+    "model": "09",
+    "asset": "sana-shop-04",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 15,
+    "crop": null,
+    "photo_mm": [
+      23.33,
+      35.0
+    ],
+    "pdf_pixels": [
+      367,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/sana-shop-04.jpg"
+  },
+  {
+    "id": "09.14",
+    "model": "09",
+    "asset": "sana-shop-00",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 15,
+    "crop": null,
+    "photo_mm": [
+      52.5,
+      35.0
+    ],
+    "pdf_pixels": [
+      826,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/sana-shop-00.jpg"
+  },
+  {
+    "id": "09.15",
+    "model": "09",
+    "asset": "sana-shop-09",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 15,
+    "crop": null,
+    "photo_mm": [
+      23.36,
+      35.0
+    ],
+    "pdf_pixels": [
+      368,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/sana-shop-09.jpg"
+  },
+  {
+    "id": "09.16",
+    "model": "09",
+    "asset": "sana-04",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 15,
+    "crop": null,
+    "photo_mm": [
+      26.25,
+      35.0
+    ],
+    "pdf_pixels": [
+      413,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/sana-04.jpg"
+  },
+  {
+    "id": "09.17",
+    "model": "09",
+    "asset": "sana-shop-10",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 15,
+    "crop": null,
+    "photo_mm": [
+      23.36,
+      35.0
+    ],
+    "pdf_pixels": [
+      368,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/sana-shop-10.jpg"
+  },
+  {
+    "id": "09.18",
+    "model": "09",
+    "asset": "sana-09",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 15,
+    "crop": null,
+    "photo_mm": [
+      46.67,
+      35.0
+    ],
+    "pdf_pixels": [
+      735,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/sana-09.jpg"
+  },
+  {
+    "id": "10.01",
+    "model": "10",
+    "asset": "old-C19",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 16,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.88
+    ],
+    "pdf_pixels": [
+      892,
+      502
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C19.jpg"
+  },
+  {
+    "id": "10.02",
+    "model": "10",
+    "asset": "old-C21",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 16,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.88
+    ],
+    "pdf_pixels": [
+      892,
+      502
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C21.jpg"
+  },
+  {
+    "id": "10.03",
+    "model": "10",
+    "asset": "old-C20",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 16,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.88
+    ],
+    "pdf_pixels": [
+      800,
+      450
+    ],
+    "ppi": 359,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C20.jpg"
+  },
+  {
+    "id": "10.04",
+    "model": "10",
+    "asset": "old-C19",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 16,
+    "crop": [
+      0,
+      0.04,
+      0.35,
+      0.98
+    ],
+    "photo_mm": [
+      23.17,
+      35.0
+    ],
+    "pdf_pixels": [
+      365,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C19.jpg"
+  },
+  {
+    "id": "10.05",
+    "model": "10",
+    "asset": "old-C19",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 16,
+    "crop": [
+      0.3,
+      0.1,
+      0.77,
+      0.96
+    ],
+    "photo_mm": [
+      33.98,
+      35.0
+    ],
+    "pdf_pixels": [
+      535,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C19.jpg"
+  },
+  {
+    "id": "10.06",
+    "model": "10",
+    "asset": "old-C21",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 16,
+    "crop": [
+      0.03,
+      0.1,
+      0.62,
+      0.98
+    ],
+    "photo_mm": [
+      41.72,
+      35.0
+    ],
+    "pdf_pixels": [
+      657,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C21.jpg"
+  },
+  {
+    "id": "11.01",
+    "model": "11",
+    "asset": "old-C22",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 17,
+    "crop": null,
+    "photo_mm": [
+      52.51,
+      35.0
+    ],
+    "pdf_pixels": [
+      827,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C22.jpg"
+  },
+  {
+    "id": "11.02",
+    "model": "11",
+    "asset": "old-C48",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 17,
+    "crop": null,
+    "photo_mm": [
+      52.53,
+      35.0
+    ],
+    "pdf_pixels": [
+      827,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C48.jpg"
+  },
+  {
+    "id": "11.03",
+    "model": "11",
+    "asset": "old-C47",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 17,
+    "crop": null,
+    "photo_mm": [
+      52.53,
+      35.0
+    ],
+    "pdf_pixels": [
+      827,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C47.jpg"
+  },
+  {
+    "id": "11.04",
+    "model": "11",
+    "asset": "old-C47",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 17,
+    "crop": [
+      0.18,
+      0.2,
+      0.87,
+      0.91
+    ],
+    "photo_mm": [
+      51.04,
+      35.0
+    ],
+    "pdf_pixels": [
+      804,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C47.jpg"
+  },
+  {
+    "id": "11.05",
+    "model": "11",
+    "asset": "old-C22",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 17,
+    "crop": [
+      0.15,
+      0.22,
+      0.73,
+      0.88
+    ],
+    "photo_mm": [
+      46.14,
+      35.0
+    ],
+    "pdf_pixels": [
+      726,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C22.jpg"
+  },
+  {
+    "id": "11.06",
+    "model": "11",
+    "asset": "old-C48",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 17,
+    "crop": [
+      0.07,
+      0.34,
+      0.95,
+      0.87
+    ],
+    "photo_mm": [
+      56.67,
+      22.74
+    ],
+    "pdf_pixels": [
+      892,
+      358
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C48.jpg"
+  },
+  {
+    "id": "12.01",
+    "model": "12",
+    "asset": "pent-p00",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 18,
+    "crop": null,
+    "photo_mm": [
+      52.43,
+      35.0
+    ],
+    "pdf_pixels": [
+      825,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/pent-p00.jpg"
+  },
+  {
+    "id": "12.02",
+    "model": "12",
+    "asset": "pent-p02",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 18,
+    "crop": null,
+    "photo_mm": [
+      49.48,
+      35.0
+    ],
+    "pdf_pixels": [
+      779,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/pent-p02.jpg"
+  },
+  {
+    "id": "12.03",
+    "model": "12",
+    "asset": "pent-p01",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 18,
+    "crop": null,
+    "photo_mm": [
+      52.43,
+      35.0
+    ],
+    "pdf_pixels": [
+      825,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/pent-p01.jpg"
+  },
+  {
+    "id": "12.04",
+    "model": "12",
+    "asset": "pent-frame-03",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 18,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.92
+    ],
+    "pdf_pixels": [
+      852,
+      480
+    ],
+    "ppi": 382,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/pent-frame-03.jpg"
+  },
+  {
+    "id": "12.05",
+    "model": "12",
+    "asset": "pent-frame-04",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 18,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.92
+    ],
+    "pdf_pixels": [
+      852,
+      480
+    ],
+    "ppi": 382,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/pent-frame-04.jpg"
+  },
+  {
+    "id": "12.06",
+    "model": "12",
+    "asset": "pent-frame-05",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 18,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.92
+    ],
+    "pdf_pixels": [
+      852,
+      480
+    ],
+    "ppi": 382,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/pent-frame-05.jpg"
+  },
+  {
+    "id": "12.07",
+    "model": "12",
+    "asset": "pent-frame-06",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 18,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.92
+    ],
+    "pdf_pixels": [
+      852,
+      480
+    ],
+    "ppi": 382,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/pent-frame-06.jpg"
+  },
+  {
+    "id": "12.08",
+    "model": "12",
+    "asset": "pent-frame-07",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 18,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.92
+    ],
+    "pdf_pixels": [
+      852,
+      480
+    ],
+    "ppi": 382,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/pent-frame-07.jpg"
+  },
+  {
+    "id": "12.09",
+    "model": "12",
+    "asset": "pent-frame-08",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 18,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.92
+    ],
+    "pdf_pixels": [
+      852,
+      480
+    ],
+    "ppi": 382,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/pent-frame-08.jpg"
+  },
+  {
+    "id": "12.10",
+    "model": "12",
+    "asset": "pent-frame-09",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 18,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.92
+    ],
+    "pdf_pixels": [
+      852,
+      480
+    ],
+    "ppi": 382,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/pent-frame-09.jpg"
+  },
+  {
+    "id": "12.11",
+    "model": "12",
+    "asset": "pent-frame-10",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 18,
+    "crop": null,
+    "photo_mm": [
+      56.67,
+      31.92
+    ],
+    "pdf_pixels": [
+      852,
+      480
+    ],
+    "ppi": 382,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/pent-frame-10.jpg"
+  },
+  {
+    "id": "12.12",
+    "model": "12",
+    "asset": "pent-p05",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 18,
+    "crop": null,
+    "photo_mm": [
+      52.74,
+      35.0
+    ],
+    "pdf_pixels": [
+      830,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/pent-p05.jpg"
+  },
+  {
+    "id": "13.01",
+    "model": "13",
+    "asset": "old-C23",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 19,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C23.jpg"
+  },
+  {
+    "id": "13.02",
+    "model": "13",
+    "asset": "old-C24",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 19,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C24.jpg"
+  },
+  {
+    "id": "13.03",
+    "model": "13",
+    "asset": "kettler-display",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 19,
+    "crop": null,
+    "photo_mm": [
+      35.0,
+      35.0
+    ],
+    "pdf_pixels": [
+      551,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/kettler-display.jpg"
+  },
+  {
+    "id": "13.04",
+    "model": "13",
+    "asset": "old-C23",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 19,
+    "crop": [
+      0.27,
+      0.26,
+      0.67,
+      0.7
+    ],
+    "photo_mm": [
+      31.82,
+      35.0
+    ],
+    "pdf_pixels": [
+      501,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C23.jpg"
+  },
+  {
+    "id": "13.05",
+    "model": "13",
+    "asset": "old-C23",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 19,
+    "crop": [
+      0.3,
+      0.48,
+      0.85,
+      0.86
+    ],
+    "photo_mm": [
+      50.66,
+      35.0
+    ],
+    "pdf_pixels": [
+      797,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C23.jpg"
+  },
+  {
+    "id": "13.06",
+    "model": "13",
+    "asset": "old-C24",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 19,
+    "crop": [
+      0.15,
+      0.62,
+      0.89,
+      0.97
+    ],
+    "photo_mm": [
+      56.67,
+      26.8
+    ],
+    "pdf_pixels": [
+      892,
+      422
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C24.jpg"
+  },
+  {
+    "id": "13.07",
+    "model": "13",
+    "asset": "kettler-display",
+    "pdf": "Analog_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 19,
+    "crop": [
+      0.24,
+      0.2,
+      0.78,
+      0.75
+    ],
+    "photo_mm": [
+      34.36,
+      35.0
+    ],
+    "pdf_pixels": [
+      541,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/kettler-display.jpg"
+  },
+  {
+    "id": "14.01",
+    "model": "14",
+    "asset": "kilo-03",
+    "pdf": "Inventory_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 1,
+    "crop": null,
+    "photo_mm": [
+      26.27,
+      35.0
+    ],
+    "pdf_pixels": [
+      414,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/kilo-03.jpg"
+  },
+  {
+    "id": "14.02",
+    "model": "14",
+    "asset": "kilo-04",
+    "pdf": "Inventory_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 1,
+    "crop": null,
+    "photo_mm": [
+      26.25,
+      35.0
+    ],
+    "pdf_pixels": [
+      413,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/kilo-04.jpg"
+  },
+  {
+    "id": "14.03",
+    "model": "14",
+    "asset": "kilo-05",
+    "pdf": "Inventory_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 1,
+    "crop": null,
+    "photo_mm": [
+      26.27,
+      35.0
+    ],
+    "pdf_pixels": [
+      414,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/kilo-05.jpg"
+  },
+  {
+    "id": "14.04",
+    "model": "14",
+    "asset": "kilo-06",
+    "pdf": "Inventory_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 1,
+    "crop": null,
+    "photo_mm": [
+      33.02,
+      35.0
+    ],
+    "pdf_pixels": [
+      520,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/kilo-06.jpg"
+  },
+  {
+    "id": "14.05",
+    "model": "14",
+    "asset": "kilo-07",
+    "pdf": "Inventory_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 1,
+    "crop": null,
+    "photo_mm": [
+      26.27,
+      35.0
+    ],
+    "pdf_pixels": [
+      414,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/kilo-07.jpg"
+  },
+  {
+    "id": "14.06",
+    "model": "14",
+    "asset": "kilo-08",
+    "pdf": "Inventory_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 1,
+    "crop": null,
+    "photo_mm": [
+      26.27,
+      35.0
+    ],
+    "pdf_pixels": [
+      414,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/kilo-08.jpg"
+  },
+  {
+    "id": "14.07",
+    "model": "14",
+    "asset": "kilo-13",
+    "pdf": "Inventory_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 1,
+    "crop": null,
+    "photo_mm": [
+      46.63,
+      35.0
+    ],
+    "pdf_pixels": [
+      734,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/kilo-13.jpg"
+  },
+  {
+    "id": "14.08",
+    "model": "14",
+    "asset": "kilo-14",
+    "pdf": "Inventory_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 1,
+    "crop": null,
+    "photo_mm": [
+      26.27,
+      35.0
+    ],
+    "pdf_pixels": [
+      414,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/kilo-14.jpg"
+  },
+  {
+    "id": "15.01",
+    "model": "15",
+    "asset": "old-C28",
+    "pdf": "Inventory_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 2,
+    "crop": null,
+    "photo_mm": [
+      52.53,
+      35.0
+    ],
+    "pdf_pixels": [
+      827,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C28.jpg"
+  },
+  {
+    "id": "15.02",
+    "model": "15",
+    "asset": "old-C29",
+    "pdf": "Inventory_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 2,
+    "crop": null,
+    "photo_mm": [
+      46.67,
+      35.0
+    ],
+    "pdf_pixels": [
+      735,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C29.jpg"
+  },
+  {
+    "id": "15.03",
+    "model": "15",
+    "asset": "old-C30",
+    "pdf": "Inventory_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 2,
+    "crop": null,
+    "photo_mm": [
+      46.67,
+      35.0
+    ],
+    "pdf_pixels": [
+      735,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C30.jpg"
+  },
+  {
+    "id": "15.04",
+    "model": "15",
+    "asset": "old-C28",
+    "pdf": "Inventory_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 2,
+    "crop": [
+      0.15,
+      0.38,
+      0.84,
+      0.72
+    ],
+    "photo_mm": [
+      56.67,
+      18.61
+    ],
+    "pdf_pixels": [
+      676,
+      222
+    ],
+    "ppi": 303,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C28.jpg"
+  },
+  {
+    "id": "15.05",
+    "model": "15",
+    "asset": "old-C29",
+    "pdf": "Inventory_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 2,
+    "crop": [
+      0.28,
+      0.2,
+      0.72,
+      0.82
+    ],
+    "photo_mm": [
+      33.12,
+      35.0
+    ],
+    "pdf_pixels": [
+      521,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C29.jpg"
+  },
+  {
+    "id": "15.06",
+    "model": "15",
+    "asset": "old-C30",
+    "pdf": "Inventory_detail_cards_A4_2026-11-21_v2.pdf",
+    "page": 2,
+    "crop": [
+      0.14,
+      0.22,
+      0.89,
+      0.85
+    ],
+    "photo_mm": [
+      55.56,
+      35.0
+    ],
+    "pdf_pixels": [
+      875,
+      551
+    ],
+    "ppi": 400,
+    "source_path": "research/analogs/detail-v2-2026-11-21/assets/old-C30.jpg"
+  }
+]

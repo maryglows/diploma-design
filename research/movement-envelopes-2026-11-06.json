@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-06",
+  "units": "mm",
+  "status": "All exercise rectangles and allowance are assistant assumptions, not measured minima",
+  "measured": [],
+  "allowance_mm": 300,
+  "radius_definition": "Half diagonal of INNER control rectangle, measured from rectangle centre; not limb reach or safety radius",
+  "cases": [
+    {"id":"M1","title":"Присед / гантель у груди","group":"Молодой взрослый","source":"S1","L":900,"W":900,"pose":"squat","check":"Выход таза назад, колени и гантель; передача веса с хранения."},
+    {"id":"M2","title":"Наклон / тяга гантелей","group":"Молодой взрослый","source":"S2, S3","L":1200,"W":900,"pose":"hinge","check":"Край головы, таза и гантелей. Наклон и тяга - разные фазы."},
+    {"id":"M3","title":"Опора на полу / боковая планка","group":"Молодой взрослый","source":"S3, S10","L":2000,"W":1000,"pose":"floor","check":"Кисти, колени, стопы, поворот на бок и подъём с пола."},
+    {"id":"M4","title":"Рука и нога на четвереньках","group":"Детский пример","source":"S7","L":1600,"W":900,"pose":"reach","check":"Вытянутая кисть и противоположная стопа за точками опоры."},
+    {"id":"M5","title":"Отталкивание от стены","group":"Детский / старший пример","source":"S4, S7","L":1100,"W":800,"pose":"wall","wall_side":"L_min","check":"Расстояние до стены, сгибание рук и отход назад; стена сохраняется."},
+    {"id":"M6","title":"Посадка и вставание","group":"Старший пользователь","source":"S4","L":1100,"W":900,"pose":"chair","check":"Стул входит в контур. Наклон вперёд, стопы, руки, подход."},
+    {"id":"M7","title":"Тяга ленты / поворот сидя","group":"Старший пример","source":"S5; NIA в прежнем листе","L":1400,"W":1000,"pose":"seated","check":"Стул, локти, стопы и ход ленты. Эти фазы не одновременны."},
+    {"id":"M8","title":"Боковой шаг: короткий участок","group":"Старший пользователь","source":"S6","L":2000,"W":800,"pose":"walk","check":"Путь центра тела плюс крайние стопы; длина маршрута меняется."},
+    {"id":"M9","title":"Ребёнок и взрослый с мячом","group":"Семья / двое","source":"Сценарий D-016; S7 - действие","L":2000,"W":1200,"pose":"ball","check":"Два тела и мяч. Потерянный мяч и подбор выходят за этот контур."}
+  ],
+  "height_example": {"body_height_existing_reference":1760,"hand_top_assumed":2250,"object_extra_assumed":100,"ceiling_assumed":2600},
+  "concepts": [
+    {"id":"A","name":"Скамья-хранилище","L":1200,"W":450,"H":450,"drawer_extension_assumed":350},
+    {"id":"B","name":"Два независимых модуля","module_count":2,"L":500,"W":450,"H":450},
+    {"id":"C","name":"Вертикальное хранение","L":700,"W":400,"H":1100}
+  ],
+  "primary_numeric_example": {"source":"https://www.concept2.com/ergs/strengtherg","assembled_space_m":[1.55,0.66,1.22],"use_space_m":[2.03,0.97,1.22],"transfer_to_project":false}
+}

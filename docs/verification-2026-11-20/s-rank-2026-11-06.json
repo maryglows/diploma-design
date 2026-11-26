@@ -1,0 +1,158 @@
+{
+  "status": "pass",
+  "checks": {
+    "raw_transcript_unchanged": {
+      "passed": true,
+      "detail": null
+    },
+    "nine_actions_three_each": {
+      "passed": true,
+      "detail": {
+        "Дети": 3,
+        "Молодые взрослые": 3,
+        "Пожилые": 3
+      }
+    },
+    "each_action_has_function_inventory_analogue_exclusion_source": {
+      "passed": true,
+      "detail": null
+    },
+    "four_functions_covered": {
+      "passed": true,
+      "detail": null
+    },
+    "two_reference_directions": {
+      "passed": true,
+      "detail": null
+    },
+    "editable_matrix_nine_rows": {
+      "passed": true,
+      "detail": null
+    },
+    "Functions_and_reference_sketches_A3_2026-11-06.pdf_pages_and_size": {
+      "passed": true,
+      "detail": {
+        "pages": 8,
+        "mm": [
+          420,
+          297
+        ]
+      }
+    },
+    "Functions_and_reference_sketches_A3_2026-11-06.pdf_native_text": {
+      "passed": true,
+      "detail": null
+    },
+    "Functions_and_reference_sketches_A3_2026-11-06.pdf_text_inside_page": {
+      "passed": true,
+      "detail": []
+    },
+    "Reference_sketches_explained_A4_2026-11-06.pdf_pages_and_size": {
+      "passed": true,
+      "detail": {
+        "pages": 9,
+        "mm": [
+          210,
+          297
+        ]
+      }
+    },
+    "Reference_sketches_explained_A4_2026-11-06.pdf_native_text": {
+      "passed": true,
+      "detail": null
+    },
+    "Reference_sketches_explained_A4_2026-11-06.pdf_text_inside_page": {
+      "passed": true,
+      "detail": []
+    },
+    "font_has_every_visible_character": {
+      "passed": true,
+      "detail": []
+    },
+    "no_replacement_glyphs": {
+      "passed": true,
+      "detail": null
+    },
+    "all_nine_primary_source_links_in_pdf": {
+      "passed": true,
+      "detail": 9
+    },
+    "editable_svg_1": {
+      "passed": true,
+      "detail": null
+    },
+    "editable_svg_2": {
+      "passed": true,
+      "detail": null
+    },
+    "editable_svg_3": {
+      "passed": true,
+      "detail": null
+    },
+    "editable_svg_4": {
+      "passed": true,
+      "detail": null
+    },
+    "editable_svg_5": {
+      "passed": true,
+      "detail": null
+    },
+    "editable_svg_6": {
+      "passed": true,
+      "detail": null
+    },
+    "editable_svg_7": {
+      "passed": true,
+      "detail": null
+    },
+    "editable_svg_8": {
+      "passed": true,
+      "detail": null
+    },
+    "svg_images_embedded_with_correct_media_type": {
+      "passed": true,
+      "detail": {
+        "images": 27,
+        "errors": []
+      }
+    },
+    "html_eight_self_contained_a3_pages": {
+      "passed": true,
+      "detail": null
+    },
+    "a3_all_pages_rendered_and_match_inspected_draft": {
+      "passed": true,
+      "detail": null
+    },
+    "a4_all_pages_rendered_and_match_inspected_draft": {
+      "passed": true,
+      "detail": null
+    },
+    "author_reference_copies_unchanged": {
+      "passed": true,
+      "detail": null
+    },
+    "research_result_links_exist": {
+      "passed": true,
+      "detail": []
+    },
+    "all_context_mentions_actual_current_artifacts": {
+      "passed": true,
+      "detail": null
+    }
+  },
+  "files": [
+    {
+      "path": "outputs\\current\\Functions_and_reference_sketches_A3_2026-11-06.pdf",
+      "bytes": 14442029,
+      "sha256": "e66b0dc4ea100dd0c7a505e4d3de9aff8d172ddf14de012004298b63b52f975e"
+    },
+    {
+      "path": "outputs\\current\\Reference_sketches_explained_A4_2026-11-06.pdf",
+      "bytes": 115758,
+      "sha256": "4a7c469a25d662ca1788d3fa4e29cc1eb7b861c1d807cfe008ea9ab442a94284"
+    }
+  ],
+  "visual_review": "A3 pages 1-8 and A4 pages 1-9 reviewed; final renders identical to inspected drafts; contacts checked. Illustrations remain concept hypotheses.",
+  "problems": []
+}

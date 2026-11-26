@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-21",
+  "original_files_unchanged": [
+    "Analogi_trenazhera_2026-11-20.xlsx",
+    "Trainer_photos_A4.pdf",
+    "Trainer_photos_A4.pptx"
+  ],
+  "pdf_page_counts": {
+    "Trainer_photos_A4.pdf": 4,
+    "Analogs_remaining_photos_A4_2026-11-21.pdf": 12,
+    "Analogs_ALL_photos_A4_2026-11-21.pdf": 16
+  },
+  "all_pages_A4": true,
+  "combined_renders_match_sources": true,
+  "pdf_source_links": 94,
+  "new_placements": 47,
+  "new_unique_images": 45,
+  "min_effective_ppi": 150,
+  "all_downloaded_original_hashes_match": true,
+  "visual_review": "All 12 final rendered pages and 4 original pages reviewed; no clipping or overlap observed"
+}

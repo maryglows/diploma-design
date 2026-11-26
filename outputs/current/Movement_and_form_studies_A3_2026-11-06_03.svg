@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 420 297">
+<rect width="420" height="297" fill="white"/>
+<text x="12" y="19" font-family="Arial" font-size="8.113888888888887" font-weight="700" fill="#203540" text-anchor="start">Высота, радиусы и доступ к инвентарю</text>
+<text x="12" y="29.0" font-family="Arial" font-size="3.8805555555555555" font-weight="400" fill="#203540" text-anchor="start">Проверяю объём движения по всем фазам. Рост стоя не определяет верхнюю точку гантели; площадь коврика не описывает подход, разворот и уборку.</text>
+<text x="12" y="52" font-family="Arial" font-size="4.2333333333333325" font-weight="700" fill="#087F80" text-anchor="start">Поднятые руки / вид спереди</text>
+<text x="146" y="52" font-family="Arial" font-size="4.2333333333333325" font-weight="700" fill="#087F80" text-anchor="start">Сесть → наклониться → встать</text>
+<text x="280" y="52" font-family="Arial" font-size="4.2333333333333325" font-weight="700" fill="#087F80" text-anchor="start">Пол → крайнее вытягивание</text>
+<line x1="18" y1="166" x2="131" y2="166" fill="none" stroke="#667780" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="18" y1="62.0" x2="131" y2="62.0" fill="none" stroke="#667780" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="65" cy="100.0" r="4" fill="#FFFFFF" stroke="#203540" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="65,104.0 65,130.0 57.8,166 53.0,166" fill="none" stroke="#203540" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="65,130.0 72.2,166 77.0,166" fill="none" stroke="#203540" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="65,108.0 53.0,94.0 57.0,76.0" fill="none" stroke="#087F80" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="55.0" y="72.0" width="4" height="4" fill="#FFF2D9" stroke="#AC7127" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="65,108.0 77.0,94.0 73.0,76.0" fill="none" stroke="#087F80" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="71.0" y="72.0" width="4" height="4" fill="#FFF2D9" stroke="#AC7127" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="85" y1="72.0" x2="105" y2="72.0" fill="none" stroke="#667780" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="85" y1="166" x2="105" y2="166" fill="none" stroke="#667780" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="105" y1="72.0" x2="105" y2="166" fill="none" stroke="#667780" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="105,166 105.42,165.05 104.58,165.05" fill="#667780" stroke="#667780" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="105,72.0 104.58,72.95 105.42,72.95" fill="#667780" stroke="#667780" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="103.8" y="119.0" font-family="Arial" font-size="3.175" font-weight="400" fill="#667780" text-anchor="middle" transform="rotate(-90,103.8,119.0)">2350 У: кисть + предмет</text>
+<text x="18" y="59.0" font-family="Arial" font-size="3.175" font-weight="400" fill="#667780" text-anchor="start">2600 У: потолок / 1:25</text>
+<text x="12" y="180.0" font-family="Arial" font-size="3.5277777777777777" font-weight="400" fill="#203540" text-anchor="start">2250 У: кисть + 100 У: предмет. Просвет 250 Р. Рост 1760 - масштаб</text>
+<text x="12" y="184.3" font-family="Arial" font-size="3.5277777777777777" font-weight="400" fill="#203540" text-anchor="start">прежнего листа; высота кисти задана отдельно.</text>
+<line x1="150" y1="166" x2="267" y2="166" fill="none" stroke="#667780" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="174,132.0 174,148.0 194.0,148.0" fill="none" stroke="#667780" stroke-width="0.65" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="174" y1="148.0" x2="174" y2="166" fill="none" stroke="#667780" stroke-width="0.65" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="194.0" y1="148.0" x2="194.0" y2="166" fill="none" stroke="#667780" stroke-width="0.65" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="176.0,148.0 176.0,128.40800000000002 176.0,124.61600000000001" fill="none" stroke="#BBC8CC" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.4 1"/>
+<polyline points="176.0,148.0 191.8,148.0 191.8,163.472 200.016,166.0" fill="none" stroke="#BBC8CC" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.4 1"/>
+<polyline points="176.0,128.40800000000002 184.216,135.36 181.056,129.672" fill="none" stroke="#BBC8CC" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.4 1"/>
+<circle cx="176.0" cy="120.824" r="3.5392" fill="#FFFFFF" stroke="#BBC8CC" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="198.0,132.504 198.0,113.54400000000001 198.0,109.752" fill="none" stroke="#087F80" stroke-width="0.85" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="198.0,132.504 198.948,148.936 198.0,163.472 206.216,166.0" fill="none" stroke="#087F80" stroke-width="0.85" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="198.0,113.54400000000001 198.948,125.55199999999999 199.58,137.56" fill="none" stroke="#087F80" stroke-width="0.85" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="198.0" cy="106.3392" r="3.5392" fill="#FFFFFF" stroke="#087F80" stroke-width="0.85" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="186" y1="134" x2="204" y2="118" fill="none" stroke="#AE4775" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 1"/>
+<polygon points="204,118 203.01092833494195,118.31723373304129 203.5689939595591,118.94505756073556" fill="#AE4775" stroke="#AE4775" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="155" y1="166" x2="155" y2="173" fill="none" stroke="#667780" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="254" y1="166" x2="254" y2="173" fill="none" stroke="#667780" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="155" y1="173" x2="254" y2="173" fill="none" stroke="#667780" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="254,173 253.05,172.58 253.05,173.42" fill="#667780" stroke="#667780" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="155,173 155.95,173.42 155.95,172.58" fill="#667780" stroke="#667780" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="178.44878540039062" y="169.4" width="52.102429199218754" height="4.7" fill="#FFFFFF" stroke="none" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="204.5" y="172.4" font-family="Arial" font-size="3.175" font-weight="400" fill="#667780" text-anchor="middle">Стул + наклон + стопы: измерить</text>
+<text x="146" y="180.0" font-family="Arial" font-size="3.5277777777777777" font-weight="400" fill="#203540" text-anchor="start">Высота сиденья 450 У - только макет. Нужны стопы на полу и подходящий</text>
+<text x="146" y="184.3" font-family="Arial" font-size="3.5277777777777777" font-weight="400" fill="#203540" text-anchor="start">захват; подлокотники могут менять доступ рук [S4, S5].</text>
+<line x1="284" y1="166" x2="402" y2="166" fill="none" stroke="#667780" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="329,138 347,138 359,139" fill="none" stroke="#203540" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="365" cy="137" r="3" fill="#FFFFFF" stroke="#203540" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="347,138 351,158 351,166" fill="none" stroke="#BBC8CC" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 1"/>
+<polyline points="329,138 329,166 317,166" fill="none" stroke="#203540" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="329,138 311,136 299,136" fill="none" stroke="#087F80" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="347,138 363,136 377,136" fill="none" stroke="#087F80" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="351" cy="166" r="1.2" fill="#087F80" stroke="#087F80" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="329" cy="166" r="1.2" fill="#087F80" stroke="#087F80" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="299" y1="133" x2="299" y2="118" fill="none" stroke="#667780" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="377" y1="133" x2="377" y2="118" fill="none" stroke="#667780" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="299" y1="118" x2="377" y2="118" fill="none" stroke="#667780" stroke-width="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="377,118 376.05,117.58 376.05,118.42" fill="#667780" stroke="#667780" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="299,118 299.95,118.42 299.95,117.58" fill="#667780" stroke="#667780" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="315.7911865234375" y="114.4" width="44.417626953125" height="4.7" fill="#FFFFFF" stroke="none" stroke-width="0.35" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="338.0" y="117.4" font-family="Arial" font-size="3.175" font-weight="400" fill="#667780" text-anchor="middle">Рука + корпус + нога: обмер</text>
+<text x="280" y="180.0" font-family="Arial" font-size="3.5277777777777777" font-weight="400" fill="#203540" text-anchor="start">Детский пример [S7]. Поза схематичная, без размерного масштаба.</text>
+<text x="280" y="184.3" font-family="Arial" font-size="3.5277777777777777" font-weight="400" fill="#203540" text-anchor="start">Вытягивание выходит за исходные точки опоры. Нужны переходы и смена</text>
+<text x="280" y="188.6" font-family="Arial" font-size="3.5277777777777777" font-weight="400" fill="#203540" text-anchor="start">стороны.</text>
+<line x1="12" y1="205" x2="408" y2="205" fill="none" stroke="#E9EDEF" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="12" y="217" font-family="Arial" font-size="4.2333333333333325" font-weight="700" fill="#087F80" text-anchor="start">Реальный радиус движения</text>
+<text x="12" y="225.0" font-family="Arial" font-size="3.563055555555555" font-weight="400" fill="#203540" text-anchor="start">Фиксирую исходную точку x0, y0. По видео отмечаю крайние точки</text>
+<text x="12" y="229.4" font-family="Arial" font-size="3.563055555555555" font-weight="400" fill="#203540" text-anchor="start">тела/предмета: r = max √[(xi - x0)² + (yi - y0)²]. Для шагов центр</text>
+<text x="12" y="233.8" font-family="Arial" font-size="3.563055555555555" font-weight="400" fill="#203540" text-anchor="start">перемещается; нужен весь путь.</text>
+<text x="146" y="217" font-family="Arial" font-size="4.2333333333333325" font-weight="700" fill="#087F80" text-anchor="start">Полный цикл использования</text>
+<text x="146" y="225.0" font-family="Arial" font-size="3.563055555555555" font-weight="400" fill="#203540" text-anchor="start">Достать → перенести → подготовить → выполнить → сменить</text>
+<text x="146" y="229.4" font-family="Arial" font-size="3.563055555555555" font-weight="400" fill="#203540" text-anchor="start">пользователя → убрать. Проверить раскрытие хранения и место рядом с</text>
+<text x="146" y="233.8" font-family="Arial" font-size="3.563055555555555" font-weight="400" fill="#203540" text-anchor="start">человеком; при необходимости - место помощника.</text>
+<text x="280" y="217" font-family="Arial" font-size="4.2333333333333325" font-weight="700" fill="#087F80" text-anchor="start">Проверенный пример [S9]</text>
+<text x="280" y="225.0" font-family="Arial" font-size="3.563055555555555" font-weight="400" fill="#203540" text-anchor="start">Concept2: собранное место 155 × 66 см = 1,02 м²; с местом</text>
+<text x="280" y="229.4" font-family="Arial" font-size="3.563055555555555" font-weight="400" fill="#203540" text-anchor="start">использования 203 × 97 см = 1,97 м² Р. Отдельные габариты полезны как</text>
+<text x="280" y="233.8" font-family="Arial" font-size="3.563055555555555" font-weight="400" fill="#203540" text-anchor="start">метод; на наш проект числа не переносятся.</text>
+<text x="12" y="286" font-family="Arial" font-size="3.2102777777777773" font-weight="400" fill="#667780" text-anchor="start">На следующем обмере: линейка в кадре, виды сверху/сбоку, все фазы и инвентарь. Высоты и углы не восстанавливать только по росту [S8].</text>
+</svg>

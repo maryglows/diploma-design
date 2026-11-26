@@ -1,0 +1,47 @@
+{
+  "status": "passed",
+  "models_main": 13,
+  "models_inventory": 2,
+  "cards": 196,
+  "unique_source_assets": 163,
+  "min_embedded_ppi": 200,
+  "pdfs": {
+    "Analog_detail_cards_A4_2026-11-21_v2.pdf": {
+      "pages": 19,
+      "sha256": "5e2153631fd1144bc5f6313e13fc9ede7fa79780c57cb0057ceb115a5629b51c",
+      "source_links": 182,
+      "paper": "A4"
+    },
+    "Inventory_detail_cards_A4_2026-11-21_v2.pdf": {
+      "pages": 2,
+      "sha256": "f1ce1021253cc665d714efad1cbaa34268ae43218689414f7955f62215732224",
+      "source_links": 14,
+      "paper": "A4"
+    },
+    "Analog_analysis_cues_A4_2026-11-21_v2.pdf": {
+      "pages": 2,
+      "sha256": "5d36aa38223836987e755f8135bf71ecad6363fbc313282811deab9109826cac",
+      "source_links": 0,
+      "paper": "A4"
+    }
+  },
+  "individual_pdfs_match_bundle": true,
+  "source_hashes_verified": true,
+  "source_documents": {
+    "Technogym_Bench_catalogue.pdf": {
+      "pages": 16,
+      "sha256": "8c53c9ca0f4506ecc3fdc28835d36c8255b8cd2a17ac15193930d24bc92dd6b8"
+    },
+    "NOHRD_Wall_Compact_manual.pdf": {
+      "pages": 28,
+      "sha256": "4a54f591f0cfe8e639df6367a9c253541d00a937ab401fb6e992f77cb6cc6508"
+    }
+  },
+  "preserved_originals": {
+    "outputs/current/Trainer_photos_A4.pdf": "7bff48d39b0661ae88daec20be3977a49ba68639c4102ae61ef8f3fa6eb7587d",
+    "outputs/current/Trainer_photos_A4.pptx": "9c7b340f4a57edfbb7ea4bc3c5317f67b48788b7e4cee921b3af44d2a54e82d5",
+    "outputs/current/Analogi_trenazhera_2026-11-20.xlsx": "d73ceb1afee97b64776c47069d10d16a5ef74bc1ff4e3b73bf3850e950bf59a2"
+  },
+  "preserved_against_commit": "20b672707130dc5ee6c8a2e2d79b9fae9924a405",
+  "visual_review": "All 19 main pages, 2 inventory pages and 2 guide pages reviewed; corrected Solo and Technogym captions rechecked."
+}

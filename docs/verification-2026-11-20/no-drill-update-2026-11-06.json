@@ -1,0 +1,103 @@
+{
+  "status": "pass",
+  "checks": {
+    "preserved_Functions_and_reference_sketches_A3_2026-11-06.pdf": {
+      "passed": true,
+      "detail": null
+    },
+    "preserved_Reference_sketches_explained_A4_2026-11-06.pdf": {
+      "passed": true,
+      "detail": null
+    },
+    "preserved_reference-update-2026-11-06.json": {
+      "passed": true,
+      "detail": null
+    },
+    "preserved_reference-wall.png": {
+      "passed": true,
+      "detail": null
+    },
+    "raw_transcript_unchanged": {
+      "passed": true,
+      "detail": null
+    },
+    "Functions_and_reference_sketches_A3_2026-11-06_v2.pdf_paper_and_page_count": {
+      "passed": true,
+      "detail": null
+    },
+    "Functions_and_reference_sketches_A3_2026-11-06_v2.pdf_native_text": {
+      "passed": true,
+      "detail": null
+    },
+    "Functions_and_reference_sketches_A3_2026-11-06_v2.pdf_text_bounds": {
+      "passed": true,
+      "detail": []
+    },
+    "Reference_sketches_explained_A4_2026-11-06_v2.pdf_paper_and_page_count": {
+      "passed": true,
+      "detail": null
+    },
+    "Reference_sketches_explained_A4_2026-11-06_v2.pdf_native_text": {
+      "passed": true,
+      "detail": null
+    },
+    "Reference_sketches_explained_A4_2026-11-06_v2.pdf_text_bounds": {
+      "passed": true,
+      "detail": []
+    },
+    "all_visible_glyphs_supported": {
+      "passed": true,
+      "detail": []
+    },
+    "no_pending_drilling_question_in_current_pdfs": {
+      "passed": true,
+      "detail": null
+    },
+    "explicit_no_drill_and_floor_base": {
+      "passed": true,
+      "detail": null
+    },
+    "no_drill_model_and_asset": {
+      "passed": true,
+      "detail": null
+    },
+    "eight_editable_svgs_with_embedded_images": {
+      "passed": true,
+      "detail": {
+        "embedded_images": 27,
+        "bad_pages": []
+      }
+    },
+    "html_eight_embedded_pages": {
+      "passed": true,
+      "detail": null
+    },
+    "a3_final_renders_equal_inspected_draft": {
+      "passed": true,
+      "detail": []
+    },
+    "a4_final_renders_equal_inspected_draft": {
+      "passed": true,
+      "detail": []
+    },
+    "current_context_uses_v2_and_answer": {
+      "passed": true,
+      "detail": null
+    }
+  },
+  "problems": [],
+  "files": [
+    {
+      "path": "outputs\\current\\Functions_and_reference_sketches_A3_2026-11-06_v2.pdf",
+      "sha256": "fc696c1db1e92df5e26f665b2e34428685ba3442798aede1a1ecf75da754b24f",
+      "bytes": 14668867
+    },
+    {
+      "path": "outputs\\current\\Reference_sketches_explained_A4_2026-11-06_v2.pdf",
+      "sha256": "6f79d6aa3f185afd8a8fd2747d67937189306b710e2d60582a1a6403d53266ad",
+      "bytes": 116130
+    }
+  ],
+  "visual_review": "Final contacts reviewed; changed A3 6/8 and A4 2/7 inspected at full page; illustration floor support inspected in all four panels.",
+  "source_media_type_correction": "A PNG source has a .jpg suffix; media types now follow actual image format. PDF unchanged."
+}

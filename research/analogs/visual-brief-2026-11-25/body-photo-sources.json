@@ -1,0 +1,56 @@
+[
+  {
+    "path": "research/assets/age-groups/child-6.jpg",
+    "page": "https://www.nhft.nhs.uk/childrens-ot/",
+    "label": "Рука и противоположная нога",
+    "saved_sha256": "83233647788be66d75b511dd5ce2cbdecf53d17e509745571032979587b0b08f"
+  },
+  {
+    "path": "research/assets/age-groups/child-5.jpg",
+    "page": "https://www.nhft.nhs.uk/childrens-ot/",
+    "label": "Дотянуться до мягкого предмета",
+    "saved_sha256": "4fb4105c9376b832d025a36cce565c8db55afaead766215e2dcee385b3868fb1"
+  },
+  {
+    "path": "research/assets/age-groups/child-4.jpg",
+    "page": "https://www.nhft.nhs.uk/childrens-ot/",
+    "label": "Поднять таз лёжа",
+    "saved_sha256": "afc50e249a3cb57d710e88d3cf6da7f45da7ebf34d2bfcffbf3f1786ffc68791"
+  },
+  {
+    "path": "research/assets/age-groups/youth-pushup.jpg",
+    "page": "https://www.acefitness.org/resources/everyone/blog/5241/4-upper-body-movements-for-beginners/",
+    "label": "Отжаться с коленей",
+    "saved_sha256": "2daac3f832478c4ef000d0d681e38faa19c0256d63c9958f5ddcf24f0287c186"
+  },
+  {
+    "path": "research/assets/age-groups/youth-goblet-lowered.jpg",
+    "page": "https://www.acefitness.org/resources/everyone/exercise-library/362/goblet-squat/",
+    "label": "Присесть с гантелью",
+    "saved_sha256": "b36fe4f19ce904123636b48765a6a2870df13e57f76be07e272846ca0e36a59c"
+  },
+  {
+    "path": "research/assets/age-groups/youth-rdl-dumbbells.jpg",
+    "page": "https://www.kathrynalexander.com/resources/exercise-library-1/legs-and-glutes/",
+    "label": "Наклониться с гантелями",
+    "saved_sha256": "9e402686eb2adf8ba395412a4b6cce842537b2a5bfbd73bd59eb0b07f3c9a090"
+  },
+  {
+    "path": "research/assets/board-1/nhs-sit-to-stand.jpg",
+    "page": "https://www.nhs.uk/live-well/exercise/strength-exercises/",
+    "label": "Сесть и встать",
+    "saved_sha256": "9269cd7010d83e1d8f6f0d053d037ed152fe41c565237a5a2be8234be34102e5"
+  },
+  {
+    "path": "research/assets/age-groups/older-calf.jpg",
+    "page": "https://www.nhs.uk/live-well/exercise/strength-exercises/",
+    "label": "Поднять пятки у опоры",
+    "saved_sha256": "49260456a0cae09118f7934bc65a45f82928359e4f64efeb6c895b7d14fe4235"
+  },
+  {
+    "path": "research/assets/age-groups/older-twist.jpg",
+    "page": "https://www.nhs.uk/live-well/exercise/sitting-exercises/",
+    "label": "Повернуть корпус сидя",
+    "saved_sha256": "b5fdb7064d1cf58aaa3aa73d2768d6159aa254c45a6a477648d8517f524e08b0"
+  }
+]

@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 420 297">
+<rect width="420" height="297" fill="white"/>
+<text x="12" y="19" font-family="Arial" font-size="8.113888888888887" font-weight="700" fill="#203540" text-anchor="start">Рабочие контуры девяти действий</text>
+<text x="12" y="29.0" font-family="Arial" font-size="3.8805555555555555" font-weight="400" fill="#203540" text-anchor="start">Тёмный контур - пробный охват тела, опор и инвентаря (У). Бирюзовый - пробная зона с добавкой d = 300 мм. У стены добавка только с трёх сторон.</text>
+<text x="12" y="43" font-family="Arial" font-size="3.4572222222222226" font-weight="400" fill="#AE4775" text-anchor="start">Радиус r - от центра тёмного прямоугольника до угла: r = ½√(L² + W²). Это расчёт габарита, не радиус руки или безопасности.</text>
+<rect x="12" y="51" width="128" height="74" fill="#F9FAFA" stroke="#E9EDEF" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="15" y="57" font-family="Arial" font-size="3.6336111111111116" font-weight="700" fill="#087F80" text-anchor="start">M1  Присед / гантель у груди</text>
+<text x="15" y="63" font-family="Arial" font-size="2.9633333333333334" font-weight="400" fill="#667780" text-anchor="start">Молодой взрослый / S1</text>
+<rect x="15" y="72" width="25.0" height="25.0" fill="#E4F3F0" stroke="#087F80" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.1 0.8"/>
+<rect x="20.0" y="77.0" width="15.0" height="15.0" fill="none" stroke="#203540" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="26.5" y1="84.5" x2="28.5" y2="84.5" fill="none" stroke="#AE4775" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="27.5" y1="83.5" x2="27.5" y2="85.5" fill="none" stroke="#AE4775" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="27.5" y1="84.5" x2="35.0" y2="77.0" fill="none" stroke="#AE4775" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="35.0,77.0 34.031263709774436,77.37476659402887 34.62523340597113,77.96873629022556" fill="#AE4775" stroke="#AE4775" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="27.5" cy="84.5" r="2" fill="#FFFFFF" stroke="#667780" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="27.5" y1="79.5" x2="27.5" y2="89.5" fill="none" stroke="#667780" stroke-width="0.65" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="15" y="102.0" font-family="Arial" font-size="2.9280555555555554" font-weight="400" fill="#667780" text-anchor="start">План 1:60 / У</text>
+<text x="68" y="75" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">Контур: 900 × 900 У</text>
+<text x="68" y="82" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">С добавкой: 1500 × 1500 У</text>
+<text x="68" y="89" font-family="Arial" font-size="3.3866666666666663" font-weight="700" fill="#AE4775" text-anchor="start">S = 2,25 м²; r = 0,64 м Р</text>
+<text x="68" y="97.0" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">Выход таза назад, колени и гантель;</text>
+<text x="68" y="100.9" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">передача веса с хранения.</text>
+<rect x="146" y="51" width="128" height="74" fill="#F9FAFA" stroke="#E9EDEF" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="149" y="57" font-family="Arial" font-size="3.6336111111111116" font-weight="700" fill="#087F80" text-anchor="start">M2  Наклон / тяга гантелей</text>
+<text x="149" y="63" font-family="Arial" font-size="2.9633333333333334" font-weight="400" fill="#667780" text-anchor="start">Молодой взрослый / S2, S3</text>
+<rect x="149" y="72" width="30.0" height="25.0" fill="#E4F3F0" stroke="#087F80" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.1 0.8"/>
+<rect x="154.0" y="77.0" width="20.0" height="15.0" fill="none" stroke="#203540" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="163.0" y1="84.5" x2="165.0" y2="84.5" fill="none" stroke="#AE4775" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="164.0" y1="83.5" x2="164.0" y2="85.5" fill="none" stroke="#AE4775" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="164.0" y1="84.5" x2="174.0" y2="77.0" fill="none" stroke="#AE4775" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="174.0,77.0 172.988,77.234 173.49200000000002,77.90599999999999" fill="#AE4775" stroke="#AE4775" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="164.0" cy="84.5" r="2" fill="#FFFFFF" stroke="#667780" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="164.0" y1="79.5" x2="164.0" y2="89.5" fill="none" stroke="#667780" stroke-width="0.65" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="149" y="102.0" font-family="Arial" font-size="2.9280555555555554" font-weight="400" fill="#667780" text-anchor="start">План 1:60 / У</text>
+<text x="202" y="75" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">Контур: 1200 × 900 У</text>
+<text x="202" y="82" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">С добавкой: 1800 × 1500 У</text>
+<text x="202" y="89" font-family="Arial" font-size="3.3866666666666663" font-weight="700" fill="#AE4775" text-anchor="start">S = 2,70 м²; r = 0,75 м Р</text>
+<text x="202" y="97.0" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">Край головы, таза и гантелей. Наклон и тяга</text>
+<text x="202" y="100.9" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">- разные фазы.</text>
+<rect x="280" y="51" width="128" height="74" fill="#F9FAFA" stroke="#E9EDEF" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="283" y="57" font-family="Arial" font-size="3.6336111111111116" font-weight="700" fill="#087F80" text-anchor="start">M3  Опора на полу / боковая планка</text>
+<text x="283" y="63" font-family="Arial" font-size="2.9633333333333334" font-weight="400" fill="#667780" text-anchor="start">Молодой взрослый / S3, S10</text>
+<rect x="283" y="72" width="43.333333333333336" height="26.666666666666668" fill="#E4F3F0" stroke="#087F80" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.1 0.8"/>
+<rect x="288.0" y="77.0" width="33.333333333333336" height="16.666666666666668" fill="none" stroke="#203540" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="303.6666666666667" y1="85.33333333333333" x2="305.6666666666667" y2="85.33333333333333" fill="none" stroke="#AE4775" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="304.6666666666667" y1="84.33333333333333" x2="304.6666666666667" y2="86.33333333333333" fill="none" stroke="#AE4775" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="304.6666666666667" y1="85.33333333333333" x2="321.3333333333333" y2="77.0" fill="none" stroke="#AE4775" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="321.3333333333333,77.0 320.2957977917734,77.049193495505 320.6714572119934,77.80051233594492" fill="#AE4775" stroke="#AE4775" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="294.6666666666667" y1="85.33333333333333" x2="312.3333333333333" y2="85.33333333333333" fill="none" stroke="#667780" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="314.6666666666667" cy="85.33333333333333" r="1.5" fill="#FFFFFF" stroke="#667780" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="301.3333333333333,85.33333333333333 296.3333333333333,90.33333333333333 291.3333333333333,90.33333333333333" fill="none" stroke="#667780" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="309.6666666666667,85.33333333333333 312.0,80.33333333333333 319.6666666666667,80.33333333333333" fill="none" stroke="#667780" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="283" y="103.66666666666667" font-family="Arial" font-size="2.9280555555555554" font-weight="400" fill="#667780" text-anchor="start">План 1:60 / У</text>
+<text x="336" y="75" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">Контур: 2000 × 1000 У</text>
+<text x="336" y="82" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">С добавкой: 2600 × 1600 У</text>
+<text x="336" y="89" font-family="Arial" font-size="3.3866666666666663" font-weight="700" fill="#AE4775" text-anchor="start">S = 4,16 м²; r = 1,12 м Р</text>
+<text x="336" y="97.0" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">Кисти, колени, стопы, поворот на бок и</text>
+<text x="336" y="100.9" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">подъём с пола.</text>
+<rect x="12" y="129" width="128" height="74" fill="#F9FAFA" stroke="#E9EDEF" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="15" y="135" font-family="Arial" font-size="3.6336111111111116" font-weight="700" fill="#087F80" text-anchor="start">M4  Рука и нога на четвереньках</text>
+<text x="15" y="141" font-family="Arial" font-size="2.9633333333333334" font-weight="400" fill="#667780" text-anchor="start">Детский пример / S7</text>
+<rect x="15" y="150" width="36.66666666666667" height="25.0" fill="#E4F3F0" stroke="#087F80" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.1 0.8"/>
+<rect x="20.0" y="155.0" width="26.666666666666668" height="15.0" fill="none" stroke="#203540" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="32.333333333333336" y1="162.5" x2="34.333333333333336" y2="162.5" fill="none" stroke="#AE4775" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="33.333333333333336" y1="161.5" x2="33.333333333333336" y2="163.5" fill="none" stroke="#AE4775" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="33.333333333333336" y1="162.5" x2="46.66666666666667" y2="155.0" fill="none" stroke="#AE4775" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="46.66666666666667,155.0 45.63276018575268,155.09968645205862 46.04457962704402,155.83180990324325" fill="#AE4775" stroke="#AE4775" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="25.333333333333336" y1="162.5" x2="39.46666666666667" y2="162.5" fill="none" stroke="#667780" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="41.333333333333336" cy="162.5" r="1.5" fill="#FFFFFF" stroke="#667780" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="30.666666666666668,162.5 26.666666666666668,167.0 22.666666666666668,167.0" fill="none" stroke="#667780" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="37.333333333333336,162.5 39.2,158.0 45.33333333333333,158.0" fill="none" stroke="#667780" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="15" y="180.0" font-family="Arial" font-size="2.9280555555555554" font-weight="400" fill="#667780" text-anchor="start">План 1:60 / У</text>
+<text x="68" y="153" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">Контур: 1600 × 900 У</text>
+<text x="68" y="160" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">С добавкой: 2200 × 1500 У</text>
+<text x="68" y="167" font-family="Arial" font-size="3.3866666666666663" font-weight="700" fill="#AE4775" text-anchor="start">S = 3,30 м²; r = 0,92 м Р</text>
+<text x="68" y="175.0" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">Вытянутая кисть и противоположная стопа</text>
+<text x="68" y="178.9" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">за точками опоры.</text>
+<rect x="146" y="129" width="128" height="74" fill="#F9FAFA" stroke="#E9EDEF" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="149" y="135" font-family="Arial" font-size="3.6336111111111116" font-weight="700" fill="#087F80" text-anchor="start">M5  Отталкивание от стены</text>
+<text x="149" y="141" font-family="Arial" font-size="2.9633333333333334" font-weight="400" fill="#667780" text-anchor="start">Детский / старший пример / S4, S7</text>
+<rect x="149" y="150" width="23.333333333333332" height="23.333333333333336" fill="#E4F3F0" stroke="#087F80" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.1 0.8"/>
+<line x1="149" y1="150" x2="149" y2="173.33333333333334" fill="none" stroke="#203540" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="149" y="155.0" width="18.333333333333332" height="13.333333333333334" fill="none" stroke="#203540" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="157.16666666666666" y1="161.66666666666666" x2="159.16666666666666" y2="161.66666666666666" fill="none" stroke="#AE4775" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="158.16666666666666" y1="160.66666666666666" x2="158.16666666666666" y2="162.66666666666666" fill="none" stroke="#AE4775" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="158.16666666666666" y1="161.66666666666666" x2="167.33333333333334" y2="155.0" fill="none" stroke="#AE4775" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="167.33333333333334,155.0 166.3180019402218,155.21909395738396 166.81206616626883,155.89843226819863" fill="#AE4775" stroke="#AE4775" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="158.16666666666666" cy="161.66666666666666" r="2" fill="#FFFFFF" stroke="#667780" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="158.16666666666666" y1="156.66666666666666" x2="158.16666666666666" y2="166.66666666666666" fill="none" stroke="#667780" stroke-width="0.65" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="149" y="178.33333333333334" font-family="Arial" font-size="2.9280555555555554" font-weight="400" fill="#667780" text-anchor="start">План 1:60 / У</text>
+<text x="202" y="153" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">Контур: 1100 × 800 У</text>
+<text x="202" y="160" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">С добавкой: 1400 × 1400 У</text>
+<text x="202" y="167" font-family="Arial" font-size="3.3866666666666663" font-weight="700" fill="#AE4775" text-anchor="start">S = 1,96 м²; r = 0,68 м Р</text>
+<text x="202" y="175.0" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">Расстояние до стены, сгибание рук и отход</text>
+<text x="202" y="178.9" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">назад; стена сохраняется.</text>
+<rect x="280" y="129" width="128" height="74" fill="#F9FAFA" stroke="#E9EDEF" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="283" y="135" font-family="Arial" font-size="3.6336111111111116" font-weight="700" fill="#087F80" text-anchor="start">M6  Посадка и вставание</text>
+<text x="283" y="141" font-family="Arial" font-size="2.9633333333333334" font-weight="400" fill="#667780" text-anchor="start">Старший пользователь / S4</text>
+<rect x="283" y="150" width="28.333333333333332" height="25.0" fill="#E4F3F0" stroke="#087F80" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.1 0.8"/>
+<rect x="288.0" y="155.0" width="18.333333333333332" height="15.0" fill="none" stroke="#203540" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="296.1666666666667" y1="162.5" x2="298.1666666666667" y2="162.5" fill="none" stroke="#AE4775" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="297.1666666666667" y1="161.5" x2="297.1666666666667" y2="163.5" fill="none" stroke="#AE4775" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="297.1666666666667" y1="162.5" x2="306.3333333333333" y2="155.0" fill="none" stroke="#AE4775" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="306.3333333333333,155.0 305.3321140271821,155.276513835079 305.86403377099816,155.9266379664098" fill="#AE4775" stroke="#AE4775" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="290.0" y="159.5" width="5" height="6" fill="#E9EDEF" stroke="#667780" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="297.1666666666667" cy="162.5" r="2" fill="#FFFFFF" stroke="#667780" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="297.1666666666667" y1="157.5" x2="297.1666666666667" y2="167.5" fill="none" stroke="#667780" stroke-width="0.65" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="283" y="180.0" font-family="Arial" font-size="2.9280555555555554" font-weight="400" fill="#667780" text-anchor="start">План 1:60 / У</text>
+<text x="336" y="153" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">Контур: 1100 × 900 У</text>
+<text x="336" y="160" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">С добавкой: 1700 × 1500 У</text>
+<text x="336" y="167" font-family="Arial" font-size="3.3866666666666663" font-weight="700" fill="#AE4775" text-anchor="start">S = 2,55 м²; r = 0,71 м Р</text>
+<text x="336" y="175.0" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">Стул входит в контур. Наклон вперёд,</text>
+<text x="336" y="178.9" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">стопы, руки, подход.</text>
+<rect x="12" y="207" width="128" height="74" fill="#F9FAFA" stroke="#E9EDEF" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="15" y="213" font-family="Arial" font-size="3.6336111111111116" font-weight="700" fill="#087F80" text-anchor="start">M7  Тяга ленты / поворот сидя</text>
+<text x="15" y="219" font-family="Arial" font-size="2.9633333333333334" font-weight="400" fill="#667780" text-anchor="start">Старший пример / S5; NIA в прежнем листе</text>
+<rect x="15" y="228" width="33.33333333333333" height="26.666666666666668" fill="#E4F3F0" stroke="#087F80" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.1 0.8"/>
+<rect x="20.0" y="233.0" width="23.333333333333332" height="16.666666666666668" fill="none" stroke="#203540" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="30.666666666666664" y1="241.33333333333334" x2="32.666666666666664" y2="241.33333333333334" fill="none" stroke="#AE4775" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="31.666666666666664" y1="240.33333333333334" x2="31.666666666666664" y2="242.33333333333334" fill="none" stroke="#AE4775" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="31.666666666666664" y1="241.33333333333334" x2="43.33333333333333" y2="233.0" fill="none" stroke="#AE4775" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="43.33333333333333,233.0 42.316166494324904,233.21040822612633 42.80440657704895,233.89394434193997" fill="#AE4775" stroke="#AE4775" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="22.0" y="238.33333333333334" width="5" height="6" fill="#E9EDEF" stroke="#667780" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="31.666666666666664" cy="241.33333333333334" r="2" fill="#FFFFFF" stroke="#667780" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="31.666666666666664" y1="236.33333333333334" x2="31.666666666666664" y2="246.33333333333334" fill="none" stroke="#667780" stroke-width="0.65" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="15" y="259.66666666666663" font-family="Arial" font-size="2.9280555555555554" font-weight="400" fill="#667780" text-anchor="start">План 1:60 / У</text>
+<text x="68" y="231" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">Контур: 1400 × 1000 У</text>
+<text x="68" y="238" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">С добавкой: 2000 × 1600 У</text>
+<text x="68" y="245" font-family="Arial" font-size="3.3866666666666663" font-weight="700" fill="#AE4775" text-anchor="start">S = 3,20 м²; r = 0,86 м Р</text>
+<text x="68" y="253.0" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">Стул, локти, стопы и ход ленты. Эти фазы</text>
+<text x="68" y="256.9" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">не одновременны.</text>
+<rect x="146" y="207" width="128" height="74" fill="#F9FAFA" stroke="#E9EDEF" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="149" y="213" font-family="Arial" font-size="3.6336111111111116" font-weight="700" fill="#087F80" text-anchor="start">M8  Боковой шаг: короткий участок</text>
+<text x="149" y="219" font-family="Arial" font-size="2.9633333333333334" font-weight="400" fill="#667780" text-anchor="start">Старший пользователь / S6</text>
+<rect x="149" y="228" width="43.333333333333336" height="23.333333333333336" fill="#E4F3F0" stroke="#087F80" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.1 0.8"/>
+<rect x="154.0" y="233.0" width="33.333333333333336" height="13.333333333333334" fill="none" stroke="#203540" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="169.66666666666666" y1="239.66666666666666" x2="171.66666666666666" y2="239.66666666666666" fill="none" stroke="#AE4775" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="170.66666666666666" y1="238.66666666666666" x2="170.66666666666666" y2="240.66666666666666" fill="none" stroke="#AE4775" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="170.66666666666666" y1="239.66666666666666" x2="187.33333333333334" y2="233.0" fill="none" stroke="#AE4775" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="187.33333333333334,233.0 186.2952963929236,232.96286093236458 186.60726456106107,233.7427813527082" fill="#AE4775" stroke="#AE4775" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="160.66666666666666" cy="239.66666666666666" r="1.3" fill="none" stroke="#667780" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="169.0" cy="239.66666666666666" r="1.3" fill="none" stroke="#667780" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="177.33333333333334" cy="239.66666666666666" r="1.3" fill="none" stroke="#667780" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="159.0" y1="243.66666666666666" x2="182.33333333333334" y2="243.66666666666666" fill="none" stroke="#087F80" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="182.33333333333334,243.66666666666666 181.38333333333335,243.24666666666667 181.38333333333335,244.08666666666664" fill="#087F80" stroke="#087F80" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="149" y="256.33333333333337" font-family="Arial" font-size="2.9280555555555554" font-weight="400" fill="#667780" text-anchor="start">План 1:60 / У</text>
+<text x="202" y="231" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">Контур: 2000 × 800 У</text>
+<text x="202" y="238" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">С добавкой: 2600 × 1400 У</text>
+<text x="202" y="245" font-family="Arial" font-size="3.3866666666666663" font-weight="700" fill="#AE4775" text-anchor="start">S = 3,64 м²; r = 1,08 м Р</text>
+<text x="202" y="253.0" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">Путь центра тела плюс крайние стопы;</text>
+<text x="202" y="256.9" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">длина маршрута меняется.</text>
+<rect x="280" y="207" width="128" height="74" fill="#F9FAFA" stroke="#E9EDEF" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="283" y="213" font-family="Arial" font-size="3.6336111111111116" font-weight="700" fill="#087F80" text-anchor="start">M9  Ребёнок и взрослый с мячом</text>
+<text x="283" y="219" font-family="Arial" font-size="2.9633333333333334" font-weight="400" fill="#667780" text-anchor="start">Семья / двое / Сценарий D-016; S7 - действие</text>
+<rect x="283" y="228" width="43.333333333333336" height="30.0" fill="#E4F3F0" stroke="#087F80" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.1 0.8"/>
+<rect x="288.0" y="233.0" width="33.333333333333336" height="20.0" fill="none" stroke="#203540" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="303.6666666666667" y1="243.0" x2="305.6666666666667" y2="243.0" fill="none" stroke="#AE4775" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="304.6666666666667" y1="242.0" x2="304.6666666666667" y2="244.0" fill="none" stroke="#AE4775" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="304.6666666666667" y1="243.0" x2="321.3333333333333" y2="233.0" fill="none" stroke="#AE4775" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="321.3333333333333,233.0 320.30262683662687,233.12862393885686 320.73480327118597,233.8489179964554" fill="#AE4775" stroke="#AE4775" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="295.3333333333333" cy="243.0" r="2" fill="#FFFFFF" stroke="#667780" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="314.0" cy="243.0" r="2" fill="#FFFFFF" stroke="#667780" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="304.6666666666667" cy="243.0" r="1.4" fill="#FFF2D9" stroke="#AC7127" stroke-width="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="299.6666666666667" y1="243.0" x2="309.6666666666667" y2="243.0" fill="none" stroke="#AC7127" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="309.6666666666667,243.0 308.7166666666667,242.58 308.7166666666667,243.42" fill="#AC7127" stroke="#AC7127" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="299.6666666666667,243.0 300.6166666666667,243.42 300.6166666666667,242.58" fill="#AC7127" stroke="#AC7127" stroke-width="0.1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="283" y="263.0" font-family="Arial" font-size="2.9280555555555554" font-weight="400" fill="#667780" text-anchor="start">План 1:60 / У</text>
+<text x="336" y="231" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">Контур: 2000 × 1200 У</text>
+<text x="336" y="238" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">С добавкой: 2600 × 1800 У</text>
+<text x="336" y="245" font-family="Arial" font-size="3.3866666666666663" font-weight="700" fill="#AE4775" text-anchor="start">S = 4,68 м²; r = 1,17 м Р</text>
+<text x="336" y="253.0" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">Два тела и мяч. Потерянный мяч и подбор</text>
+<text x="336" y="256.9" font-family="Arial" font-size="3.2455555555555553" font-weight="400" fill="#203540" text-anchor="start">выходят за этот контур.</text>
+<text x="12" y="288.0" font-family="Arial" font-size="3.175" font-weight="400" fill="#203540" text-anchor="start">Все размеры контуров и d выбраны для пробной раскладки. Они не получены обмером и не являются нормами. Масштаб верен только при печати А3 / 100%.</text>
+</svg>

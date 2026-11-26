@@ -1,0 +1,8 @@
+{
+  "date": "2026-10-30",
+  "tool": "built-in image_gen",
+  "mode": "edit",
+  "source": "research/assets/scenarios-2026-10-30/03_family.png",
+  "output": "research/assets/scenarios-2026-10-30/03_family_v2.png",
+  "prompt": "Use case: precise-object-edit. Edit the attached six-frame family storyboard. Change ONLY the teal yoga mat in the TOP MIDDLE frame (the frame where the child unrolls the mat beside the chair). The current mat looks like two stacked mats. Correct it to exactly ONE continuous partly rolled yoga mat: one rolled cylinder under the girl's hands at the forward edge, connected directly to ONE flat layer extending BACKWARDS beneath her knees. The floor IN FRONT of the rolled cylinder must be bare light wood/room rug, with NO additional flat teal rectangle underneath or in front of the cylinder. The mat has thin normal yoga-mat thickness, not a double base or two pads. Keep her hands naturally touching the single roll, her knees on the one unrolled portion. Keep the same teal color. Preserve EVERYTHING ELSE: all people, faces, anatomy, furniture, colors, every other frame, all six panel positions, image dimensions/aspect ratio, borders, all blank white caption bands. Do not add text or symbols. This is a strictly localized repair, not a redesign."
+}
